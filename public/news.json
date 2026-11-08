@@ -1,26 +1,26 @@
 {
-  "updated_at": "08 Nov 2026, 19:43 UTC",
-  "total_count": 54,
+  "updated_at": "08 Nov 2026, 23:13 UTC",
+  "total_count": 72,
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$75,799",
-      "change": 0.14
+      "price": "$74,997",
+      "change": -0.87
     },
     {
       "symbol": "ETH/USD",
-      "price": "$2,230",
-      "change": -0.1
+      "price": "$2,150",
+      "change": -3.6
     },
     {
       "symbol": "SOL/USD",
-      "price": "$89.44",
-      "change": -0.08
+      "price": "$87.30",
+      "change": -2.14
     },
     {
       "symbol": "BNB/USD",
-      "price": "$696",
-      "change": 0.1
+      "price": "$687",
+      "change": -1.0
     },
     {
       "symbol": "S&P 500",
@@ -58,7 +58,7 @@
     },
     {
       "title": "Democratic Presidential Nominee 2028",
-      "probability": "11%"
+      "probability": "10%"
     },
     {
       "title": "Putin out as President of Russia by...?",
@@ -66,6 +66,423 @@
     }
   ],
   "articles": [
+    {
+      "id": "7a07f89afb907483ff3de0af95da2f7d",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$BNB"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFZQSXFQX3d5a1p3WkE4RHI2cmFLNUdqNmMtcEhqcUlITkg4SzhkNVVBQWNXckNXbTFYa3JJMXdHeERZanJ4T1hCMW9rS0NzMnIzRmJSdWxoaFZHMXoxa1JnV1BoQWpENl9pNFd1ckUwODBiT25VRmpGOGM3Z2ROMzFES1IyMERrQlRtaUdNX2NiREthb0ZQMHk4NGRCM1lXYnZBSF9ybGhtVW5nSzhlbE5Jemg1Umc?oc=5",
+      "en": {
+        "title": "BINANCE HACK CLOUDS SINGAPORE CRYPTO PUSH FOR TOKENIZED STOCKS",
+        "summary": "Binance hack clouds Singapore crypto push for tokenized stocks. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Binance hack clouds Singapore crypto push for tokenized stocks",
+        "summary": "Binance hack clouds Singapore crypto push for tokenized stocks. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "29877c982ee1c61cda77540bea28cc43",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$BNB"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMkNoY3F5MTJKZV9yNy1UOUN1SHd1b1R3YjVKX3RkSFpVRE9sWHFvbjVJaXZhZFBaU3YwNUd1cFhOSzZZTGNUZkVncnBIYnoxempsYjduWlVFdlBXVHpxVTFCQldEWDk5bmlVcmxxMW5kamFWdEtVd1FtUUd2N19DbnFZaWt2eXM?oc=5",
+      "en": {
+        "title": "LESSONS FOR INVESTORS FROM THE BINANCE HACK",
+        "summary": "Lessons for investors from the Binance hack. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Lessons for investors from the Binance hack",
+        "summary": "Lessons for investors from the Binance hack. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "b36d1da0a2f885f49362b4bf811e122e",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$ETH"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYndfaWZkbDRaWXhLVmZrVzhHMFE0ZkJjcFprOTVtT2t4RmZyMks0cjVyR3JNQ2tseXJrVjdacHRRS1ZYbzFHNFM5QjlENnVRT3dzcTc2NkpfcXBsOEEtc0ptRGhVN09PRHNTdjlBbWtiV2NZVUoyYjNESEFxNmVoMFpPQXMxYWdxV3QwTXB2c3FkYXFrZ1owcjhianVFUFNJNTZjdGROY3lmS3VNRFFtYzJ6eVNLQkw2N0d1Y0E3T1NlSUZ5Wl9JWUpTTlV2eUF3eUp6Y21ZWjZyY2ZhRC10S3JrRWpjTE96Q3hybWRrZWVlNXRySG1DZVFn?oc=5",
+      "en": {
+        "title": "A HACKER SWAPPED $3.7 MILLION OF ETHEREUM INTO ZCASH ON HYPERLIQUID. IS PRIVACY DEMAND HOLDING ZEC ABOVE $1,200? - 24/7 WALL ST.",
+        "summary": "A Hacker Swapped $3.7 Million of Ethereum Into Zcash on Hyperliquid. Is Privacy Demand Holding ZEC Above $1,200? - 24/7 Wall St.. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$ETH | IMPACT: 10/10] Downside pressure expected on $ETH; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "A Hacker Swapped $3.7 Million of Ethereum Into Zcash on Hyperliquid. Is Privacy Demand Holding ZEC Above $1,200? - 24/7 Wall St.",
+        "summary": "A Hacker Swapped $3.7 Million of Ethereum Into Zcash on Hyperliquid. Is Privacy Demand Holding ZEC Above $1,200? - 24/7 Wall St.. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$ETH | IMPACT: 10/10] Downside pressure expected on $ETH; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "450a82d859791261a2bdda538c4413e1",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekhrX2wzc2wzd181T2RFN2dnQUh1bHM3bFhiUE1Nei1PTXJKWENxaVc3aUJwSHVzX0tsNHBvaTNKQ0xGR091NWsyZUNPVE5uUmFqR2Rib2UxaXZZZl9ndDVadEk4R01aWnd4XzRsdGhHZDF1djFqN1czSGZibTdwNnFMbmlFeWN3QVh5RmRJcVpwRWVaNkVSTkoxaHNlb0NRVnk5Q25qWHNWNDJkZEd4ODJLSXl0VlMyWG5ITThPU2VpSi1NMWhV?oc=5",
+      "en": {
+        "title": "RUSSIAN TANKER LINKED TO IRANIAN MISSILE SHIPMENTS DRIFTS NEAR NORWAY’S COAST FOR TWO WEEKS",
+        "summary": "Russian Tanker Linked to Iranian Missile Shipments Drifts Near Norway’s Coast for Two Weeks. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Russian Tanker Linked to Iranian Missile Shipments Drifts Near Norway’s Coast for Two Weeks",
+        "summary": "Russian Tanker Linked to Iranian Missile Shipments Drifts Near Norway’s Coast for Two Weeks. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "520b86c63444aa0ed85c5150222e5200",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$GS",
+        "$SPY / $QQQ"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTh4RGppaXBjUHJwcjBPOEhiQXJjRGhGM3lFQkhnMVRFaWxyelRZRjRoUmtRalRrZExQSGcyMnoyZFkta09SN0NlQTNDc2tlVGlOZDAxU0hMY1VWTm5fRVFiM2RTXzVWaWNkbU5abkhIZHdNUGVRWXVSVEhNZG1EakVIWjhVN2xtQ0p6a1l5NWZsYmRSVDMydGZ5WEN2a0U?oc=5",
+      "en": {
+        "title": "GOLDMAN CHIEF ECONOMIST HATZIUS EXPECTS A BENIGN JULY US CPI PRINT",
+        "summary": "Goldman chief economist Hatzius expects a benign July US CPI print. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$GS, $SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $GS, $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Goldman chief economist Hatzius expects a benign July US CPI print",
+        "summary": "Goldman chief economist Hatzius expects a benign July US CPI print. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$GS, $SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $GS, $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "5215aab9690e7e75ebf75053d3e7c43d",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BTC",
+        "$SPY / $QQQ"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WQmFyUnhBVHZudFlVUWl2VG1sX2RjWkR4RTB4NVhWWElLUmFfSEpRWG5yMzhVTFg0R0llWjdWbzZ4dmdET25wbGVnX3ZkQWd3Y09jcjE1TmI4MzZaSXpLdVlxNUxITlJ5M2hPU0dQcTVpTXVIZk12VC1sOVQ5UQ?oc=5",
+      "en": {
+        "title": "BITCOIN CPI TEST: WHAT COMES AFTER THE AI SELL-OFF?",
+        "summary": "Bitcoin CPI Test: What Comes After the AI Sell-Off?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $BTC, $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Bitcoin CPI Test: What Comes After the AI Sell-Off?",
+        "summary": "Bitcoin CPI Test: What Comes After the AI Sell-Off?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $BTC, $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "339a163c6284d26ccc3681da27abea07",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYld3YndnWE14bFVyTDhxbUdxSmNvZklqLXdmWkxnVzNnXzgzaW9DQUdGa0tpQnF6eDRQZjFVWmMzUkNLdTB0VXByaEI5UWlMV3FpeVVTWHM5NTByZVpSY0dEQmJGQzgxR05zekFPSUlDS3hqZXNfLWxxd1hULWcyQk00bjI4R1V5aVR2UkZNWTFjdlpOdVd5TUxuVE03dlJVeHc?oc=5",
+      "en": {
+        "title": "THE WEEK AHEAD – CPI AND EQUITY FLOWS TEST A SHAKEN MARKET",
+        "summary": "The Week Ahead – CPI and Equity Flows Test a Shaken Market. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "The Week Ahead – CPI and Equity Flows Test a Shaken Market",
+        "summary": "The Week Ahead – CPI and Equity Flows Test a Shaken Market. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "b651c5beef1b64a6b4203d394be37e1a",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZklmUjZWSzlucmZfT0F0WkpuNG12VDRXS05QdVI0N3VxVFg4YU5fYzJvV2tvZmpLWEh2Y193amUyNkVESWN1UXotMW5XcE1SQkJiQjB4SFdtb2F3Uk1zanJ5VHNWeVpyZE0tRmhXOEhuS0x3VnNUeVh3YzFQMHhnRzdsTXJhQkZ6Qnc?oc=5",
+      "en": {
+        "title": "AUSTRALIAN STOCK MARKET TODAY: ASX FUTURES EDGE HIGHER ON FIRM US JOBS AND CPI WATCH",
+        "summary": "Australian Stock Market Today: ASX Futures Edge Higher On Firm US Jobs And CPI Watch. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Australian Stock Market Today: ASX Futures Edge Higher On Firm US Jobs And CPI Watch",
+        "summary": "Australian Stock Market Today: ASX Futures Edge Higher On Firm US Jobs And CPI Watch. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "68729acc87ab6179296db10e8d7bcfec",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 10,
+      "tickers": [
+        "$BTC",
+        "$SPY / $QQQ"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1lQNVNoN1QyTy1QUnVvZi1jWHFrb2tpSm5OemY2MTdTMkpYQVp2WDIyOTRfb1JYMWdsbGxmMkJOa3VpbzhlNlc2aVo4Z29wdHQxT1hhT1R3ZThTNlR2MlhnUHN4X2s0WWt3QXR6aEVFOXlCNkhRYXhGY3hHX3VXazZLU2k3TlBrNFYwbTdYN0o2UEdXLWtOMGM0RQ?oc=5",
+      "en": {
+        "title": "WHICH BITCOIN TREASURY STOCKS COULD SURGE ON BULLISH CPI DATA DROP?",
+        "summary": "Which Bitcoin Treasury Stocks Could Surge on Bullish CPI Data Drop?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $SPY / $QQQ | IMPACT: 10/10] Positive momentum catalyst for $BTC, $SPY / $QQQ; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "Which Bitcoin Treasury Stocks Could Surge on Bullish CPI Data Drop?",
+        "summary": "Which Bitcoin Treasury Stocks Could Surge on Bullish CPI Data Drop?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $SPY / $QQQ | IMPACT: 10/10] Positive momentum catalyst for $BTC, $SPY / $QQQ; monitor breakout volume and long positioning."
+      }
+    },
+    {
+      "id": "7f1cf04f5482fcd4b959042ee91a3aef",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemFFVzNNTVNFcnllY2t1d3F5VlFKeFJGZndjdmE1bkhqYmU3NXROMjVoc3hfT29uQkhZbEtPd2U2LTRUWUlvXzc3NjRrV1pmVmprbm5ERjZkS2JnSGtHaFZWWHlLVE1KRHIyWTR1Q3VFRjQwdHBJcmZxczN5T19mdzRCSWhCUDlYS2oyRGd5X2hYY0ZwRXFqTW9ScWlRMjg?oc=5",
+      "en": {
+        "title": "GEORGIA BLANKS OKLAHOMA, 1-0, IN SEC TOURNAMENT OPENER",
+        "summary": "Georgia Blanks Oklahoma, 1-0, in SEC Tournament Opener. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Georgia Blanks Oklahoma, 1-0, in SEC Tournament Opener",
+        "summary": "Georgia Blanks Oklahoma, 1-0, in SEC Tournament Opener. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "2ae5435f7ed579cf15b17f2141c00e00",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVRCZnVVME5WUVNfaTBIS2RDRVh6WEFYZjFwX1FLZzlGa3JKeXl6Q0pGOHFaVm5Xb2xyWkJVWHlISFAzcDBlMVNTZTFLX00tNDVUbWZ3ekFKc0ZPbVpvak5PNktNSzNUY3d2NC1hX2hIc3lJZjRzTVpXeDBCbTQ3VDlvZTg2Q19aY0U5cmtVY1FMODdWblNDTmdXdzgwa2F2ZXNtajFVTzFTNWpIMDMyVFp0cVZkZw?oc=5",
+      "en": {
+        "title": "GATORS SECURE SHARE OF 26TH SEC TITLE WITH VICTORY OVER GEORGIA",
+        "summary": "Gators Secure Share of 26th SEC Title with Victory Over Georgia. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Gators Secure Share of 26th SEC Title with Victory Over Georgia",
+        "summary": "Gators Secure Share of 26th SEC Title with Victory Over Georgia. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "9451acf12d70bebcbbb5dad78859f2f2",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcEpvVk44ZnFmNXUtSUJqWGpIbUw4enVoRm5obkJzNGtLaWI1WmxwM05BT0Q3aWJTUzlVTWVndUJKS1hLY09Sb0hLdlozUFlfeUlXd0FldHBLcDhUbzlCRmVsVWpheHg1MG54eFlTMC1yMlhOVzFjZUlyOVNnalVIRXo5UmNLaU44a1BQQ0p6MW9HdXprV0RCckdCUWdwUQ?oc=5",
+      "en": {
+        "title": "SOCCER DROPS NARROW DECISION TO GEORGIA IN SEC TOURNAMENT - UNIVERSITY OF OKLAHOMA",
+        "summary": "Soccer Drops Narrow Decision to Georgia in SEC Tournament - University of Oklahoma. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Soccer Drops Narrow Decision to Georgia in SEC Tournament - University of Oklahoma",
+        "summary": "Soccer Drops Narrow Decision to Georgia in SEC Tournament - University of Oklahoma. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "7ff022000126b01470d08d182f3dcf88",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkpZRmx2di1CQVpCeFVfNFVLLUFkYmMwbjN5UXBRbkg1NkdpX21FUFh5UFA3RFEyYVBibmVmMXA1UnJPZFFDS1NFTDVLLVlRNUhnOFdmNl9VbXpxcVJsNUJqcDBYdTkwODB2S0hITFRWTlB4cVBKM05QT2ViYzRQZ3NUVUZaR2I4cHZXNmYyYXRZVEtG?oc=5",
+      "en": {
+        "title": "NO. 23 AUBURN FALLS TO LSU IN SEC TOURNAMENT OPENER - AUBURN TIGERS",
+        "summary": "No. 23 Auburn falls to LSU in SEC Tournament opener - Auburn Tigers. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "No. 23 Auburn falls to LSU in SEC Tournament opener - Auburn Tigers",
+        "summary": "No. 23 Auburn falls to LSU in SEC Tournament opener - Auburn Tigers. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "3781350036ad764a54cae6facfc2a598",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUIyZW4yNUNJcnc2a3kzYlhRTjRmTnQxRmd6My12aEFkRTNsYkx5Z1BtdTE4MHRHcW5sdmxFRkhkc0ZTUTRhMDRja2ZfR3NjOWxxeDJvUzA1c21KajlYMHFjQkhZSzVfVzFpYV9qTHAzbXpNV1RXUlBoOHlucHdpWGtlSEtMd1ZkVnlKREp1NmM2eFFrNkhfc0F3X2pjdw?oc=5",
+      "en": {
+        "title": "LSU SOCCER ROUTS AUBURN, 1-0, IN FIRST ROUND OF SEC TOURNAMENT",
+        "summary": "LSU Soccer Routs Auburn, 1-0, In First Round of SEC Tournament. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "LSU Soccer Routs Auburn, 1-0, In First Round of SEC Tournament",
+        "summary": "LSU Soccer Routs Auburn, 1-0, In First Round of SEC Tournament. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "1b8833a5a3a8b676e012d898f81f00bf",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXpLeFZTV1ZqdkRTS3R5UkFxU2dpWmdCT2ZGZ0JmR1hlSFlzMk9IYlRoTkc1a3BsRkp1UjRhdmQ2RXBRdXN6TzVTT2ZVekJWX2RzVUhiUWNZbFY4eHNXRURuNk11b1hjeHFyTnlLVWNRdjBSdnhhcDI4UDhRS3p3cU5NZVFQM2ZObGFQS2Z5ZlpYbk5jQ0ZxcUN1OEFOcm9UWldfX2stS2dVclpI?oc=5",
+      "en": {
+        "title": "NO. 4 FLORIDA VOLLEYBALL SECURES SHARE OF SEC REGULAR-SEASON TITLE",
+        "summary": "No. 4 Florida Volleyball Secures Share of SEC Regular-Season Title. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "No. 4 Florida Volleyball Secures Share of SEC Regular-Season Title",
+        "summary": "No. 4 Florida Volleyball Secures Share of SEC Regular-Season Title. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "faa122b321c282fe3ec5cfac6350243e",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHJiR3lmLTFKQmRZWVFUY3U0Q0VST0p6LUpocldESTFGYTAyNkpUbE9MWjRLNkZLX1V0R2pHaVM2bHRFeFY5d3BkYzJDTndmd1dDNUlRT1VHc3Jzb2JnTGlYSURudVZiR25YUkdDRXFlcUp5N0xZZTEtT0wxU0ZHRF92c0FWcmY3NElzY3dEV01JVnh1N2ZUNHBR0gGaAUFVX3lxTE96dXZTb0owb2ZRNS1pOEJzYWs3VzdtWm5ZcUJkX2k5c3VINml5bk1OZ2ZZTW1oZU5uRWllWlZtWkkxVmVPQ2xiMk1lLVA5V2dHS0syUFI5aWdfR0VRd2hFQlFOampwbGVURksydXdqODZCTFJnUHRVWENzWVpRbmN6R0EtZExhWGMzWFFNemJMbWZVRnB2U1d3VWc?oc=5",
+      "en": {
+        "title": "2026 SEC TITLE GAME ODDS: GEORGIA FAVORED; CAN TEXAS MAKE UP GROUND?",
+        "summary": "2026 SEC Title Game Odds: Georgia Favored; Can Texas Make Up Ground?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "2026 SEC Title Game Odds: Georgia Favored; Can Texas Make Up Ground?",
+        "summary": "2026 SEC Title Game Odds: Georgia Favored; Can Texas Make Up Ground?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "0a6410a59cf729a2c04107220c719232",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjI3UHRsTG9SMkxnamloNzZvYzJXSjJLQVdmdUtRdXMxN2c2ZmEyZ3pXa3JDZVRGT0pzV25uS192b3JpLVZrd3NRcWZfUXlaYVdYMnlId0l2clN5VTE0c3kzbTB0N2psbDlOWnU5UGVhWm1fcFJrR2VnTU04OFVKV0Z5a01vOTNfbzQyZ0NtRGpUZjRXNHljc2JjeW0?oc=5",
+      "en": {
+        "title": "THE TOP 5 ANALYST QUESTIONS FROM PERMIAN RESOURCES’S Q3 2026 EARNINGS CALL",
+        "summary": "The top 5 analyst questions from Permian Resources’s Q3 2026 earnings call. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "The top 5 analyst questions from Permian Resources’s Q3 2026 earnings call",
+        "summary": "The top 5 analyst questions from Permian Resources’s Q3 2026 earnings call. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "4f7eefeece342fdeb1a89b371b370855",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "23:13 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGVoRWkteERFVTBkc3ZYRU9ra21vSnhtY002c1c4VWowUmFVcmo1SnZTaDNZam9HZXRLNzdPVTY4VUNLazNPRXBON2U0MDNhdm1rbmx6REEwT3Rza1JyYmRtajhqVi1ZZlpiYmsxUWpISUQybTBvQUJqQXZGRmh3RUVKTzhIMTYxZGw5LXNHZHFUbENQUVZBMGxRSkx3LVprbEE?oc=5",
+      "en": {
+        "title": "SEC SETS FINAL TV INFO, UPDATED KICKOFF TIMES FOR NOV. 14 GAMES",
+        "summary": "SEC sets final TV info, updated kickoff times for Nov. 14 games. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "SEC sets final TV info, updated kickoff times for Nov. 14 games",
+        "summary": "SEC sets final TV info, updated kickoff times for Nov. 14 games. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
     {
       "id": "cb193088c12c7c0452a138eb1a8a3d1d",
       "category": "stock",
