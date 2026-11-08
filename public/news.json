@@ -1,26 +1,26 @@
 {
-  "updated_at": "08 Nov 2026, 15:10 UTC",
-  "total_count": 36,
+  "updated_at": "08 Nov 2026, 19:43 UTC",
+  "total_count": 54,
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$75,985",
-      "change": 0.2
+      "price": "$75,799",
+      "change": 0.14
     },
     {
       "symbol": "ETH/USD",
-      "price": "$2,238",
-      "change": -0.15
+      "price": "$2,230",
+      "change": -0.1
     },
     {
       "symbol": "SOL/USD",
-      "price": "$89.51",
-      "change": -0.16
+      "price": "$89.44",
+      "change": -0.08
     },
     {
       "symbol": "BNB/USD",
-      "price": "$697",
-      "change": 0.42
+      "price": "$696",
+      "change": 0.1
     },
     {
       "symbol": "S&P 500",
@@ -66,6 +66,422 @@
     }
   ],
   "articles": [
+    {
+      "id": "cb193088c12c7c0452a138eb1a8a3d1d",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnR5alZYWS1uMGotUm1BTlBPRjRyaVBHbXh4NVh4WF9QQzFtU3hRNHVLVVZWbmZ5TXlZRXkydEs0RjBBQjVpVjBnZWpfV1V5R0Z3bDhxdlFMTWYwNFAyT1RKdUFVQXFiLUxzTVVjejhhZTNwZWZRbWJ4dFlKMU1EY2VEN2VVR1duZlV6LUJCN2RLRHJIbHlTcjhtVE9NSW84dUZsSzlCdnN2VUZhQ2ZR?oc=5",
+      "en": {
+        "title": "ALSTOM SHARES PLUNGE AFTER TECHNICAL ISSUES PROMPT GUIDANCE CUT",
+        "summary": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut",
+        "summary": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "068807082d6d211ef94aa5ed6083e387",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$BNB"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5",
+      "en": {
+        "title": "THE SHADOWY CRYPTO SERVICES HELPING THE BINANCE HACKERS LAUNDER STOLEN BILLIONS",
+        "summary": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+        "summary": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "e36b6f577d818abc5120ce57c4e40fd7",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$DXY / $SPY"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGhfcEdmNThkaHJjMXNrYjJqaUs0V1pRYjltSFBMOHZWNWhxWGlDNjdqWGFWaVRZNk1lOUZFS2MyaFdLa0dYdVFfNzJXY25Wc3NLS0sxaVVDLUVkSzBMMzlCWTRmNUktc3dVNzd2SjJkNWctUGNPTVYxY1RJVzZ4cnBhTVpXOVh5V2JIMTVIbVR4eC14LThlRUtJMzA?oc=5",
+      "en": {
+        "title": "D-FW BUSINESS DATEBOOK: FED CONFERENCES, JOSÉ ANDRÉS AND AN INFLATION UPDATE",
+        "summary": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update",
+        "summary": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "1f196430e073a939171eff33137083e1",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkxFOE9ZQ0NhMjROdXNPSWxtal9TMlczSXFadHFhcTdzVDZoaTA5WklsaDFLSXBYajNUSExxQUlsX1ZoOXdETmJURnVCMFdOYjBtSGE5VlZqYVh5S0FiWmR1T1J5T2MzbU1Yb0tsdUFTZURDRERWVVllZVdNREJ4SmZhaU9sRFRf?oc=5",
+      "en": {
+        "title": "DEFLATION COULD BE COMING (AND DON’T BE SURPRISED) – TREASURY INFLATION-PROTECTED SECURITIES - HTTPS://TIPSWATCH.COM/",
+        "summary": "Deflation could be coming (and don’t be surprised) – Treasury Inflation-Protected Securities - https://tipswatch.com/. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Deflation could be coming (and don’t be surprised) – Treasury Inflation-Protected Securities - https://tipswatch.com/",
+        "summary": "Deflation could be coming (and don’t be surprised) – Treasury Inflation-Protected Securities - https://tipswatch.com/. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "4823af83bf7678fa61d4722a01cd6d04",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BRENT"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYVZVQjdhWGdPbkkyMzZVN0tqbUpvWU1Tc2FhUEZMSjhMY2QzUVR1dllTMjVJXzY5dnI1ajc4eE1GYXY0ZjVwanpMT1R0bzVjdEJJUmZDRjZFU0ltamwzOVVtb1hlbFRTclJQN0hPb2d4dXRtUFZXS0ZDQURkUm15TEQyUzk0UUZnN1J4WXJIMVF6LU9jQ0IwbEo1WW5oU2I3TFFpODR4dXM1RjNFRjRibWc1QUdyWERneGhEWDVrNS1udUtqQ0phb2l6UnphMl9FcDJWZDlpbVNvaG9kVzJYQ2c1SXBZM2lVUVJEVFl3SUNzcDJOWWJWek1IS25Dd9IBgwJBVV95cUxNR1k5MVg1TEZ0WTVDZ0F1QzREdmR0eXRwOURXak4yZGw4ZlJKYTJDYnR6MnJKU0VOdXdKVnNOR05yaWFiMi1WSktSa3JidGxTNVplUUNIYW5mYlBxVDVFQWd6Q3RNV190ZnRzYzhNVXkxR1BQU293QWFlTzg0U0llZVQ4cjJTSFVWYk9CWEhvbE9sMGdyNE1CMDZhTFdyTld5Y0s0ZGxaYTd4dERpb19ESHRfeWVJZkVDbjFkVjktZElIRDJyTGFzblNEcC1WQ1NJa0o4ZWxEVXEzVGdRZEJXajJ5V0FJTmRZdFZBNWsxamVPWEVmam9OMkw1ZTgtejNadDZJ?oc=5",
+      "en": {
+        "title": "DALAL STREET WEEK AHEAD: Q2 EARNINGS, US & INDIA INFLATION, FII FLOW, OIL PRICES AMONG 10 KEY FACTORS...",
+        "summary": "Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors.... Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BRENT | IMPACT: 10/10] Expect elevated two-way volatility in $BRENT; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors...",
+        "summary": "Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors.... Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BRENT | IMPACT: 10/10] Expect elevated two-way volatility in $BRENT; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "a2ab7b53fce006b0f8cdeaea14f55745",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXh6UEdxWEdrOG9oR3ZaT09Fc1ZNdzVmSmRCX1lmZHZyeC03Y2ZnN3JYTklteHAtYWU5UFNVYm52ckVfdFVRNENuT0l6ckJVMzE0b0N1NFlkVWtjUTNOcWRlYXd2amRRZ1czRkFrWGQ3bGlqSkNFZV9lM3pjRkZUdHktYnhrTGhtNHpIMw?oc=5",
+      "en": {
+        "title": "FLORIDA SOCCER SET FOR FIRST ROUND OF SEC TOURNAMENT",
+        "summary": "Florida soccer set for first round of SEC tournament. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Florida soccer set for first round of SEC tournament",
+        "summary": "Florida soccer set for first round of SEC tournament. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "a79df880206e1286ad00cca3bd868c91",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTzVVRXQwQk9feURjWTY5bVZWWFNZRTVxQ3BMMUhzbGdqTkZ3WUpiTHN6bW5XajVoM0tQRDJPQ0V0aFAwRk1xRVljSzZmb3p2b3ZuejNWcW1uSEFMcHNVeDdZdzNPOHJIWmJfMG5yd2drRk42OGRTemhUMXplYmVIUVkwUC12b21hdFYtTnJnUmN1YUk2eWxwTGMxSFVVNGl2ZzBQbTB4NkNKVzJpQ2NoNUFxS0tQN1h0TzBRSlJONnl2bTlwZWZJeGZJUU9sVjdxaUE?oc=5",
+      "en": {
+        "title": "COLLEGE FOOTBALL RANKINGS AFTER WEEK 10: UPDATED COACHES POLL, AP TOP 25 FOR SEC",
+        "summary": "College football rankings after Week 10: Updated Coaches Poll, AP Top 25 for SEC. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "College football rankings after Week 10: Updated Coaches Poll, AP Top 25 for SEC",
+        "summary": "College football rankings after Week 10: Updated Coaches Poll, AP Top 25 for SEC. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "5d45209198761f0e3c4a7c5a3b3146df",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkhWcnFncjBnaVRBV2trbFVfYXBRcmMwc3U1RW5DcjJ3YkdaZDBwN1dYYzRvSk1PZ0NMVzVHdzdkOHRrR0F0YXl4cjhIb2wtcm82ZWI2dFJoVUo4T2dLQnJ0VnktV3Y2WE9EWm1GdFQ4bnRGeS0yeFczUDh1WG9SUEMyV1VOZlgxYzRGek51czZJekM2YjVFempDVUxraVN2ZVE0TWxzc3pCZEE?oc=5",
+      "en": {
+        "title": "LANORRIS SELLERS, SOUTH CAROLINA CONTINUE TEAR THROUGH SEC SCHEDULE",
+        "summary": "LaNorris Sellers, South Carolina continue tear through SEC schedule. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "LaNorris Sellers, South Carolina continue tear through SEC schedule",
+        "summary": "LaNorris Sellers, South Carolina continue tear through SEC schedule. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "377a9f3622ad93aecaa73365e8458ab0",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUJXcHpibmJMaDVJLXNHbzluRU9tNkV4Z3hhZnduc2R2N3BNdDlRYWR2aXpaNXRqcFlmeGJCYVI5aV9icDlvTkpOSkNBMmtJVnA4M3I2UHJRa1pTSnRVaUFVcVJCWjFDQ3JjN0loVmFzWVhWSHNWMGtYemNwX3lmcGwzMUY0cUxsLWlvQkNtY1BsLVZkUXRscGRoVDctbUYxdVo4V0RCTQ?oc=5",
+      "en": {
+        "title": "IS SEC HOME-FIELD ADVANTAGE NOT WHAT IT USED TO BE? CONFERENCE VIBES AFTER WEEK 10",
+        "summary": "Is SEC home-field advantage not what it used to be? Conference vibes after Week 10. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Is SEC home-field advantage not what it used to be? Conference vibes after Week 10",
+        "summary": "Is SEC home-field advantage not what it used to be? Conference vibes after Week 10. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "34300b3522d2f8ab33fc71ade467a54a",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWUtYVhfeEM0aFpMUVp1UmFsVWhzdC1Bd1BWQktRTno4cm0zaDlnSG1hRnJacHVPQzl5R2NDTlFTbkR0WElmcGdJMmNhbFk3cjJGX0QtSnA3ZS0yOTlMMExNTkNHOGdVanJOWkJWMkFEQWFoQmRvV1lUMUlGV0ZibktSOU5PUWpvVXV6RlJQbzNqUENZcE40eGxFdmY3WXFVM09Z?oc=5",
+      "en": {
+        "title": "ELEMENT FLEET MANAGEMENT Q3 EARNINGS CALL HIGHLIGHTS",
+        "summary": "Element Fleet Management Q3 Earnings Call Highlights. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Element Fleet Management Q3 Earnings Call Highlights",
+        "summary": "Element Fleet Management Q3 Earnings Call Highlights. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "50ce9c9c32dfb9e8bb682f713b81e269",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "en": {
+        "title": "‘IT SEEMS BIZARRE’: WE’RE IN OUR 80S WITH $950,000 IN TRADITIONAL IRAS. WHY IS OUR ADVISER PUSHING ROTH CONVERSIONS?",
+        "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "40fb2ead2e5b70c0c5e88ea7075c97dc",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "en": {
+        "title": "‘IT FEELS LIKE HE’S QUIETLY BUILDING A SEPARATE LIFE’: MY HUSBAND INHERITED $500,000, BUT HE REFUSES TO SPEND IT ON OUR HOME",
+        "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+        "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "819ec3e26f50902d51af3ca60f3a0e15",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "en": {
+        "title": "‘I HAVE NO FINANCIAL SAFETY NET’: I’M 66, RELY ON SOCIAL SECURITY AND HAVE JUST $500 IN SAVINGS. WHAT HOPE DO I HAVE?",
+        "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+        "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "b6b4c78faf27b2d932b8dced84be7ed1",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$BTC",
+        "$ETH",
+        "$SOL"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZDdXNVlRT2ZCX05wYXdVMU92UUtvbEF6b214dzlRVUZCY3JBMVJ0THVUUFFfQm55cUhiLW5qdkh6bm50TEdNMEt4VE1SSm45anBaUnAzcEttcDNNOXFGWG5yME15RktDMlZvTE1uZmhuSkttNVFlWU9KOEhjOXdNanpHc2Q1VnFMeGNQajUtOHllTHNNWVVDcnJYYkxiOWgyREJKUWVBWWdFN1RsbTV2VURYNnFIb3hDcmFLT000SHc1aGo1WkZtVjNadw?oc=5",
+      "en": {
+        "title": "BITCOIN, ETHEREUM, AND SOLANA ETF OUTFLOWS JUMP AS KEY FEAR GAUGE DROPS AFTER MIDTERMS",
+        "summary": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $ETH, $SOL | IMPACT: 9/10] Downside pressure expected on $BTC, $ETH, $SOL; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms",
+        "summary": "Bitcoin, Ethereum, and Solana ETF Outflows Jump as Key Fear Gauge Drops After Midterms. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $ETH, $SOL | IMPACT: 9/10] Downside pressure expected on $BTC, $ETH, $SOL; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "3b673370d1b799bd6140a1c6bea50d64",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$BTC"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV0xUQ2l5RWt3QmFDTDQ1ZUtleEppVE9abFZDUERCOFhnZWhaUFlYdzg5N21JN2xQOVYxUTZla3poOG56Um5tdHJrR0ZqQWtJVi1NVlhEcGxfbkFKNEZNeWh1LTVjQ05qTDZZblVOVVRlYmRjQlJ0MkpRdlMtVWR3MlB3ZTA4MzdCZC0xTGhEREQ4dw?oc=5",
+      "en": {
+        "title": "ONE BLACKROCK FUND DOMINATES BITCOIN’S BILLION-DOLLAR ETF EXODUS",
+        "summary": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC | IMPACT: 9/10] Expect elevated two-way volatility in $BTC; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
+        "summary": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC | IMPACT: 9/10] Expect elevated two-way volatility in $BTC; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "82f278f5e5e1d81b7ece022c37d6c65b",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "en": {
+        "title": "THAILAND MOVES TO BLOCK BITGET AS CRYPTO EXCHANGE'S LOCAL ACQUISITION FACES UNCERTAINTY",
+        "summary": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+        "summary": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "1ad1413a387241317d4398cf67e8cb10",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "en": {
+        "title": "OVER $1 BILLION IN BULLISH BETS LIQUIDATED WHILE ETF FLOWS SUGGEST NO HELP IN SPOT MARKET",
+        "summary": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Positive momentum catalyst for $MACRO; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+        "summary": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Positive momentum catalyst for $MACRO; monitor breakout volume and long positioning."
+      }
+    },
+    {
+      "id": "e4ebf078d9ef9eb725657e854bcd1c05",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "19:43 UTC",
+      "source_link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "en": {
+        "title": "US SANCTIONS CANADIAN MONEY-EXCHANGE FIRMS OVER IRAN TIES",
+        "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "US sanctions Canadian money-exchange firms over Iran ties",
+        "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
     {
       "id": "3a5ca101603d70e9b79b58a5d93c617a",
       "category": "stock",
