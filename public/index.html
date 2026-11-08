@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>THE GLOBAL TERMINAL | International Financial Intelligence & Geopolitics</title>
+  <title>THE GLOBAL TERMINAL | Real-Time Trader Intelligence & Geopolitics</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -43,13 +43,18 @@
     .ticker-move:hover { animation-play-state: paused; }
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    @keyframes pulse-border {
+      0%, 100% { border-color: rgba(244, 63, 94, 0.8); box-shadow: 0 0 18px rgba(244, 63, 94, 0.25); }
+      50% { border-color: rgba(244, 63, 94, 0.2); box-shadow: 0 0 4px rgba(244, 63, 94, 0.05); }
+    }
+    .urgent-flash { animation: pulse-border 2s infinite; }
   </style>
 </head>
 <body class="bg-terminal-bg text-slate-200 font-sans antialiased min-h-screen flex flex-col selection:bg-cyan-500 selection:text-black">
 
   <!-- TOP MARKET PULSE BAR -->
   <div class="bg-[#04060a] border-b border-terminal-border sticky top-0 z-50 backdrop-blur-md">
-    <div class="max-w-[1400px] mx-auto flex items-center justify-between text-xs font-mono">
+    <div class="max-w-[1440px] mx-auto flex items-center justify-between text-xs font-mono">
       <div class="bg-rose-700 text-white font-bold px-3 sm:px-4 py-2 flex items-center gap-2 shrink-0 z-10 shadow-lg">
         <span class="w-2 h-2 rounded-full bg-white animate-ping"></span>
         <span class="tracking-wider">MARKET PULSE</span>
@@ -57,325 +62,14 @@
       <div class="overflow-hidden relative flex-1 py-2">
         <div class="ticker-move flex items-center gap-7 pl-4 text-slate-300">
           <div class="flex items-center gap-1.5"><span>BTC/USD</span><span class="text-white font-semibold">$75,840</span><span class="text-terminal-down">▼ -3.8%</span></div>
-          <span class="text-slate-700">|</span>
+          <span class="text-slate-700">•</span>
           <div class="flex items-center gap-1.5"><span>ETH/USD</span><span class="text-white font-semibold">$2,240</span><span class="text-terminal-down">▼ -4.1%</span></div>
-          <span class="text-slate-700">|</span>
+          <span class="text-slate-700">•</span>
           <div class="flex items-center gap-1.5"><span>S&P 500</span><span class="text-white font-semibold">5,745.30</span><span class="text-terminal-up">▲ +0.7%</span></div>
-          <span class="text-slate-700">|</span>
+          <span class="text-slate-700">•</span>
           <div class="flex items-center gap-1.5"><span>BRENT CRUDE</span><span class="text-white font-semibold">$95.60</span><span class="text-terminal-up">▲ +2.4%</span></div>
-          <span class="text-slate-700">|</span>
+          <span class="text-slate-700">•</span>
           <div class="flex items-center gap-1.5"><span>GOLD</span><span class="text-white font-semibold">$2,680.10</span><span class="text-terminal-up">▲ +0.9%</span></div>
         </div>
       </div>
-      <a href="#advertise" class="hidden md:flex items-center gap-2 bg-slate-900/90 hover:bg-slate-800 text-slate-300 border-l border-terminal-border px-4 py-2 shrink-0 transition">
-        <span class="w-1.5 h-1.5 rounded-full bg-amber-400"></span>
-        <span class="text-[11px] font-semibold tracking-wider text-slate-200">MARKET PULSE PARTNER</span>
-      </a>
-    </div>
-  </div>
-
-  <!-- MASTHEAD -->
-  <header class="border-b border-terminal-border bg-gradient-to-b from-[#090d16] to-terminal-bg">
-    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 pt-5 pb-4">
-      <div class="grid grid-cols-1 lg:grid-cols-12 items-center gap-4 pb-5 border-b border-terminal-border/70">
-        <div class="lg:col-span-3 flex lg:flex-col justify-between items-center lg:items-start text-xs font-mono text-slate-400 order-2 lg:order-1">
-          <div id="live-date" class="tracking-wider text-slate-300">GLOBAL EDITION • LIVE TERMINAL</div>
-          <div class="mt-0.5 flex items-center gap-2">
-            <span>INTEL DESK:</span>
-            <span class="text-emerald-400 font-bold flex items-center gap-1">
-              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping"></span> ACTIVE
-            </span>
-          </div>
-        </div>
-
-        <div class="lg:col-span-6 flex flex-col items-center text-center order-1 lg:order-2">
-          <div class="flex items-center gap-3.5">
-            <div class="w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-slate-950 border border-cyan-500/40 p-1.5 flex items-center justify-center shadow-[0_0_20px_rgba(6,182,212,0.2)] shrink-0">
-              <svg viewBox="0 0 64 64" class="w-full h-full">
-                <circle cx="32" cy="32" r="24" fill="#06152d" stroke="#06b6d4" stroke-width="1.5"/>
-                <ellipse cx="32" cy="32" rx="24" ry="10" fill="none" stroke="#0ea5e9" stroke-width="0.8" stroke-dasharray="2 2"/>
-                <ellipse cx="32" cy="32" rx="11" ry="24" fill="none" stroke="#0ea5e9" stroke-width="0.8" stroke-dasharray="2 2"/>
-                <path d="M8 20 H5 V44 H8" fill="none" stroke="#06b6d4" stroke-width="2"/>
-                <path d="M56 20 H59 V44 H56" fill="none" stroke="#f59e0b" stroke-width="2"/>
-                <rect x="20" y="34" width="4" height="7" fill="#f59e0b"/>
-                <rect x="27" y="27" width="4" height="9" fill="#06b6d4"/>
-                <rect x="34" y="23" width="4" height="9" fill="#f59e0b"/>
-                <rect x="41" y="18" width="4" height="8" fill="#06b6d4"/>
-                <path d="M12 46 Q32 35 52 16" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
-              </svg>
-            </div>
-            <h1 class="font-serif text-2xl sm:text-4xl md:text-[42px] font-black tracking-tight text-white uppercase leading-none">
-              THE GLOBAL TERMINAL
-            </h1>
-          </div>
-          <p class="mt-2 font-mono text-[10px] sm:text-xs tracking-[0.22em] text-slate-400 uppercase">
-            INTERNATIONAL FINANCIAL INTELLIGENCE & GEOPOLITICS
-          </p>
-        </div>
-
-        <div class="lg:col-span-3 flex justify-center lg:justify-end items-center gap-2.5 order-3">
-          <button onclick="toggleLanguage()" id="lang-btn" class="px-3 py-1.5 rounded bg-slate-900 hover:bg-slate-800 text-cyan-400 border border-cyan-500/30 font-mono text-xs font-semibold transition">
-            বাংলা সংস্করণ
-          </button>
-          <div class="inline-flex items-center gap-2 text-[11px] font-mono text-slate-300 bg-slate-900/90 px-3 py-1.5 rounded border border-terminal-border">
-            <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
-            <span>BOT SYNCED</span>
-          </div>
-        </div>
-      </div>
-
-      <nav class="pt-4 flex items-center justify-start sm:justify-center overflow-x-auto no-scrollbar gap-2.5">
-        <button onclick="setCategory('all', this)" class="nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-cyan-500/15 text-cyan-300 border border-cyan-400/50 shadow-[0_0_12px_rgba(6,182,212,0.2)]">ALL COVERAGE</button>
-        <button onclick="setCategory('crypto', this)" class="nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-slate-900/80 text-slate-400 border border-terminal-border hover:text-slate-200">CRYPTOCURRENCY</button>
-        <button onclick="setCategory('stock', this)" class="nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-slate-900/80 text-slate-400 border border-terminal-border hover:text-slate-200">WALL STREET & STOCKS</button>
-        <button onclick="setCategory('war', this)" class="nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-slate-900/80 text-slate-400 border border-terminal-border hover:text-slate-200">WAR & GEOPOLITICS</button>
-        <button onclick="setCategory('commodities', this)" class="nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-slate-900/80 text-slate-400 border border-terminal-border hover:text-slate-200">COMMODITIES</button>
-      </nav>
-    </div>
-  </header>
-
-  <!-- MAIN WORKSPACE -->
-  <main class="max-w-[1400px] w-full mx-auto px-4 sm:px-6 py-6 flex-1">
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
-      
-      <div class="lg:col-span-8 flex flex-col gap-6">
-        <section class="bg-terminal-panel border border-terminal-border rounded-xl p-5 sm:p-7 shadow-2xl">
-          <div class="grid grid-cols-1 xl:grid-cols-12 gap-6 items-stretch">
-            <div class="xl:col-span-7 flex flex-col justify-between">
-              <div>
-                <div class="flex flex-wrap items-center gap-2.5 mb-3">
-                  <span id="hero-cat" class="text-xs font-mono uppercase tracking-wider text-cyan-400 font-semibold">GEOPOLITICS</span>
-                  <span class="bg-amber-400 text-black font-mono text-[11px] font-extrabold px-2 py-0.5 rounded uppercase tracking-wider">TOP BRIEF</span>
-                  <span id="hero-time" class="text-xs font-mono text-slate-500 ml-auto">LIVE</span>
-                </div>
-                <h2 id="hero-title" class="font-serif text-2xl sm:text-3xl font-bold text-white leading-tight mb-4"></h2>
-                <p id="hero-summary" class="text-slate-300 text-sm sm:text-base leading-relaxed mb-6"></p>
-              </div>
-              <div class="bg-[#070b12] border border-terminal-border rounded-lg p-4">
-                <p class="text-xs sm:text-sm text-slate-200 leading-relaxed">
-                  <strong class="font-mono text-xs uppercase tracking-wider text-amber-400 mr-1">💡 EXECUTIVE TAKEAWAY:</strong>
-                  <span id="hero-takeaway"></span>
-                </p>
-              </div>
-            </div>
-
-            <div class="xl:col-span-5 flex flex-col justify-between gap-4">
-              <div class="bg-[#060a10] border border-terminal-border rounded-lg p-3.5 flex flex-col justify-between flex-1">
-                <div class="flex items-center justify-between border-b border-slate-800/80 pb-2 mb-2">
-                  <span id="chart-label" class="font-mono text-[11px] font-bold text-slate-200">BTC/USD 24H ORBITAL VIEW</span>
-                  <div class="flex gap-1 font-mono text-[10px]">
-                    <button onclick="switchChart('BTC')" class="px-1.5 py-0.5 rounded bg-slate-800 text-cyan-400">BTC</button>
-                    <button onclick="switchChart('OIL')" class="px-1.5 py-0.5 rounded bg-slate-900 text-slate-400">OIL</button>
-                    <button onclick="switchChart('NDX')" class="px-1.5 py-0.5 rounded bg-slate-900 text-slate-400">NDX</button>
-                  </div>
-                </div>
-                <div class="relative h-44 w-full flex items-center justify-center overflow-hidden my-1">
-                  <svg viewBox="0 0 320 150" class="w-full h-full">
-                    <line x1="0" y1="30" x2="320" y2="30" stroke="#1e293b" stroke-width="0.6" stroke-dasharray="3 3"/>
-                    <line x1="0" y1="75" x2="320" y2="75" stroke="#1e293b" stroke-width="0.6" stroke-dasharray="3 3"/>
-                    <line x1="0" y1="120" x2="320" y2="120" stroke="#1e293b" stroke-width="0.6" stroke-dasharray="3 3"/>
-                    <g id="candles-layer"></g>
-                  </svg>
-                </div>
-                <div class="flex items-center justify-between text-[11px] font-mono text-slate-400 border-t border-slate-800/80 pt-2">
-                  <span>TERMINAL FEED: <strong class="text-emerald-400">REAL-TIME</strong></span>
-                  <span class="text-amber-400 font-semibold">ACTIVE MONITOR</span>
-                </div>
-              </div>
-
-              <a href="#advertise" class="group bg-gradient-to-r from-slate-900 via-[#0e1726] to-slate-900 border border-slate-700/80 hover:border-cyan-500/50 rounded-lg p-4 transition">
-                <div class="flex items-center justify-between mb-1">
-                  <span class="font-mono text-[10px] tracking-widest uppercase text-slate-400 font-bold">EXECUTIVE BRIEF SPONSOR</span>
-                  <span class="text-[10px] font-mono text-cyan-400">PARTNER SLOT →</span>
-                </div>
-                <div class="text-xs font-mono font-bold text-white">PARTNERED WITH NEXUS CAPITAL GLOBAL</div>
-                <div class="text-[11px] text-slate-400">Institutional Crypto & Macro Liquidity Solutions</div>
-              </a>
-            </div>
-          </div>
-        </section>
-
-        <section id="secondary-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6"></section>
-      </div>
-
-      <aside class="lg:col-span-4 bg-terminal-panel border border-terminal-border rounded-xl p-5 shadow-2xl">
-        <div class="flex items-center gap-2 pb-3.5 mb-4 border-b border-terminal-border">
-          <span class="w-2.5 h-2.5 rounded-full bg-cyan-400 animate-ping"></span>
-          <h3 class="font-mono text-xs font-bold tracking-wider uppercase text-white">LIVE WIRE (FAST WIRE) - AUTO-DISPATCH</h3>
-        </div>
-        <div id="wire-container" class="relative pl-4 border-l border-slate-800 space-y-5 max-h-[620px] overflow-y-auto pr-2"></div>
-      </aside>
-
-    </div>
-  </main>
-
-  <footer id="advertise" class="border-t border-terminal-border bg-[#04060a] mt-12">
-    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 py-8 flex flex-col md:flex-row items-center justify-between gap-6">
-      <div>
-        <span class="font-serif font-bold text-white tracking-wide">THE GLOBAL TERMINAL</span>
-        <p class="text-xs text-slate-500 font-mono">© 2026 THEGLOBALTERMINAL.COM • ALL RIGHTS RESERVED</p>
-      </div>
-      <div class="bg-slate-900 border border-slate-800 px-3.5 py-2 rounded text-xs font-mono text-slate-300">
-        SPONSORSHIP & AD INQUIRIES: <a href="mailto:sponsors@theglobalterminal.com" class="text-cyan-400 font-bold hover:underline">sponsors@theglobalterminal.com</a>
-      </div>
-    </div>
-  </footer>
-
-  <script>
-    let currentLang = 'en';
-    let currentCategory = 'all';
-    let terminalData = null;
-
-    const fallbackArticles = [
-      {
-        category: "war",
-        published_at: "LIVE INTEL",
-        en: {
-          title: "GLOBAL MARKET SHOCK: WALL STREET TECH STOCKS TUMBLE AS GEOPOLITICAL TENSIONS ESCALATE, BITCOIN TESTS SUPPORT",
-          summary: "A wave of market volatility triggered by sudden escalation in the Middle East has sent shockwaves through Wall Street, with tech giants leading a broad retreat. Crypto assets face heavy liquidation as Bitcoin slides past key support levels.",
-          key_point: "Institutional investors are rotating into safe-haven assets amid rising maritime and energy supply risks."
-        },
-        bn: {
-          title: "বিশ্ববাজারে বড় ধাক্কা: ভূ-রাজনৈতিক উত্তজনায় ওয়াল স্ট্রিটে টেক স্টকের ধস, বিটকয়েনেও নিম্নমুখী প্রবণতা",
-          summary: "মধ্যপ্রাচ্যে আকস্মিক সামরিক উত্তজনার প্রভাবে ওয়াল স্ট্রিটে বড় ধরনের অস্থিরতা দেখা দিয়েছে। শীর্ষ প্রযুক্তি কোম্পানির শেয়ার বিক্রির চাপে ক্রিপ্টো মার্কেটেও বড় লিকুইডেশন ঘটেছে।",
-          key_point: "ভূ-রাজনৈতিক অনিশ্চয়তায় প্রাতিষ্ঠানিক বিনিয়োগকারীরা ঝুঁকিপূর্ণ সম্পদ থেকে সরে নিরাপদ বিনিয়োগে ঝুঁকছেন।"
-        }
-      }
-    ];
-
-    function drawChart(type = 'BTC') {
-      const layer = document.getElementById('candles-layer');
-      const presets = {
-        BTC: [{o:65,c:55,h:48,l:72},{o:55,c:62,h:50,l:68},{o:62,c:45,h:38,l:66},{o:45,c:52,h:40,l:58},{o:52,c:35,h:25,l:56},{o:35,c:42,h:30,l:48},{o:42,c:30,h:22,l:46},{o:30,c:58,h:26,l:65},{o:58,c:78,h:52,l:86},{o:78,c:70,h:64,l:82},{o:70,c:96,h:66,l:108},{o:96,c:85,h:78,l:102},{o:85,c:112,h:80,l:125},{o:112,c:98,h:90,l:118},{o:98,c:122,h:92,l:136}],
-        OIL: [{o:115,c:105,h:98,l:122},{o:105,c:95,h:88,l:110},{o:95,c:102,h:90,l:108},{o:102,c:85,h:78,l:105},{o:85,c:75,h:68,l:90},{o:75,c:82,h:70,l:88},{o:82,c:65,h:58,l:85},{o:65,c:52,h:45,l:70},{o:52,c:58,h:48,l:64},{o:58,c:42,h:35,l:62},{o:42,c:32,h:24,l:48},{o:32,c:38,h:28,l:44},{o:38,c:25,h:18,l:42},{o:25,c:29,h:20,l:35},{o:29,c:18,h:12,l:32}],
-        NDX: [{o:45,c:52,h:40,l:58},{o:52,c:48,h:42,l:56},{o:48,c:65,h:44,l:72},{o:65,c:78,h:60,l:84},{o:78,c:72,h:66,l:82},{o:72,c:88,h:68,l:95},{o:88,c:95,h:82,l:102},{o:95,c:86,h:80,l:99},{o:86,c:104,h:82,l:112},{o:104,c:115,h:98,l:122},{o:115,c:106,h:100,l:120},{o:106,c:120,h:102,l:128},{o:120,c:112,h:105,l:125},{o:112,c:128,h:108,l:135},{o:128,c:118,h:110,l:132}]
-      };
-      const data = presets[type] || presets.BTC;
-      layer.innerHTML = data.map((d, i) => {
-        const x = 16 + i * 20;
-        const isUp = d.c < d.o;
-        const color = isUp ? '#10b981' : '#f43f5e';
-        const top = Math.min(d.o, d.c);
-        const height = Math.max(Math.abs(d.c - d.o), 3);
-        return `<line x1="${x}" y1="${d.h}" x2="${x}" y2="${d.l}" stroke="${color}" stroke-width="1.5"/><rect x="${x - 4.5}" y="${top}" width="9" height="${height}" fill="${color}" rx="1"/>`;
-      }).join('');
-    }
-
-    function switchChart(symbol) {
-      const labels = { BTC: 'BTC/USD 24H ORBITAL VIEW', OIL: 'BRENT CRUDE 24H VIEW', NDX: 'NASDAQ 100 TECH VIEW' };
-      document.getElementById('chart-label').innerText = labels[symbol];
-      drawChart(symbol);
-    }
-
-    function renderTicker(marketList) {
-      if (!marketList || marketList.length === 0) return;
-      const tickerContainer = document.querySelector('.ticker-move');
-      if (!tickerContainer) return;
-      const buildItems = () => marketList.map(m => {
-        const isUp = m.change >= 0;
-        const color = isUp ? 'text-terminal-up' : 'text-terminal-down';
-        const arrow = isUp ? '▲ +' : '▼ ';
-        return `<div class="flex items-center gap-1.5"><span>${m.symbol}</span><span class="text-white font-semibold">${m.price}</span><span class="${color}">${arrow}${m.change}%</span></div><span class="text-slate-700">|</span>`;
-      }).join('');
-      tickerContainer.innerHTML = buildItems() + buildItems();
-    }
-
-    function renderAll() {
-      const rawArticles = (terminalData && terminalData.articles && terminalData.articles.length > 0) ? terminalData.articles : fallbackArticles;
-      const filtered = currentCategory === 'all' ? rawArticles : rawArticles.filter(item => item.category === currentCategory);
-      const list = filtered.length > 0 ? filtered : rawArticles;
-      const heroObj = list[0];
-      const heroText = heroObj[currentLang] || heroObj.en;
-
-      document.getElementById('hero-cat').innerText = heroObj.category.toUpperCase();
-      document.getElementById('hero-time').innerText = heroObj.published_at || 'LIVE';
-      document.getElementById('hero-title').innerText = heroText.title;
-      document.getElementById('hero-summary').innerText = heroText.summary;
-      document.getElementById('hero-takeaway').innerText = heroText.key_point || '';
-
-      const secondary = list.slice(1, 5);
-      const secGrid = document.getElementById('secondary-grid');
-      secGrid.innerHTML = secondary.map(item => {
-        const t = item[currentLang] || item.en;
-        return `
-          <article onclick="window.open('${item.source_link || '#'}', '_blank')" class="bg-terminal-panel border border-terminal-border hover:border-cyan-500/40 rounded-xl p-5 flex flex-col justify-between transition group cursor-pointer">
-            <div>
-              <div class="flex items-center justify-between gap-2 mb-2.5">
-                <span class="text-[10px] font-mono uppercase px-2 py-0.5 rounded bg-slate-900 text-cyan-400 border border-slate-800">${item.category}</span>
-                <span class="text-[11px] font-mono text-slate-500">${item.published_at || 'LIVE'}</span>
-              </div>
-              <h3 class="font-serif text-lg font-bold text-white group-hover:text-cyan-300 transition leading-snug mb-2.5">${t.title}</h3>
-              <p class="text-slate-400 text-xs sm:text-sm leading-relaxed mb-3">${t.summary}</p>
-            </div>
-            ${t.key_point ? `<div class="pt-2.5 border-t border-slate-800/80 text-[11px] font-mono text-amber-400/90">💡 ${t.key_point}</div>` : ''}
-          </article>
-        `;
-      }).join('');
-
-      const wire = list.slice(5).length > 0 ? list.slice(5) : list;
-      const wireBox = document.getElementById('wire-container');
-      let oddsHtml = '';
-      if (terminalData && terminalData.predictions && terminalData.predictions.length > 0) {
-        oddsHtml = `
-          <div class="mb-5 p-3.5 rounded-lg bg-[#060a10] border border-cyan-500/30">
-            <div class="text-[10px] font-mono uppercase tracking-wider text-cyan-400 font-bold mb-2.5 flex items-center justify-between">
-              <span>POLYMARKET LIVE ODDS</span><span>PROBABILITY</span>
-            </div>
-            <div class="space-y-2">
-              ${terminalData.predictions.map(p => `
-                <div class="flex items-center justify-between text-xs gap-2 border-b border-slate-800/60 pb-1.5 last:border-none last:pb-0">
-                  <span class="text-slate-300 truncate">${p.title}</span>
-                  <span class="font-mono font-bold text-emerald-400 shrink-0">${p.probability}</span>
-                </div>
-              `).join('')}
-            </div>
-          </div>
-        `;
-      }
-
-      wireBox.innerHTML = oddsHtml + wire.map((item, idx) => {
-        const t = item[currentLang] || item.en;
-        return `
-          <div onclick="window.open('${item.source_link || '#'}', '_blank')" class="relative group cursor-pointer pb-4 border-b border-slate-800/70 last:border-none">
-            <span class="absolute -left-[21px] top-1.5 w-2.5 h-2.5 rounded-full ${idx === 0 ? 'bg-cyan-400 ring-4 ring-cyan-500/20' : 'bg-slate-600 group-hover:bg-cyan-400'} transition"></span>
-            <div class="text-[11px] font-mono text-slate-400 mb-1">
-              <span>${item.published_at || 'RECENT'}</span> • <span class="text-cyan-400 uppercase">${item.category}</span>
-            </div>
-            <h4 class="text-sm font-medium text-slate-100 group-hover:text-cyan-300 transition leading-snug">${t.title}</h4>
-          </div>
-        `;
-      }).join('');
-    }
-
-    function setCategory(cat, btnEl) {
-      currentCategory = cat;
-      document.querySelectorAll('.nav-pill').forEach(btn => {
-        btn.className = "nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-slate-900/80 text-slate-400 border border-terminal-border hover:text-slate-200";
-      });
-      btnEl.className = "nav-pill shrink-0 px-4 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-cyan-500/15 text-cyan-300 border border-cyan-400/50 shadow-[0_0_12px_rgba(6,182,212,0.2)]";
-      renderAll();
-    }
-
-    function toggleLanguage() {
-      currentLang = currentLang === 'en' ? 'bn' : 'en';
-      document.getElementById('lang-btn').innerText = currentLang === 'en' ? 'বাংলা সংস্করণ' : 'ENGLISH EDITION';
-      renderAll();
-    }
-
-    async function initPortal() {
-      drawChart('BTC');
-      renderAll();
-      try {
-        const res = await fetch('news.json?t=' + Date.now());
-        if (res.ok) {
-          terminalData = await res.json();
-          if (terminalData.market) renderTicker(terminalData.market);
-          renderAll();
-        }
-      } catch (e) {}
-    }
-
-    initPortal();
-  </script>
-</body>
-</html>
+      <div class="hidden md:flex items-center gap-2 bg-slate-900/90 text-slate-30
