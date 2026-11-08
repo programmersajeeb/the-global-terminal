@@ -1,25 +1,25 @@
 {
-  "updated_at": "08 Nov 2026, 08:11 UTC",
+  "updated_at": "08 Nov 2026, 09:12 UTC",
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$75,848",
-      "change": -0.26
+      "price": "$75,824",
+      "change": -0.34
     },
     {
       "symbol": "ETH/USD",
-      "price": "$2,236",
-      "change": -0.39
+      "price": "$2,235",
+      "change": -0.49
     },
     {
       "symbol": "SOL/USD",
-      "price": "$89.12",
-      "change": -1.11
+      "price": "$89.11",
+      "change": -1.15
     },
     {
       "symbol": "BNB/USD",
-      "price": "$699",
-      "change": 0.73
+      "price": "$697",
+      "change": 0.31
     },
     {
       "symbol": "S&P 500",
