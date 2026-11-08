@@ -1,6 +1,59 @@
 {
-  "updated_at": "",
-  "market": [],
-  "predictions": [],
+  "updated_at": "08 Nov 2026, 06:55 UTC",
+  "market": [
+    {
+      "symbol": "BTC/USD",
+      "price": "$75,744",
+      "change": -0.3
+    },
+    {
+      "symbol": "ETH/USD",
+      "price": "$2,231",
+      "change": -0.64
+    },
+    {
+      "symbol": "SOL/USD",
+      "price": "$88.92",
+      "change": -1.42
+    },
+    {
+      "symbol": "S&P 500",
+      "price": "7,376.86",
+      "change": 0.31
+    },
+    {
+      "symbol": "NASDAQ",
+      "price": "24,579.42",
+      "change": 1.09
+    },
+    {
+      "symbol": "BRENT CRUDE",
+      "price": "$98.32",
+      "change": 0.03
+    },
+    {
+      "symbol": "GOLD",
+      "price": "$4,074.90",
+      "change": -0.94
+    }
+  ],
+  "predictions": [
+    {
+      "title": "Kraken IPO by ___ ?",
+      "probability": "0%"
+    },
+    {
+      "title": "Macron out by...?",
+      "probability": "0%"
+    },
+    {
+      "title": "UK election called by...?",
+      "probability": "0%"
+    },
+    {
+      "title": "China x India military clash by...?",
+      "probability": "0%"
+    }
+  ],
   "articles": []
 }
