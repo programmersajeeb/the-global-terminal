@@ -1,26 +1,26 @@
 {
-  "updated_at": "08 Nov 2026, 23:13 UTC",
-  "total_count": 72,
+  "updated_at": "09 Nov 2026, 02:45 UTC",
+  "total_count": 90,
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$74,997",
-      "change": -0.87
+      "price": "$75,337",
+      "change": -0.37
     },
     {
       "symbol": "ETH/USD",
-      "price": "$2,150",
-      "change": -3.6
+      "price": "$2,152",
+      "change": -3.38
     },
     {
       "symbol": "SOL/USD",
-      "price": "$87.30",
-      "change": -2.14
+      "price": "$88.14",
+      "change": -0.77
     },
     {
       "symbol": "BNB/USD",
-      "price": "$687",
-      "change": -1.0
+      "price": "$690",
+      "change": -0.61
     },
     {
       "symbol": "S&P 500",
@@ -50,7 +50,7 @@
     },
     {
       "title": "MegaETH airdrop by...?",
-      "probability": "8%"
+      "probability": "6%"
     },
     {
       "title": "Xi Jinping out before 2027?",
@@ -61,11 +61,427 @@
       "probability": "10%"
     },
     {
-      "title": "Putin out as President of Russia by...?",
-      "probability": "2%"
+      "title": "Presidential Election Winner 2028",
+      "probability": "18%"
     }
   ],
   "articles": [
+    {
+      "id": "18350af4fe822ea7df009ba8745e5c5a",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "CORPORATE ACTION",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwd1BnRXdVVU0xQnJxR0dlc3o0VzhrZDVQYjBzOUJicEU1RDR2SDVTWS1YSGFBWDU5MzFzXzFpQXR5YWxEWUd2RFNrQUJOVzZHLUhuSVJlMTlvVFlMdzZ0Tmx4Ml9Td9IBa0FVX3lxTE5rMnI4U0ZIOHExX09ncU11cmpQN0ZIcjllVDVyVmtwYTdkTnRFa21VN2NRX3RZR2N2NkRaY2d1cG9qY0JpVnozTDRqem9IT1Q3WmtpUmtWeVA4a3FLeWJKby1SdVlucVM5aVE4?oc=5",
+      "en": {
+        "title": "PHOENIX SYMPHONY MUSICIANS HOST BENEFIT CONCERT AFTER LAYOFFS",
+        "summary": "Phoenix Symphony musicians host benefit concert after layoffs. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Phoenix Symphony musicians host benefit concert after layoffs",
+        "summary": "Phoenix Symphony musicians host benefit concert after layoffs. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "bcb59ac10e4a30f37e74bc94b50e5c7a",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BRENT"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlJwZW9qVWozVExBTWZZa0JEVTNvQ3cycjJ2TjA0VUExNWZsSkcxeFBpTjRReWFqbklWQ3F0MGYxNU9rcGtMeDZLa3VxeGoyQWFzamtPbHRqaXRTSmV3b1FRWF90TUVZS21PUmFZQWRZREYtZUx4WThvb19sT1BPdkNYSFBiWTNfdVVmUk5RNXFtYjctOThkZWVDdTliZw?oc=5",
+      "en": {
+        "title": "IRAQ HAS REACHED UNDERSTANDINGS WITH US TO ALLOW OIL EXPORTS THROUGH HORMUZ",
+        "summary": "Iraq Has Reached Understandings With US To Allow Oil Exports Through Hormuz. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BRENT | IMPACT: 10/10] Expect elevated two-way volatility in $BRENT; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Iraq Has Reached Understandings With US To Allow Oil Exports Through Hormuz",
+        "summary": "Iraq Has Reached Understandings With US To Allow Oil Exports Through Hormuz. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BRENT | IMPACT: 10/10] Expect elevated two-way volatility in $BRENT; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "13b9abb767191ca60c23367d4e3b3133",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1g0SjQ2VTRZVFZIM2FYbkNBLXRUSGIwYU5jYkd2ckk2X1QzYnRoblA0aDZiWDU5ME1CZUN6Y3pTQWlhcFlfNGpaZnh0UzJEeEpwdVFaUmVwUDlCbGtOaXRXMV9wYW5LanUwY0g2UF9tcFZFckU3RUZyVEVNWDl5N0ZMYVN3QTVrSXJyd1p0NmE4SFpycHlMVUdB?oc=5",
+      "en": {
+        "title": "CHINA CPI INFLATION MISSES FORECASTS IN OCT; FACTORY-GATE PRICES ACCELERATE",
+        "summary": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Downside pressure expected on $SPY / $QQQ; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
+        "summary": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Downside pressure expected on $SPY / $QQQ; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "6ffde4e5c3e93dd62f911955638e4206",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LaFN3NndhM0FLN015X243R2JqQ20zNm5HZWF0NUQwNjBXQlE1dGdBVVdHNVZER1RETlpaeElxTGdBSDdlcXVYTjNiSjF3OFNwdm5OM2VSbGtvQmVTckpZd005dVRSUEpEOG9qN3B3?oc=5",
+      "en": {
+        "title": "CHINA'S CONSUMER PRICE INDEX (CPI), A MAIN GAUGE OF INFLATION, ROSE 0.7% YEAR ON YEAR IN OCTOBER, OFFICIAL DATA SHOWED ON MONDAY.",
+        "summary": "China's consumer price index (CPI), a main gauge of inflation, rose 0.7% year on year in October, official data showed on Monday.. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "China's consumer price index (CPI), a main gauge of inflation, rose 0.7% year on year in October, official data showed on Monday.",
+        "summary": "China's consumer price index (CPI), a main gauge of inflation, rose 0.7% year on year in October, official data showed on Monday.. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "368e6907d2aab51673225e2c6b50f80c",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWFlNk5Jd0o0VFBVRThjUXAyOTNNZldlcEM0NGNUTUpiQ1N3aXFEV3pTdC1tc3VBM0dzUENsNkpsNVB3YmM3cllCS3dzT2puR1ZZMjFsNmRhSGVPdzlvZGh6dmsyVWptNXJLMG5IVzlNZ0c1aUxTNWhKQkZlck9weHZLd00wWUJLcW9ib29Wc2FpZjZ5bWtBSw?oc=5",
+      "en": {
+        "title": "CHINA OCTOBER INFLATION PREVIEW: CPI SEEN NEAR 0.8%, PPI ABOVE 5%",
+        "summary": "China October inflation preview: CPI seen near 0.8%, PPI above 5%. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
+        "summary": "China October inflation preview: CPI seen near 0.8%, PPI above 5%. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "9f79fbf3e84363cf0039d986f959edc0",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlFuRlphTEkwYUx3TWxDZUJNYVZvdlZHNWpsUEFleV9OUlVVT0FDSVJ4akpoMlcydWRLZHJ1QWVneUJSQ1FvX3hjdzhjZXJMZXZtQkdQcDRFMXJMVHZjeUhvdzBfNjg2NFdKaTNZaWFhdC1kVjRaZ09JQUVmWFJBTVI3RmFxU0dnNzhOVUhYbjRNVXlRWEEyUVVwOGpiV3c?oc=5",
+      "en": {
+        "title": "AUSTRALIAN DOLLAR HOLDS GAINS FOLLOWING CHINA’S CPI DATA",
+        "summary": "Australian Dollar holds gains following China’s CPI data. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Positive momentum catalyst for $SPY / $QQQ; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "Australian Dollar holds gains following China’s CPI data",
+        "summary": "Australian Dollar holds gains following China’s CPI data. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Positive momentum catalyst for $SPY / $QQQ; monitor breakout volume and long positioning."
+      }
+    },
+    {
+      "id": "1db36f4dcf1e6ccafc9fac27f0e9052e",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BTC",
+        "$SPY / $QQQ"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WQmFyUnhBVHZudFlVUWl2VG1sX2RjWkR4RTB4NVhWWElLUmFfSEpRWG5yMzhVTFg0R0llWjdWbzZ4dmdET25wbGVnX3ZkQWd3Y09jcjE1TmI4MzZaSXpLdVlxNUxITlJ5M2hPU0dQcTVpTXVIZk12VC1sOVQ5UQ?oc=5",
+      "en": {
+        "title": "BITCOIN FACES CPI TEST AFTER AI STOCK SELL-OFF",
+        "summary": "Bitcoin Faces CPI Test After AI Stock Sell-Off. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $BTC, $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Bitcoin Faces CPI Test After AI Stock Sell-Off",
+        "summary": "Bitcoin Faces CPI Test After AI Stock Sell-Off. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $BTC, $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "f6dc4cabb24263e6b7332744fbf6c857",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUhDdHc4S21ERVdhZXh5c1hDX0Y0ME1GNVNweFhRRDB5S1JjTDFSdjBRRnY1d0pPd0lzS0k3ZjdxLWZiVEk4dWprV19ZbVVONktyLUczZkF1VkhmVm5xdkJac2NtUzRxNURUbUl3YW9xeWo1d3ZwbWZkRzdsNjZUQVVTMjkyMXQ3SEJXbnRlOXdhekFwdXZaMHVBNi1jQXM?oc=5",
+      "en": {
+        "title": "ROOS HIT THE ROAD FOR SEC SHOWDOWN AT ARKANSAS",
+        "summary": "Roos Hit the Road for SEC Showdown at Arkansas. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Roos Hit the Road for SEC Showdown at Arkansas",
+        "summary": "Roos Hit the Road for SEC Showdown at Arkansas. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "2fe97e3891525a8509ff940c0b8f926a",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemltUWlVVmVZWmwzeVBhMFBzSUpETnFOVG51V3dzWExrRks3bHZVSnpTcHgycDVUX3RKYUhFWmVCYVdLbzdOMm5UZEhpWVBPZ0g5bDlVQzY5RXA2bEVUMF9BYzVvdlprZFRZV1cyX3BacldzcFZoaWowS1FYMWVFdTRSUmtQek5EekJUeF92X1dKSU1GX1kw?oc=5",
+      "en": {
+        "title": "UNUM GROUP Q3 EARNINGS CALL HIGHLIGHTS",
+        "summary": "Unum Group Q3 Earnings Call Highlights. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Unum Group Q3 Earnings Call Highlights",
+        "summary": "Unum Group Q3 Earnings Call Highlights. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "13c767750b21bdcbd2a5a1939af8e387",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORU9jd2p0YzZSVHVKUFhxOEdXYy1DZnExUjJkbHBrTzN1Q3J5ejBEdnFzY0w3NXhKV3BMN3dFOWIwMEpEalQ2bUQwWXdiQXBLVW5xZE1zQUxVc3lRbU9BWmxiMlktRFdwb25ueDJ1SUFVN093aDd3UlZFN3Jobm03S1gtcklQNktGR1Nycm9rRmRNbEoy?oc=5",
+      "en": {
+        "title": "US FOODS Q3 EARNINGS CALL HIGHLIGHTS",
+        "summary": "US Foods Q3 Earnings Call Highlights. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "US Foods Q3 Earnings Call Highlights",
+        "summary": "US Foods Q3 Earnings Call Highlights. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "3e7dcba292f39d18302450ce19845a08",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQThzNV9COU1XQ09jYTIxZFlaYzREd2VXbjBNVHd0Q09CN3FyQ2FrMkoxckQ2N3dxcGliVy1KdDI4LUdRdGtvLW5qZWNwRHgzZVNORXp4UGxtSDJQUnotOVUyU2hVa3owaWtob3JvemVXdDJaS21qODhFMlFGS0tGdkNOMDEyR0p1bEQxUUh2d3pNMENuWXg1U3NQQlVHejhs?oc=5",
+      "en": {
+        "title": "5 REVEALING ANALYST QUESTIONS FROM UBER’S Q3 2026 EARNINGS CALL",
+        "summary": "5 revealing analyst questions from Uber’s Q3 2026 earnings call. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "5 revealing analyst questions from Uber’s Q3 2026 earnings call",
+        "summary": "5 revealing analyst questions from Uber’s Q3 2026 earnings call. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "2b4479d0e1c0d4167e8ede74f6611c5e",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "en": {
+        "title": "I’M SECOND-GUESSING MY ADVISER: IS AN ANNUITY THE RIGHT MOVE IN THIS MARKET?",
+        "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+        "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "19405a2801e87fd03359eaa699e0d959",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$BTC",
+        "$ETH"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFpQSVpvNXBGV2hwTjJfVU04ckxGRFducjRla2JTVE1WM0NsM1B3NUp6R1I3SlIyUTdybENFRW80NTlkSXdKQWJRcE0zU3oxdHJvcVNScE16ZGlacTlqVEhqeWk2bnYtT1dwVUdIMHZaTGJlSGVHMVpsd25SYUVpblJUQXJtdUhpeGprZ3lhV0VaTWNSb2lQQVB3UWVzbThpRDQ1aWROaEJpbGdrQWc?oc=5",
+      "en": {
+        "title": "BITCOIN ETF OUTFLOWS HIT 4-MONTH HIGH AS ETHEREUM FUNDS STAY IN THE RED",
+        "summary": "Bitcoin ETF Outflows Hit 4-Month High as Ethereum Funds Stay in the Red. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $ETH | IMPACT: 9/10] Expect elevated two-way volatility in $BTC, $ETH; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Bitcoin ETF Outflows Hit 4-Month High as Ethereum Funds Stay in the Red",
+        "summary": "Bitcoin ETF Outflows Hit 4-Month High as Ethereum Funds Stay in the Red. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $ETH | IMPACT: 9/10] Expect elevated two-way volatility in $BTC, $ETH; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "d5f2cb22e68c51200cb4d74c5558b094",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oMlpaNGtBZUJvX1ctaG9IWXFicnp3VEJjcDB1d3FTeXY5Z2VkZzQ1akt0RGtSaXFVTGtFRFg3SUFLZUxaVFJkX2l3bW1Mc3JialVoOTJn?oc=5",
+      "en": {
+        "title": "GLOBAL TRADE AT RISK AS HOUTHIS CAPTURE RED SEA CHOKEPOINT UNDER IRANIAN GUIDANCE",
+        "summary": "Global trade at risk as Houthis capture Red Sea chokepoint under Iranian guidance. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Global trade at risk as Houthis capture Red Sea chokepoint under Iranian guidance",
+        "summary": "Global trade at risk as Houthis capture Red Sea chokepoint under Iranian guidance. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "89f37882706c235fe7144f3b340cca85",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5",
+      "en": {
+        "title": "MIDDLE EAST LATEST: TRUMP PLAYS DOWN PROSPECT OF NEW STRIKES ON IRAN",
+        "summary": "Middle East latest: Trump plays down prospect of new strikes on Iran. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Middle East latest: Trump plays down prospect of new strikes on Iran",
+        "summary": "Middle East latest: Trump plays down prospect of new strikes on Iran. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "b0ab34977129634ab5b5aea3f816526f",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "en": {
+        "title": "IRAN EXECUTES THREE MEN FOR 'ARMED UNREST' AFTER JANUARY PROTESTS",
+        "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Iran executes three men for 'armed unrest' after January protests",
+        "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "180f064dfab83b01046179b2a27591f7",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "en": {
+        "title": "ARAMCO TOWER HIT IN HEART OF SAUDI CAPITAL AS HOUTHIS LAUNCH FRESH STRIKES",
+        "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+        "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "b8448f6a20803066df33bbddaea65ed8",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "02:45 UTC",
+      "source_link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "en": {
+        "title": "PARAGUAY'S FORMER PRESIDENT CHARGED AFTER BANK COLLAPSE",
+        "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Paraguay's former president charged after bank collapse",
+        "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
     {
       "id": "7a07f89afb907483ff3de0af95da2f7d",
       "category": "crypto",
