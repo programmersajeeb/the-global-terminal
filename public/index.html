@@ -224,7 +224,7 @@
         </section>
 
         <!-- MULTI-NEWS INTELLIGENCE GRID HEADER -->
-        <div class="flex items-center justify-between border-b border-terminal-border pb-2.5">
+        <div id="grid-header" class="flex items-center justify-between border-b border-terminal-border pb-2.5 scroll-mt-16">
           <div class="flex items-center gap-2">
             <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
             <h3 class="font-mono text-xs sm:text-sm font-bold tracking-wider uppercase text-white">LATEST MARKET-MOVING INTELLIGENCE</h3>
@@ -234,6 +234,14 @@
 
         <!-- MULTI-NEWS CARDS GRID -->
         <section id="secondary-grid" class="grid grid-cols-1 md:grid-cols-2 gap-5"></section>
+
+        <!-- TERMINAL PAGINATION BAR -->
+        <div id="pagination-bar" class="bg-terminal-panel border border-terminal-border rounded-xl px-4 py-3.5 flex flex-col sm:flex-row items-center justify-between gap-3 shadow-lg">
+          <div id="pagination-info" class="text-[11px] font-mono text-slate-400 tracking-wider uppercase">
+            SHOWING 0–0 OF 0 INTEL REPORTS
+          </div>
+          <div id="pagination-buttons" class="flex flex-wrap items-center justify-center gap-1.5 font-mono text-xs"></div>
+        </div>
       </div>
 
       <!-- RIGHT 4 COLS: CONTINUOUS FAST WIRE & POLYMARKET -->
@@ -266,6 +274,8 @@
   <script>
     let currentLang = 'en';
     let currentCategory = 'all';
+    let currentPage = 1;
+    const itemsPerPage = 10;
     let terminalData = null;
 
     const fallbackArticles = [
@@ -282,9 +292,9 @@
           key_point: "Keep stop-losses tight on high-leverage perpetual positions during major macro and security alerts."
         },
         bn: {
-          title: "অন-চেইন সিকিউরিটি রাডার সক্রিয়: এক্সচেঞ্জ লিকুইডিটি এবং স্মার্ট কন্ট্রাক্ট ফ্লো মনিটরিং চলছে",
-          summary: "দ্য গ্লোবাল টার্মিনালের স্বয়ংক্রিয় সিকিউরিটি ইঞ্জিন প্রতি ১০ মিনিটে আন্তর্জাতিক আরএসএস ফিড, সিকিউরিটি অ্যালার্ট এবং জিডেল্ট ওয়্যার স্ক্যান করছে।",
-          key_point: "বড় ম্যাক্রো বা সিকিউরিটি অ্যালার্ট চলাকালীন হাই-লিভারেজ ট্রেডে স্টপ-লস টাইট রাখুন।"
+          title: "অন-চেইন সিকিউরিটি রাডার সক্রিয়: এক্সচেঞ্জ লিকুইডিটি এবং স্মার্ট কন্ট্রাক্ট ফ্লো মনিটরিং চলছে",
+          summary: "দ্য গ্লোবাল টার্মিনালের স্বয়ংক্রিয় সিকিউরিটি ইঞ্জিন প্রতি ১০ মিনিটে আন্তর্জাতিক আরএসএস ফিড, সিকিউরিটি অ্যালার্ট এবং জিডেল্ট ওয়্যার স্ক্যান করছে।",
+          key_point: "বড় ম্যাক্রো বা সিকিউরিটি অ্যালার্ট চলাকালীন হাই-লিভারেজ ট্রেডে স্টপ-লস টাইট রাখুন।"
         }
       },
       {
@@ -300,9 +310,9 @@
           key_point: "Watch NASDAQ 100 opening volume; weakness in mega-cap tech could pressure Bitcoin short-term support."
         },
         bn: {
-          title: "মুদ্রাস্ফীতি ডেটার আগে ওয়াল স্ট্রিটে টেক এবং সেমিকন্ডাক্টর শেয়ারে প্রাতিষ্ঠানিক সতর্কতা",
-          summary: "ফেডারেল রিজার্ভের পরবর্তী নীতিমালা ও বন্ড ইল্ড ওঠানামার কারণে বড় ইনভেস্টমেন্ট ডেস্কগুলো এআই এবং সেমিকন্ডাক্টর স্টকে ঝুঁকি কমাচ্ছে।",
-          key_point: "নাসডাক ওপেনিং ভলিউমের দিকে নজর রাখুন; টেক স্টকের চাপ বিটকয়েনের শর্ট-টার্ম সাপোর্টে প্রভাব ফেলতে পারে।"
+          title: "মুদ্রাস্ফীতি ডেটার আগে ওয়াল স্ট্রিটে টেক এবং সেমিকন্ডাক্টর শেয়ারে প্রাতিষ্ঠানিক সতর্কতা",
+          summary: "ফেডারেল রিজার্ভের পরবর্তী নীতিমালা ও বন্ড ইল্ড ওঠানামার কারণে বড় ইনভেস্টমেন্ট ডেস্কগুলো এআই এবং সেমিকন্ডাক্টর স্টকে ঝুঁকি কমাচ্ছে।",
+          key_point: "নাসডাক ওপেনিং ভলিউমের দিকে নজর রাখুন; টেক স্টকের চাপ বিটকয়েনের শর্ট-টার্ম সাপোর্টে প্রভাব ফেলতে পারে।"
         }
       },
       {
@@ -318,9 +328,9 @@
           key_point: "Brent Crude maintains strong upside bid above $95; energy equities and gold remain primary hedges."
         },
         bn: {
-          title: "হরমুজ প্রণালীতে নৌ-নিরাপত্তা উত্তেজনায় জ্বালানি তেলের বাজারে বাড়তি সতর্কতা",
-          summary: "মধ্যপ্রাচ্যের গুরুত্বপূর্ণ নৌপথে সামরিক টহল ও ড্রোন ইন্টারসেপশনের ঘটনায় অপরিশোধিত তেলবাহী জাহাজের বীমা খরচ বৃদ্ধি পেয়েছে।",
-          key_point: "ব্রেন্ট ক্রুড অয়েল $৯৫ এর ওপরে শক্তিশালী অবস্থানে রয়েছে; হেজিংয়ের জন্য স্বর্ণ ও এনার্জি সেক্টর অনুকূলে।"
+          title: "হরমুজ প্রণালীতে নৌ-নিরাপত্তা উত্তেজনায় জ্বালানি তেলের বাজারে বাড়তি সতর্কতা",
+          summary: "মধ্যপ্রাচ্যের গুরুত্বপূর্ণ নৌপথে সামরিক টহল ও ড্রোন ইন্টারসেপশনের ঘটনায় অপরিশোধিত তেলবাহী জাহাজের বীমা খরচ বৃদ্ধি পেয়েছে।",
+          key_point: "ব্রেন্ট ক্রুড অয়েল $৯৫ এর ওপরে শক্তিশালী অবস্থানে রয়েছে; হেজিংয়ের জন্য স্বর্ণ ও এনার্জি সেক্টর অনুকূলে।"
         }
       }
     ];
@@ -371,6 +381,84 @@
         return `<div class="flex items-center gap-1.5"><span>${m.symbol}</span><span class="text-white font-semibold">${m.price}</span><span class="${color}">${arrow}${m.change}%</span></div><span class="text-slate-700">•</span>`;
       }).join('');
       tickerContainer.innerHTML = buildItems() + buildItems();
+    }
+
+    function goToPage(page) {
+      currentPage = page;
+      renderAll();
+      const gridHeader = document.getElementById('grid-header');
+      if (gridHeader) {
+        gridHeader.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    function renderPagination(totalGridItems, startIdx, endIdx) {
+      const barEl = document.getElementById('pagination-bar');
+      const infoEl = document.getElementById('pagination-info');
+      const btnContainer = document.getElementById('pagination-buttons');
+
+      const totalPages = Math.ceil(totalGridItems / itemsPerPage) || 1;
+
+      if (totalGridItems === 0) {
+        infoEl.innerText = 'SHOWING 0 INTEL REPORTS';
+        btnContainer.innerHTML = '';
+        return;
+      }
+
+      const fromNum = startIdx + 1;
+      const toNum = Math.min(endIdx, totalGridItems);
+      infoEl.innerHTML = `SHOWING <span class="text-cyan-400 font-bold">${fromNum}–${toNum}</span> OF <span class="text-white font-bold">${totalGridItems}</span> GRID REPORTS • PAGE <span class="text-cyan-400 font-bold">${currentPage}/${totalPages}</span>`;
+
+      let buttonsHtml = '';
+
+      // PREV button
+      const prevDisabled = currentPage <= 1;
+      buttonsHtml += `
+        <button onclick="${prevDisabled ? '' : `goToPage(${currentPage - 1})`}" ${prevDisabled ? 'disabled' : ''} class="px-2.5 py-1 rounded border transition ${prevDisabled ? 'bg-slate-950 text-slate-600 border-slate-800/60 cursor-not-allowed' : 'bg-slate-900 hover:bg-slate-800 text-slate-200 border-terminal-border hover:border-cyan-500/40'}">
+          ← PREV
+        </button>
+      `;
+
+      // Smart page numbers with ellipsis
+      const maxVisible = 5;
+      let startPage = Math.max(1, currentPage - 2);
+      let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+      if (endPage - startPage < maxVisible - 1) {
+        startPage = Math.max(1, endPage - maxVisible + 1);
+      }
+
+      if (startPage > 1) {
+        buttonsHtml += `<button onclick="goToPage(1)" class="px-2.5 py-1 rounded border bg-slate-900 hover:bg-slate-800 text-slate-300 border-terminal-border transition">1</button>`;
+        if (startPage > 2) {
+          buttonsHtml += `<span class="px-1 text-slate-600">...</span>`;
+        }
+      }
+
+      for (let p = startPage; p <= endPage; p++) {
+        const isCurrent = p === currentPage;
+        buttonsHtml += `
+          <button onclick="goToPage(${p})" class="px-2.5 py-1 rounded border font-bold transition ${isCurrent ? 'bg-cyan-500/20 text-cyan-300 border-cyan-400/60 shadow-[0_0_10px_rgba(6,182,212,0.2)]' : 'bg-slate-900 hover:bg-slate-800 text-slate-400 hover:text-slate-200 border-terminal-border'}">
+            ${p}
+          </button>
+        `;
+      }
+
+      if (endPage < totalPages) {
+        if (endPage < totalPages - 1) {
+          buttonsHtml += `<span class="px-1 text-slate-600">...</span>`;
+        }
+        buttonsHtml += `<button onclick="goToPage(${totalPages})" class="px-2.5 py-1 rounded border bg-slate-900 hover:bg-slate-800 text-slate-300 border-terminal-border transition">${totalPages}</button>`;
+      }
+
+      // NEXT button
+      const nextDisabled = currentPage >= totalPages;
+      buttonsHtml += `
+        <button onclick="${nextDisabled ? '' : `goToPage(${currentPage + 1})`}" ${nextDisabled ? 'disabled' : ''} class="px-2.5 py-1 rounded border transition ${nextDisabled ? 'bg-slate-950 text-slate-600 border-slate-800/60 cursor-not-allowed' : 'bg-slate-900 hover:bg-slate-800 text-slate-200 border-terminal-border hover:border-cyan-500/40'}">
+          NEXT →
+        </button>
+      `;
+
+      btnContainer.innerHTML = buttonsHtml;
     }
 
     function renderAll() {
@@ -427,8 +515,16 @@
       document.getElementById('hero-summary').innerText = heroText.summary;
       document.getElementById('hero-takeaway').innerText = heroText.key_point || '';
 
-      // Render Multi-News Secondary Grid (Up to 10 cards)
-      const secondary = list.slice(1, 11);
+      // Paginate Remaining Articles for Secondary Grid
+      const gridPool = list.slice(1);
+      const totalPages = Math.ceil(gridPool.length / itemsPerPage) || 1;
+      if (currentPage > totalPages) currentPage = totalPages;
+      if (currentPage < 1) currentPage = 1;
+
+      const startIdx = (currentPage - 1) * itemsPerPage;
+      const endIdx = startIdx + itemsPerPage;
+      const secondary = gridPool.slice(startIdx, endIdx);
+
       const secGrid = document.getElementById('secondary-grid');
       if (secondary.length === 0) {
         secGrid.innerHTML = `<div class="col-span-2 bg-terminal-panel border border-terminal-border rounded-xl p-6 text-center font-mono text-xs text-slate-400">WAITING FOR NEXT AUTOMATED BOT DISPATCH...</div>`;
@@ -465,6 +561,9 @@
           `;
         }).join('');
       }
+
+      // Render Pagination Controls
+      renderPagination(gridPool.length, startIdx, endIdx);
 
       // Render Right-Side Continuous Fast Wire (All articles + Polymarket)
       const wireBox = document.getElementById('wire-container');
@@ -508,6 +607,7 @@
 
     function setCategory(cat, btnEl) {
       currentCategory = cat;
+      currentPage = 1;
       document.querySelectorAll('.nav-pill').forEach(btn => {
         btn.className = "nav-pill shrink-0 px-3.5 py-1.5 rounded-full text-xs font-mono font-semibold tracking-wider uppercase transition bg-slate-900/80 text-slate-400 border border-terminal-border hover:text-slate-200";
       });
