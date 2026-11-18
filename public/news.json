@@ -1,26 +1,26 @@
 {
-  "updated_at": "18 Nov 2026, 01:59 UTC",
+  "updated_at": "18 Nov 2026, 10:02 UTC",
   "total_count": 120,
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$64,359",
-      "change": -0.53
+      "price": "$64,558",
+      "change": 0.4
     },
     {
       "symbol": "ETH/USD",
-      "price": "$1,804",
-      "change": -0.8
+      "price": "$1,811",
+      "change": 0.07
     },
     {
       "symbol": "SOL/USD",
-      "price": "$74.24",
+      "price": "$75.09",
       "change": 3.45
     },
     {
       "symbol": "BNB/USD",
-      "price": "$592",
-      "change": -0.12
+      "price": "$591",
+      "change": 0.17
     },
     {
       "symbol": "S&P 500",
@@ -66,6 +66,422 @@
     }
   ],
   "articles": [
+    {
+      "id": "d151b74e3cc84b1709fbe7a140241f22",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 10,
+      "tickers": [
+        "$NVDA"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdktTWGx4MTJkY1pwR1JFTm1JN21Oa2xNXzBhbWo1OUtONGUxbW5zLXlMZ0pCM3AzTFNjQkR6cjVDYjVXbmVpenBOZHFTR1luNklyeDMyUXF0TmZEdzRUa3VUTWFEQ3JEZVHSAW9BVV95cUxQMndnOEhXQVJYTzBwMWxEd0ZRUk5YSFNGeElOZzhPVTd2bnNZRkExZWpOY0V5MTZmRFFDcWtpT0ZQSF9LeFF3ZUw4X3BKdGRaU0V5V1hGbjIzZXFqSDdZX3FScDNxa2JCOGJOaDVtSlE?oc=5",
+      "en": {
+        "title": "NVIDIA STOCK UP 3% AS EARNINGS BEAT EXPECTATIONS. NEOCLOUDS SURGE",
+        "summary": "Nvidia stock up 3% as earnings beat expectations. Neoclouds surge. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$NVDA | IMPACT: 10/10] Positive momentum catalyst for $NVDA; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "এনভিডিয়ার স্টক 3% বেড়েছে কারণ আয় প্রত্যাশাকে ছাড়িয়ে গেছে। নিওক্লাউডের ঢেউ",
+        "summary": "এনভিডিয়ার স্টক 3% বেড়েছে কারণ আয় প্রত্যাশাকে ছাড়িয়ে গেছে। নিওক্লাউডের ঢেউ। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$NVDA | প্রভাব: 10/10] $NVDA-এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
+      }
+    },
+    {
+      "id": "15aa93031f968f10b3cde00483ed5bb1",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "CORPORATE ACTION",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSlFoMlBWMjN5aC1LcVRTZUJJVnpxRFhaSkdUckVKczJFdjJMMFFRUVA1Qm9HbDhUNzAzcElyY21BQTdEUmNQNkE1eWY0M2VvaU91S0pheUNhMXNBRTk4bGZkd3VOUUs2bExMT1BWYUFSNTdkOUtmemk3T1FMaGZOWk1TbmJ2RnFoX21QekNfWkRGSVJCOWI5UUptZEVfRmJ0cUFKejVZNS0?oc=5",
+      "en": {
+        "title": "JOB CUTS MOUNT ACROSS CORPORATE AUSTRALIA IN 2026",
+        "summary": "Job cuts mount across corporate Australia in 2026. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "2026 সালে কর্পোরেট অস্ট্রেলিয়া জুড়ে চাকরির ঘাটতি বেড়েছে",
+        "summary": "2026 সালে কর্পোরেট অস্ট্রেলিয়া জুড়ে চাকরির ঘাটতি বেড়েছে। প্রাতিষ্ঠানিক ডেস্ক এই উন্নয়নের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "d94712ef44a930fd8a12a6133bb8df1b",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
+      "en": {
+        "title": "THE S&P 500 JUST BROKE A CRUCIAL SUPPORT LEVEL. HERE’S WHAT HISTORY SHOWS MAY HAPPEN NOW.",
+        "summary": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
+        "key_point": "[$SPY | IMPACT: 10/10] Downside pressure expected on $SPY; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "S&P 500 সবেমাত্র একটি গুরুত্বপূর্ণ সমর্থন স্তর ভেঙ্গেছে। ইতিহাসে এখন যা ঘটতে পারে তা এখানে।",
+        "summary": "200 দিনের চলমান গড় লঙ্ঘন একটি বিয়ারিশ সংকেত হিসাবে নেওয়া হয়। এটি এই বাজারের ক্ষেত্রে নাও হতে পারে, বেসপোক ইনভেস্টমেন্ট বলে",
+        "key_point": "[$SPY | প্রভাব: 10/10] $SPY-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "c092ba4866199eb5a0769ed3ce98948b",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BTC",
+        "$DXY / $SPY"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHRZMTlXVDA1WkhLVXAzd09DeVA2U0taalJiWHk5bzVidElZU3BFT3FkamFoRmdaNW8xVU5xY2JpQnNFc09hMzNEYlVrUHNuT3lqZ0hZOUJvZ0FWZGZaaTFvZFlJa3k5bVduWU51SHA2a2NrTUZKZkh1OFdkR1drcjc2SVU5U3hsbURUMDhVaHJMbWFxSDhpdg?oc=5",
+      "en": {
+        "title": "BITCOIN MUTED BELOW $65K AS RATE, TECH JITTERS PERSIST; FED MINUTES AWAITED",
+        "summary": "Bitcoin muted below $65k as rate, tech jitters persist; Fed minutes awaited. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $BTC, $DXY / $SPY; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "বিটকয়েন $65k এর নিচে নিঃশব্দ হিসাবে রেট, প্রযুক্তিগত ধাঁধা অব্যাহত রয়েছে; ফেড মিনিট প্রতীক্ষিত",
+        "summary": "বিটকয়েন $65k এর নিচে নিঃশব্দ হিসাবে রেট, প্রযুক্তিগত ধাঁধা অব্যাহত রয়েছে; ফেড মিনিট প্রতীক্ষিত. প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$BTC, $DXY / $SPY | প্রভাব: 10/10] $BTC, $DXY / $SPY-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "342b96162d10ade87ab768f78997f05c",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$GOOGL"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUDZ5Z3g4bUtnTkVhNFZBZDZvclZuVFBuS0FON1RoXzNHc21KY2JQbEliYkZ1V05sSXgzQnJjU1c3VE1oS0Y4bThPUEtHTGp4dkFQR2hKTlgtWlhkZzQ3d0xYdUljdFVhNTc5Yk9Gc0JieGo1Nm1TcVo2N09QVkhpakFDNVE5NGtxRjdBcGJ2bzIwQ0JaUWptWlhoaGs5VHFsYkhZc1I4by1CdUtybktULTRHSm9vb01y?oc=5",
+      "en": {
+        "title": "GOOGLE FINDS SELF-RUNNING AI HACKING TOOL WITH RUSSIAN COMMENTS IN ITS FILES",
+        "summary": "Google finds self-running AI hacking tool with Russian comments in its files. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$GOOGL | IMPACT: 10/10] Downside pressure expected on $GOOGL; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "গুগল তার ফাইলগুলিতে রাশিয়ান মন্তব্য সহ স্ব-চালিত এআই হ্যাকিং টুল খুঁজে পায়",
+        "summary": "গুগল তার ফাইলগুলিতে রাশিয়ান মন্তব্য সহ স্ব-চালিত এআই হ্যাকিং টুল খুঁজে পায়। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$GOOGL | প্রভাব: 10/10] $GOOGL-এর উপর নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "15829552428fbfe21c2e5a0c009048ae",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ralNvcWNINjUxbHBFZjh3RFRuYkFQei01TVhxUW01Z3h5eVdQenVSUHNidEpISHJVMFdtbXNvOXdKYWl5cEhCUXdrNHlNNFh5RlBnRmtMUlA?oc=5",
+      "en": {
+        "title": "TO WHAT EXTENT DO MINES IN THE STRAIT OF HORMUZ POSE A THREAT TO SHIPPING?",
+        "summary": "To what extent do mines in the Strait of Hormuz pose a threat to shipping?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "হরমুজ প্রণালীতে খনিগুলি জাহাজ চলাচলের জন্য কতটা হুমকিস্বরূপ?",
+        "summary": "হরমুজ প্রণালীতে খনিগুলি জাহাজ চলাচলের জন্য কতটা হুমকিস্বরূপ? প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "8e7614c65e1e8c160b84b1d1047fa2fc",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJURjBQYXVkNTJSWEMyUlRrbFJ3NjJETGptNjYxX1JSS3lob1NOekp3WkZYcDdWVUtEaFRHYlpzUGg5d1FlNDE0QWdhMmtoUzBJb2piaWZFZWF3OFBaNjY1dTJMMldkdTVtNE1lWFJadlhpRFdFeWZYam5zN3RwWmFiSUw?oc=5",
+      "en": {
+        "title": "U.S. LAUNCHES STRIKES ON IRAN'S QESHM ISLAND IN STRAIT OF HORMUZ",
+        "summary": "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "হরমুজ প্রণালীতে ইরানের কেশম দ্বীপে হামলা চালায় যুক্তরাষ্ট্র",
+        "summary": "হরমুজ প্রণালীতে ইরানের কেশম দ্বীপে হামলা চালায় যুক্তরাষ্ট্র। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "7a4a25d1eedd96399d31a94c991bf75e",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GTHZPVVNFTVhGOFR0THB3SVg1RnpXbWVVTVNUeUViZGZEZ25UNmpfaUNQSkUxaVJwOUtqbThMYjVSLXRtbmdOdVFOaGU2T2J6Y0dFOWFIUEUtclY4ZkFRRmN6MmU2aDNZSmc?oc=5",
+      "en": {
+        "title": "SAUDI ARABIA ABSORBS IRAN WAR COSTS AS US-IRAN TALKS STALL AND HORMUZ STAYS CLOSED - HTTPS://HOUSEOFSAUD.COM/",
+        "summary": "Saudi Arabia Absorbs Iran War Costs as US-Iran Talks Stall and Hormuz Stays Closed - https://houseofsaud.com/. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "মার্কিন-ইরান আলোচনার স্টল এবং হরমুজ বন্ধ থাকার কারণে সৌদি আরব ইরান যুদ্ধের খরচ শোষণ করে - https://houseofsaud.com/",
+        "summary": "মার্কিন-ইরান আলোচনার স্টল এবং হরমুজ বন্ধ থাকার কারণে সৌদি আরব ইরান যুদ্ধের খরচ শোষণ করে - https://houseofsaud.com/। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "91c48510bac4265d43da47cc80ff812a",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MSFT"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "en": {
+        "title": "RUBIO SAYS US NOT 'UNDER SYSTEMIC ATTACK' AFTER SERIES OF TECH OUTAGES",
+        "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+        "key_point": "[$MSFT | IMPACT: 10/10] Downside pressure expected on $MSFT; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "রুবিও বলেছেন যে কারিগরি বিভ্রাটের পর মার্কিন যুক্তরাষ্ট্র 'পদ্ধতিগত আক্রমণের অধীনে' নয়",
+        "summary": "সেক্রেটারি অফ স্টেট মার্কো রুবিও বলেছেন যে অনলাইনে \"শূন্য প্রমাণ\" সমর্থনকারী তত্ত্ব রয়েছে যে সাম্প্রতিক ব্যাঘাতগুলি মাইক্রোসফ্ট, ব্যাঙ্ক এবং ফ্লাইটগুলিকে প্রভাবিত করছে।",
+        "key_point": "[$MSFT | প্রভাব: 10/10] $MSFT-এর উপর নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "36fa3d9550e30d965f484a74da131947",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWkzVFZIZGpWS2lKODVQQ0RmTkFYS1luRGFCVDVxSXZVQS1BR2pQdWdqdjNqRHJqd3NsdXFJZ0w1elNwUU02NEc4ZXJxNnZSQThyVzlkN2tyLWhYUGtqTzVmS0xNNjYtNUR0djJEaXpoMm1HNzVJVVRzMGxXaGViRV9iREg0Q2hJeWVIVEhoM0M4d3drT2FjWHMtZUlOUFhw?oc=5",
+      "en": {
+        "title": "BOE, IN NEW STATEMENT ON CPI DATA, SAYS INFLATION TO RISE FURTHER",
+        "summary": "BoE, in new statement on CPI data, says inflation to rise further. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "BoE, CPI ডেটার নতুন বিবৃতিতে বলেছে যে মুদ্রাস্ফীতি আরও বাড়বে৷",
+        "summary": "BoE, CPI ডেটার নতুন বিবৃতিতে বলেছে যে মুদ্রাস্ফীতি আরও বাড়বে৷ প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$SPY / $QQQ | প্রভাব: 10/10] $SPY / $QQQ-এ উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "673d9809fc749e9f7a201077af873173",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkNuMHp2TkNveWdkVWxCN2c3NUtNUWQwdkhvQjlPLWZFRjFwRGdQTGEzSWxPaGpzMGxkb3M5aVFza01lU19xZ2dLc1piT1RScW1xNUFVakdKU1ZlNDkxcVVKUXg1a3pxUnAtZ04tSXFCaUV1Y3E2dXBGQjNSaFhkbEJzS3BXemJQSFVlOVBWWXEtdUxPcGVoRjEyUVJJVW1VVXkwa3hDTjVrYkE?oc=5",
+      "en": {
+        "title": "UNITED KINGDOM CPI INFLATION PICKS UP TO 3.6% YOY IN OCTOBER, MISSES ESTIMATES",
+        "summary": "United Kingdom CPI inflation picks up to 3.6% YoY in October, misses estimates. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Downside pressure expected on $SPY / $QQQ; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "ইউনাইটেড কিংডম সিপিআই মুদ্রাস্ফীতি অক্টোবরে 3.6% বার্ষিক হারে বেড়েছে, অনুমান মিস করেছে",
+        "summary": "ইউনাইটেড কিংডম সিপিআই মূল্যস্ফীতি অক্টোবরে 3.6% YoY পর্যন্ত বেড়েছে, অনুমান মিস করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$SPY / $QQQ | প্রভাব: 10/10] $SPY / $QQQ-এর উপর নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "1e22bf1b59a6aa0ab0f6cdb4d1451a3f",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVW9FYWgxOUQyeFFFdHRIdkVLWDZLem1MWFItOVZmQU1SODEtcEZ1Y3NsOGZXeUtNQVN5cElvSmVoNXFoZDFVZ0NlaHFmcmNuQ2w1SWJENDNNLWVVWHNNQUVXdnV0X1Z5M3E2bnJSSzRQd3FBR1FQMzh0dGRPdw?oc=5",
+      "en": {
+        "title": "UK INFLATION RISES TO ONE-YEAR HIGH BUT MARKETS TRIM RATE HIKE BETS",
+        "summary": "UK inflation rises to one-year high but markets trim rate hike bets. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "যুক্তরাজ্যের মুদ্রাস্ফীতি এক বছরের উচ্চতায় বেড়েছে কিন্তু বাজারের হার বৃদ্ধির বাজি কাটছে",
+        "summary": "যুক্তরাজ্যের মুদ্রাস্ফীতি এক বছরের উচ্চতায় বেড়েছে কিন্তু বাজারের হার বৃদ্ধির বাজি কাটছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "24687997eb0a02d5af65e67ca506c6a4",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3UkRKMDFzMFVUMWNZek5YbXoteDJJMHk2T1lTZEVMenFOdE84c3NXTWs2N3YyNmdPRTYzZG9INV9HR0dCUkphZWFNS0NEbmdaYmN3V05oakdFMEZLZ0lUWHpFQzJMNWFQRGVoWkt4YVkwSW9nWW1xam9B?oc=5",
+      "en": {
+        "title": "UK OCTOBER CPI +3.6% VS +3.6% Y/Y EXPECTED",
+        "summary": "UK October CPI +3.6% vs +3.6% y/y expected. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "UK অক্টোবর CPI +3.6% বনাম +3.6% y/y প্রত্যাশিত",
+        "summary": "UK অক্টোবর CPI +3.6% বনাম +3.6% y/y প্রত্যাশিত। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$SPY / $QQQ | প্রভাব: 10/10] $SPY / $QQQ-এ উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "eb42e41eb214141f6190ac05fff8f92c",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 10,
+      "tickers": [
+        "$GOLD",
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnBnTU9ZdVZuNFpZLXZONDUxNFpVZFVKU2Z4OEU2d2lYaXlBcTdCTFpjTWo5UUhRSmdRU0dpekdLd3c4NzE3QkRCWnBGaXFpUnNpWnAyQXJjbE56THJFN3piX0dOc1dMNTE0UFlvUTYxdXE3YnAzYjJVYmxNYUw4OGZmSDh3Y3RwZXBpTTFYaU40VTg0TENxRTY0a1VFeFR1Tk1zcHNocVJENkdneDMtVVp6aEVhOXc5Q29uV2RlZmZJMjUzckhYTTVld2JoMEpEWWZPRVhvR0d0bWJWV1ZnMnVibw?oc=5",
+      "en": {
+        "title": "US OCTOBER CPI PREVIEW: INFLATION GROWTH MAY SLOW, HOW WILL US STOCKS, DOLLAR AND GOLD REACT?",
+        "summary": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$GOLD, $SPY / $QQQ | IMPACT: 10/10] Positive momentum catalyst for $GOLD, $SPY / $QQQ; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "ইউএস অক্টোবর সিপিআই প্রিভিউ: মুদ্রাস্ফীতির প্রবৃদ্ধি মন্থর হতে পারে, মার্কিন স্টক, ডলার এবং স্বর্ণের প্রতিক্রিয়া কেমন হবে?",
+        "summary": "ইউএস অক্টোবর সিপিআই প্রিভিউ: মুদ্রাস্ফীতির প্রবৃদ্ধি ধীর হতে পারে, মার্কিন স্টক, ডলার এবং স্বর্ণ কীভাবে প্রতিক্রিয়া দেখাবে?। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$GOLD, $SPY / $QQQ | প্রভাব: 10/10] $GOLD, $SPY / $QQQ এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
+      }
+    },
+    {
+      "id": "336bbc254d5d349ea37867e7270a8897",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 9,
+      "tickers": [
+        "$NVDA"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
+      "en": {
+        "title": "ASIA STOCKS CLING TO GAINS AFTER NVIDIA EARNINGS AS ANTHROPIC PRICING LOOMS",
+        "summary": "Asia stocks cling to gains after Nvidia earnings as Anthropic pricing looms. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$NVDA | IMPACT: 9/10] Positive momentum catalyst for $NVDA; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "এশিয়ার স্টকগুলি এনভিডিয়ার উপার্জনের পরে লাভের সাথে আঁকড়ে থাকে কারণ নৃতাত্ত্বিক মূল্য বৃদ্ধি পায়৷",
+        "summary": "এনভিডিয়ার আয়ের পর এশিয়ার স্টকগুলি লাভের সাথে আঁকড়ে থাকে কারণ নৃতাত্ত্বিক মূল্য বৃদ্ধি পায়৷ প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$NVDA | প্রভাব: 9/10] $NVDA-এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
+      }
+    },
+    {
+      "id": "da80d0d00e6bd0ab4638bbc540462a02",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 9,
+      "tickers": [
+        "$NVDA"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+      "en": {
+        "title": "STOCK FUTURES RALLY AS NVIDIA EARNINGS CALM AI TRADE FEARS",
+        "summary": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$NVDA | IMPACT: 9/10] Positive momentum catalyst for $NVDA; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "এনভিডিয়া আয় হিসাবে স্টক ফিউচার র‌্যালি এআই ট্রেডের ভয়কে শান্ত করে",
+        "summary": "এনভিডিয়া আয় হিসাবে স্টক ফিউচার র‌্যালি এআই ট্রেডের ভয়কে শান্ত করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$NVDA | প্রভাব: 9/10] $NVDA-এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
+      }
+    },
+    {
+      "id": "015cce9ffef2055f97c4e37b33236c4d",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$NVDA"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN09ob1ZXWkpERTQ5alRMeEk2QXMzaUs2VzJTSElIZDlJQmlHcXhHZjdhcjUwbERUV2dJM3dsa2VFUDU0S1BteE91TjB3d1VUT2x5eUNpb180azhFbjN3Qk9IQmZjS2c2X2czYjlZVmJfM1B6WkVfLVQyQTYtVnNyd0g1MmVkUDRSa1BKaFpxa0pqR0Y2WjB0UVlIRnM2VmRlakVrLUV5bw?oc=5",
+      "en": {
+        "title": "NVIDIA HOLD FIRST EARNINGS CALL SINCE FORMER CEO'S DEPARTURE",
+        "summary": "Nvidia hold first earnings call since former CEO's departure. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$NVDA | IMPACT: 9/10] Expect elevated two-way volatility in $NVDA; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "প্রাক্তন সিইওর প্রস্থানের পর থেকে এনভিডিয়া প্রথম উপার্জন কলটি ধরে রেখেছে",
+        "summary": "প্রাক্তন সিইওর প্রস্থানের পর থেকে এনভিডিয়া প্রথম উপার্জন কলটি ধরে রেখেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$NVDA | প্রভাব: 9/10] $NVDA-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "832088c8aafa46a4bd386c8b2586bf8e",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:01 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWElaanFBcWtqdEZHd3Y3MVljRDJQMWR4NHg1b3h1MlZvUG91S0hiOVhiaWpGN0gtZkRHSVlROFc2QXpTbHJfNk9PN1p2eG5idEhRRVVRSHpUUnhRUjhOSDktbTNOTk9iZHF6MFhuLUVRZS1qZ2FTWDVkaXZJRG45S01VSEQtSnpTRXNIS0lFUlJfN0xucTNzbmdR?oc=5",
+      "en": {
+        "title": "IMPERIAL BRANDS: WHAT WE THINK OF THE STOCK AFTER EARNINGS",
+        "summary": "Imperial Brands: What We Think of the Stock After Earnings. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "ইম্পেরিয়াল ব্র্যান্ডস: আমরা উপার্জনের পরে স্টক সম্পর্কে কী ভাবি",
+        "summary": "ইম্পেরিয়াল ব্র্যান্ডস: আমরা উপার্জনের পরে স্টক সম্পর্কে কী ভাবি। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
     {
       "id": "41098d0de8878afd76900803ecde3963",
       "category": "stock",
@@ -2421,420 +2837,6 @@
         "title": "বিটকয়েন $65k এর নিচে পিন করা হয়েছে ক্রিপ্টো সেন্টিমেন্ট ডিথার হিসাবে, ETF বহিঃপ্রবাহ অব্যাহত রয়েছে",
         "summary": "বিটকয়েন $65k এর নিচে পিন করা হয়েছে ক্রিপ্টো সেন্টিমেন্ট ডিথার হিসাবে, ETF বহিঃপ্রবাহ অব্যাহত রয়েছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
         "key_point": "[$BTC | প্রভাব: 9/10] $BTC-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "6a3f9a72a272a33668cf8f228566964b",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "EARNINGS INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$NVDA"
-      ],
-      "published_at": "08:29 UTC",
-      "source_link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "en": {
-        "title": "ASIAN CHIP STOCKS TUMBLE AHEAD OF NVIDIA Q3 EARNINGS",
-        "summary": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.",
-        "key_point": "[$NVDA | IMPACT: 9/10] Downside pressure expected on $NVDA; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "এশিয়ান চিপ স্টক Nvidia Q3 আয়ের আগে পতন হয়েছে৷",
-        "summary": "আঞ্চলিক ইক্যুইটি বাজারে ব্যাপক বিক্রি-অফের মধ্যে দুর্বলতা এসেছে, জাপানের নিক্কেই 225 2% এবং দক্ষিণ কোরিয়ার কোস্পি 2.6% হারানোর সাথে।",
-        "key_point": "[$NVDA | প্রভাব: 9/10] $NVDA-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "9381533be052aabe55b822d42ae1a883",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "08:29 UTC",
-      "source_link": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
-      "en": {
-        "title": "US BASKETBALL PLAYER ARRESTED WITH 34KG OF CANNABIS AT NIGERIAN AIRPORT",
-        "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "নাইজেরিয়ার বিমানবন্দরে 34 কেজি গাঁজাসহ মার্কিন বাস্কেটবল খেলোয়াড়কে গ্রেপ্তার করা হয়েছে",
-        "summary": "অ্যান্টি-ড্রাগস এজেন্সি বলেছে যে আমেরিকান মাদকদ্রব্য নিয়ে তার লাগেজ ফেলে বিমানবন্দর ছেড়ে যাওয়ার চেষ্টা করেছিল।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "0d2ec54ffe3c231b172a7bba47d1d5b3",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "08:29 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU52OGVNUF8xcHBaTlFFWm1wc2ptTjVsd2ZpdEk2Zl9hNWg2V2ZLbWVUV2pyS1VRa0hLVUZIRlp0N1RCaHBuVnd1dUNVUTRRdGlwV3pFRklfRkxMVnVoU192eWZKeWdKZHpHOFpRSHFrTlpyZHJtSFQxT193TXRBQmtneGhGSmQxTVNSdUFCSTBUZzFQMDZ0U0dNLVZrX1FfRW9CX29MelJWbldXV09jYlNyREtoWGlCUDBvZdIBygFBVV95cUxOLTdTWEpBb1hYV3k0NnV3TzBIV1ZxM1o1blcwZEtxck5WSDZUVnBPV0oyS2lJT2tOR3g5b2pJOEJGUlgwX2dLeFhHSmFidVlHcmJVRWhITi1xUlcwdU00c0ZBNEdfdUNCRlFEQ09Sa1hCXzRRSU96REYxV0xSUkl3MVhUcS02WWtycmtaRm1KWmVVUEdCMzN6YW1kRTVuRXlHbmJtMFI1ZTdrN0wwSTMyNlFBMHVSVlV2QnNLa2lITGNWdEQ0cDh0NWxB?oc=5",
-      "en": {
-        "title": "WPI INFLATION CLIMBS TO 12.29% IN OCTOBER ON HIGHER FUEL, FOOD PRICES",
-        "summary": "WPI inflation climbs to 12.29% in October on higher fuel, food prices. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "উচ্চ জ্বালানি, খাদ্যের দামের কারণে অক্টোবরে WPI মূল্যস্ফীতি 12.29%-এ উঠে গেছে",
-        "summary": "উচ্চ জ্বালানি, খাদ্যের দামের কারণে অক্টোবরে WPI মূল্যস্ফীতি 12.29%-এ উঠে গেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "8bf9f7a56fa47b25ca407612cc7375b7",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "08:29 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcElrY2VHb2dzUjZIeDlKNGg1SlRNTWpKMUJsWGhWWFNHcVBybnBEYVR4MHo5akFSRE9VX3NUTzZuX2VlN3dqVmstcjN1NmVfQ3ZBOGM1UUtlYzNVQk5PNDA2NkYzYVZPd2dwR3JfVXMtMTFWQ0JVRjZhc3kzaHh4cHdTaG9IU2ZfSHBPRGI3YXBlUkc2azNtUkRjUVI?oc=5",
-      "en": {
-        "title": "INDIA’S RETAIL INFLATION RISES TO 4.82% IN AUGUST, FOOD INFLATION AT 5.95%",
-        "summary": "India’s retail inflation rises to 4.82% in August, food inflation at 5.95%. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ভারতের খুচরা মূল্যস্ফীতি আগস্টে বেড়ে 4.82%, খাদ্য মূল্যস্ফীতি 5.95%",
-        "summary": "ভারতের খুচরা মূল্যস্ফীতি আগস্টে বেড়ে 4.82%, খাদ্য মূল্যস্ফীতি 5.95%। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "b53c34e8e1a1fcb308abebc6886b0efd",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "08:29 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnlDSmFnbGw4cjhDcGFPUE9pb09PM0VCVnBUMlRYUmdIejhIUm9XeHd5cUx2S3h2TWZpZmJPUjZXQmh0WlBnREk0MjFkU3RiaGZIRm5pMVdxU3NqNlVHMFk3X3hBdjJYLU9RM1BGSmdLY0QxbW11MDNpZHVycmt4YzZYNC1hTFV1WjYtQzVSSGEwTlkxRC1xSlBJdDA?oc=5",
-      "en": {
-        "title": "CHEAPER GROCERIES, GAS AHEAD AS ING FORECASTS 2027 INFLATION COOLING",
-        "summary": "Cheaper groceries, gas ahead as ING forecasts 2027 inflation cooling. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ING পূর্বাভাস 2027 মূল্যস্ফীতি শীতল হিসাবে সস্তা মুদি, গ্যাস এগিয়ে",
-        "summary": "ING পূর্বাভাস 2027 মূল্যস্ফীতি শীতল হিসাবে সস্তা মুদি, গ্যাস এগিয়ে. প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "50d2f342d0a72794f854e559ee2510d1",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$BRENT"
-      ],
-      "published_at": "08:29 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmFRTks0WTQ4bVMtUG1wRmZWdmtlQVJCVFIzTnJEaHA4aUdqX3Vpbmp1N2EtYVhPY2xVVVNUY01odUN6ZkVDN3dJUzVlUjc2bm9ScGRsRExLZnVqQXVuUmE4b082djFKdnBCN2ZrYmFhVHo0NmlQOGVWV0tsRlRGeGFOSzJwVkNWQWpVekdlTFRYTDNTMkxvaG1jQnR5cTRySlVRVFhpX3VKYjJWZUdCT3JYTUl2NklCazE0TlVOR1Q0QXFCYnJpUXprMU14NExGMk4zMtIB1AFBVV95cUxNNmFRTks0WTQ4bVMtUG1wRmZWdmtlQVJCVFIzTnJEaHA4aUdqX3Vpbmp1N2EtYVhPY2xVVVNUY01odUN6ZkVDN3dJUzVlUjc2bm9ScGRsRExLZnVqQXVuUmE4b082djFKdnBCN2ZrYmFhVHo0NmlQOGVWV0tsRlRGeGFOSzJwVkNWQWpVekdlTFRYTDNTMkxvaG1jQnR5cTRySlVRVFhpX3VKYjJWZUdCT3JYTUl2NklCazE0TlVOR1Q0QXFCYnJpUXprMU14NExGMk4zMg?oc=5",
-      "en": {
-        "title": "INDIA BRACES FOR HIGHER INTEREST RATES AS INFLATION, OIL PRICES RISE",
-        "summary": "India braces for higher interest rates as inflation, oil prices rise. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BRENT | IMPACT: 9/10] Expect elevated two-way volatility in $BRENT; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "মুদ্রাস্ফীতি, তেলের দাম বেড়ে যাওয়ায় ভারত উচ্চ সুদের হারের জন্য প্রস্তুত",
-        "summary": "মুদ্রাস্ফীতি, তেলের দাম বেড়ে যাওয়ায় ভারত উচ্চতর সুদের হারের জন্য প্রস্তুত। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BRENT | প্রভাব: 9/10] $BRENT-এ উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "64fbc50312574b00a63a8d6bd3b2dcd0",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "CORPORATE ACTION",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmlUS3F5cGdKSC1tVTRScFQ2dS1jNjRZUTlpeGwzMTZOaTY4S0dUWUxZMUtYTEtIeTJ2TlI2RlFlOEUxSGI4LWpmNXFvZDJZaDZ3LXk0RDBxdk5pNGllUmdURy1tRzRSdnM2c1p3RUZucGsyOWtsd09iVWplS1Zoek5xM3JybW1RRmctZ0NrMVF4cXN5T25udUwwaVd3WTdSUFlybHB2cThXaW54OElGMTFZUmJkcmFWUGc?oc=5",
-      "en": {
-        "title": "FIRE FEES, SERVICE CUTS AND LAYOFFS LOOM ACROSS PINELLAS AFTER AMENDMENT 3",
-        "summary": "Fire fees, service cuts and layoffs loom across Pinellas after Amendment 3. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "সংশোধনী 3 এর পরে পিনেলাস জুড়ে ফায়ার ফি, পরিষেবা কাটা এবং ছাঁটাই শুরু হয়েছে৷",
-        "summary": "সংশোধনী 3 এর পরে ফায়ার ফি, পরিষেবা কাটা এবং ছাঁটাই পিনেলাস জুড়ে তাঁত। প্রাতিষ্ঠানিক ডেস্ক এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "704f0b88fb34351a630b3b4124b8f307",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BNB"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE9hXzlxeldMc1ZxekZ2T0ZiTDV0YUJQLXo4Nm9lRno1b0NBblZRWFJFRUdyZ1R5OTFuSy1pbF9UR2dQa01pQTJpNXBlX2otYXQ4el9iYjd3WFdEaWRvdUtGd2xRS2pPb3I0V1VQQUR2NHJPb1ZhU0hzMldQREhPbmp5NzY2RTJUdUk1dW1sX3lXaFJnR1ZFdnZ5cjJscHo3MEhz?oc=5",
-      "en": {
-        "title": "BINANCE AIMS TO REOPEN WITHDRAWALS AFTER $6.3 BILLION HACK",
-        "summary": "Binance Aims to Reopen Withdrawals After $6.3 Billion Hack. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "Binance লক্ষ্য $6.3 বিলিয়ন হ্যাক পরে প্রত্যাহার পুনরায় খুলতে",
-        "summary": "Binance লক্ষ্য $6.3 বিলিয়ন হ্যাক পরে প্রত্যাহার পুনরায় খুলতে. প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BNB | প্রভাব: 10/10] $BNB-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "73f783d6f40480c3e95059b68703ac0a",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BULLISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BTC"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmpmdzZMN1o3OW9LZHBmRkpHV0FtaFNMVXRjMzAyd1RWcGUxR3VmT0xSZ0tPS1FaX1JnS2FBdmlLRXBtdG9ESUFlQTF0Ykt5WFFGc3J6WlpnbURQemlIV1VJclh0eWNJQWhhVm1ubW1SZW9RS1V6VDBKT0YxajliUy1SX0ZFbFg0dldmVEZsM3J2QjRMbUFLWUN6VDhEQ29jNmhrQnJaelpzOW96N0F0R3FWS1N3d1JtS3RvMjgxUEIyQTB5aXZjdjJn?oc=5",
-      "en": {
-        "title": "CRYPTO MARKET LOSES $750 BILLION IN VALUE AS ETF DEMAND FADES AND LIQUIDATIONS SURGE - GRAYSCALE BITCOIN",
-        "summary": "Crypto Market Loses $750 Billion in Value as ETF Demand Fades and Liquidations Surge - Grayscale Bitcoin. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BTC | IMPACT: 10/10] Positive momentum catalyst for $BTC; monitor breakout volume and long positioning."
-      },
-      "bn": {
-        "title": "ETF চাহিদা কমে যাওয়া এবং লিকুইডেশন বৃদ্ধির ফলে ক্রিপ্টো মার্কেট $750 বিলিয়ন মূল্য হারায় - গ্রেস্কেল বিটকয়েন",
-        "summary": "ETF চাহিদা কমে যাওয়া এবং লিকুইডেশন বৃদ্ধি - গ্রেস্কেল বিটকয়েন হিসাবে ক্রিপ্টো মার্কেট $750 বিলিয়ন মূল্য হারায়। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BTC | প্রভাব: 10/10] $BTC এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
-      }
-    },
-    {
-      "id": "83800879144124189054c88a46f79287",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjRXc3dJT044Q3pnN1ctZnlETlNCVFJDNkM1ZkhPVlBOS081X0pvamdBMUZaYjJTdkVRYWxsajh2YzJDMVNXYXBZb1F5elRJbU15WVdHbElYTGp6RlFCZFhmV3YyeXc0akFyMTFkZ1ZMNUFRZnJHS1FseXdsY2N4Y29DcHdtNnFTb3phZzl3?oc=5",
-      "en": {
-        "title": "WHAT A $9.2BN CRYPTO HACK REVEALS ABOUT A CHANGING INDUSTRY",
-        "summary": "What a $9.2bn crypto hack reveals about a changing industry. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "9.2 বিলিয়ন ডলারের ক্রিপ্টো হ্যাক একটি পরিবর্তনশীল শিল্প সম্পর্কে কী প্রকাশ করে",
-        "summary": "9.2 বিলিয়ন ডলারের ক্রিপ্টো হ্যাক একটি পরিবর্তনশীল শিল্প সম্পর্কে কী প্রকাশ করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "d5989813c89dd99af76e7b9db2700f50",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSzN5SzlKUEpsS0pueEloNzJ1U0dIRnlGVTBMeGl4dkxYS3lDWjdMZUkyM2N3RGRzbzY0ZHRmSGJidnY0eWRHMzVKZ2syWDVDTEdwbzZUaXVZUnBHeXdTbFE1eDBUelE0NmRpbFJLZUt3T3NIMlJxbjY4aHliV1ZnMTNpaDY0Si1MWE1iTTRKNFF6eGk2NThUU284bTNkOXhDVzBQOC02b3FkcHpCZG5xeUduWGxFWXhQaWhnbVZucHdIZEN2ZWlCSm5uVHVvSXdRVVE?oc=5",
-      "en": {
-        "title": "FEDERAL RESERVE ‘HAS SOME WORK TO DO ON INFLATION,’ KANSAS CITY FED CHIEF SAYS",
-        "summary": "Federal Reserve ‘has some work to do on inflation,’ Kansas City Fed chief says. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ফেডারেল রিজার্ভের \"মুদ্রাস্ফীতির উপর কিছু কাজ আছে,\" কানসাস সিটি ফেড প্রধান বলেছেন",
-        "summary": "ফেডারেল রিজার্ভের \"মুদ্রাস্ফীতির উপর কিছু কাজ আছে,\" কানসাস সিটি ফেড প্রধান বলেছেন। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY তে উচ্চতর দ্বিমুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "1b8cb77c4bff2082ef1fd0d10ab7b7c1",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BULLISH",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2JDY213NjdlNkJJNHlCN3A2QzhJSUZZRGtHT0FXN1lOSW45TnNsUDNBRW5EcXpsSXByWTNFRE5XUEIxWi1TdTRvc3A5SjNZczhmVVl1VzNlLVVsOFZfdE8xWFRkbldBeHFSNm82Rk9ucmUzLXcza0VkRWxYRzA?oc=5",
-      "en": {
-        "title": "HOTTER OCTOBER INFLATION AND A 6.5% PRODUCER-PRICE SURGE PUT A DECEMBER FED HIKE FULLY ON THE TABLE",
-        "summary": "Hotter October inflation and a 6.5% producer-price surge put a December Fed hike fully on the table. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Positive momentum catalyst for $DXY / $SPY; monitor breakout volume and long positioning."
-      },
-      "bn": {
-        "title": "অক্টোবরের উত্তপ্ত মূল্যস্ফীতি এবং একটি 6.5% প্রযোজক-মূল্য বৃদ্ধি একটি ডিসেম্বর ফেড বৃদ্ধিকে পুরোপুরি টেবিলে রাখে",
-        "summary": "অক্টোবরের উত্তপ্ত মূল্যস্ফীতি এবং একটি 6.5% প্রযোজক-মূল্যের ঊর্ধ্বগতি একটি ডিসেম্বর ফেড বৃদ্ধিকে পুরোপুরি টেবিলে রাখে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
-      }
-    },
-    {
-      "id": "febb9fe2a4a6a2fd5c28d733dbea7d39",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzNxaUpGQkhQVTFfSWFhOUZoS0Z0cV9ZWGNFQ3FmQU0xMmNnR25GU2IxMU1lNEp6ZW5DS3h5MHo2YThrM1lRZ1IzVElsRFltVTVOdElZWDV5eGthZE5DTFJEVXVsalljenpleVhQRlJuOTYtWkI3QkU5MkZzWFpIRmNlS01fUV9nbjhjd3NES1lEY2h5M1hEWU90VkdLdw?oc=5",
-      "en": {
-        "title": "FED’S SCHMID SAYS INFLATION RUNS UNCOMFORTABLY ABOVE 2% TARGET AT 3% CORE",
-        "summary": "Fed’s Schmid Says Inflation Runs Uncomfortably Above 2% Target At 3% Core. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ফেডের শ্মিড বলেছেন মুদ্রাস্ফীতি 3% কোরে 2% লক্ষ্যের উপরে অস্বস্তিকরভাবে চলে",
-        "summary": "ফেডের শ্মিড বলেছেন মুদ্রাস্ফীতি 3% কোরে 2% লক্ষ্যের উপরে অস্বস্তিকরভাবে চলে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY তে উচ্চতর দ্বিমুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "103ede18779df479baf3eb5a0ae7e8b4",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSU1ZcS1Fb1pEVWM1X1hnU1FRbGFKMC1VM3VQSUFJNnRfSWtoeHl4UVRaMHN1NmlscFlJbmk2WUFkX2R3eGFwaE1VT2tlWVVPTEtSZWgwSHRELWh6Q0VJWDJFNzIxa3JkTWoyemU4dUJxaWltdmdyNGVxZFV4UG1ncjBLV0ZFemFhMi10d3FpNTRzcmJWdzdhdDBnNnJ1YXVQUkZTdm9QQjJzd2RCdjF5YkhGQzVRZw?oc=5",
-      "en": {
-        "title": "SOUTH CAROLINA STORMS PAST TEXAS TO CLAIM FOURTH SEC SOCCER TOURNAMENT TITLE",
-        "summary": "South Carolina storms past Texas to claim fourth SEC Soccer Tournament title. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "দক্ষিণ ক্যারোলিনা টেক্সাসকে হারিয়ে চতুর্থ এসইসি সকার টুর্নামেন্টের শিরোপা জিতেছে",
-        "summary": "দক্ষিণ ক্যারোলিনা টেক্সাসকে হারিয়ে চতুর্থ এসইসি সকার টুর্নামেন্টের শিরোপা জিতেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "bf460d77ec3cde609226e32f4ead13fd",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMDhrVy1lVEJrTS1yUTljdWttTEVxWHoxdEJtZTRLOTYxU2MyZDBnTFVERUdxb0pFUEx0d0hNSVdaUVpNYkwxTW1hT3ZhQjRScGRpeWZvSzVPNWRUTnN4R0NfaGVOUjZqSWNCQnFGWDVOWlRDeU00ZmFXaUdlXzJCWnIyUFhZUThlc2lUX1BHbVppbjdxRFR4V2Nn?oc=5",
-      "en": {
-        "title": "BULLDOGS HEAD TO THE SEC TOURNAMENT NEXT WEEK - MISSISSIPPI STATE",
-        "summary": "Bulldogs Head To The SEC Tournament Next Week - Mississippi State. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "বুলডগস পরের সপ্তাহে এসইসি টুর্নামেন্টে যাবে - মিসিসিপি স্টেট",
-        "summary": "বুলডগস পরের সপ্তাহে এসইসি টুর্নামেন্টে যাবে - মিসিসিপি স্টেট। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "07adb992ca70414cfe4ff69929c22e37",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWHVWR082UUJSbUJXVjJDRkxlNi0tZFBrNDEyeTZUc2ZSUVVxRkZCcDdHYWtNZ0pXWmVFZUVaLW1LMnFNQlRHSV9xNjlReHhEVUpHdW9hRjRsSlUxejdiUWd6U2dEanBrMzZfc0NRcTdfS0M3alBzdGtYd0JkSHlGRFVJZl83QmJvZmdFQkVfZVdZX1VYWWFTZDkwc1VHNW1iMTU2bll6Qnc5Ykk0MWhRa0NyYmRMcEFZ?oc=5",
-      "en": {
-        "title": "TEXAS VOLLEYBALL FINISHES REGULAR SEASON STRONG, LOOKS FORWARD TO SEC TOURNAMENT",
-        "summary": "Texas volleyball finishes regular season strong, looks forward to SEC tournament. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "টেক্সাস ভলিবল নিয়মিত মৌসুম শেষ করে শক্তিশালী, এসইসি টুর্নামেন্টের জন্য উন্মুখ",
-        "summary": "টেক্সাস ভলিবল নিয়মিত মৌসুম শেষ করে শক্তিশালী, এসইসি টুর্নামেন্টের জন্য উন্মুখ। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "fbf5e7924e7912cb433277ebb879e573",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "EARNINGS INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwS0NtZ3Myc2NRdU5jQzlXdUJORFJFTEVnbHYydzRWRmp6TE9PWFI2ZktKRVBLdW5wVl9ZNmlZMlg0a25XV1BReE1UakpkNkhCc1VnS1p3bFNvMlFyMW9HM3lHTFI2ejIzUmc?oc=5",
-      "en": {
-        "title": "EARNINGS CALENDAR FOR:",
-        "summary": "Earnings Calendar for:. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "এর জন্য উপার্জন ক্যালেন্ডার:",
-        "summary": "এর জন্য উপার্জন ক্যালেন্ডার:. প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "4cd60d621c08f94f1d3d6291296eeccc",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "EARNINGS INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:24 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbG9Ub0tTWklFTWdLWjJTTXV5TDVDRzhpS1ZDMS1od2M2LWxIZDRwNmhaUkEyeGRrYUswOHQ5SXRRbmhSTnRDdXI0bGc5R244WVlvVUNEMWJhcHpxcU56Y3ZCeEZuckRaUnJRdmdDbzBhbXJUSVNjY05UWUl0MHRVdnVrV241eEprdy1SOWVOTVFQY0dKUXNNQkNwam1zcEFOTGQwRlhEX0V3Yjg5TzhXUXZRbzdmWDFmMGFFcW95VlZjakpEX3V5YWU2WTM?oc=5",
-      "en": {
-        "title": "BILLS, BILLS, BILLS: WITH LITTLE GUIDANCE ON BRUINBILL HOLDS, MANY UCLA STUDENTS ARE LEFT FEELING LOST",
-        "summary": "Bills, Bills, Bills: With little guidance on BruinBill holds, many UCLA students are left feeling lost. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "বিল, বিল, বিল: ব্রুইনবিলের উপর সামান্য নির্দেশনা সহ, অনেক UCLA শিক্ষার্থী হারিয়ে গেছে",
-        "summary": "বিল, বিল, বিল: ব্রুইনবিলের উপর সামান্য নির্দেশনা সহ, অনেক ইউসিএলএ শিক্ষার্থী হারিয়ে গেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
       }
     }
   ]
