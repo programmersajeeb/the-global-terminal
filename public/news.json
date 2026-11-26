@@ -1,26 +1,26 @@
 {
-  "updated_at": "26 Nov 2026, 02:00 UTC",
+  "updated_at": "26 Nov 2026, 10:45 UTC",
   "total_count": 120,
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$60,804",
-      "change": 2.58
+      "price": "$60,460",
+      "change": 2.68
     },
     {
       "symbol": "ETH/USD",
-      "price": "$1,700",
-      "change": 2.51
+      "price": "$1,693",
+      "change": 2.97
     },
     {
       "symbol": "SOL/USD",
-      "price": "$71.01",
-      "change": 2.82
+      "price": "$70.61",
+      "change": 4.39
     },
     {
       "symbol": "BNB/USD",
-      "price": "$557",
-      "change": 2.55
+      "price": "$550",
+      "change": 1.83
     },
     {
       "symbol": "S&P 500",
@@ -50,7 +50,7 @@
     },
     {
       "title": "MegaETH airdrop by...?",
-      "probability": "8%"
+      "probability": "9%"
     },
     {
       "title": "Xi Jinping out before 2027?",
@@ -61,11 +61,425 @@
       "probability": "10%"
     },
     {
-      "title": "Presidential Election Winner 2028",
-      "probability": "13%"
+      "title": "Putin out as President of Russia by...?",
+      "probability": "2%"
     }
   ],
   "articles": [
+    {
+      "id": "0289c2d5a319c95ed921cff5ae547d2f",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkZjdVgwVDlaZ2JFM1VrV1JOaS0tYkVzSGpqVm8tR2J5YzNwc2QxODhuREpya2FjMG1OeHdVYy1Eb29OTmNUUlFlSXNMaFV3dEI4N0gxaVNFcVQ4S2wzNUppdFpWeHY4TE9PZEV2NGtyVTBGa3Uxd1BhOV9ndTV3MzFDOEdIZ0dGT2J5SDRWZUw5TlJGZG1PN2d6S1FuUTA?oc=5",
+      "en": {
+        "title": "QUANTUM EMOTION COMPLETES ACQUISITION OF PLURILOCK SECURITY",
+        "summary": "Quantum eMotion Completes Acquisition of Plurilock Security. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Quantum eMotion Completes Acquisition of Plurilock Security",
+        "summary": "Quantum eMotion Completes Acquisition of Plurilock Security. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "0ee404938c614c1a391ff12889603f09",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$BNB"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnJxcXB0UjBFaVhCZHBabElwdFJaS1ZGcXl0cXYxaGxrXzh1YXI0Wmo1MzZyX3k1YTloQ3BEb080MUVZRXg5YXI1OWRXOEVjZklRV01ZN1RZOHBJWkU4VmNqNV93dExVRk5xNTNOOWpNdTZrYlhFb3d6OXR1WHdiZ2g2SU9QRERTTWRQcllXNnQ?oc=5",
+      "en": {
+        "title": "NORTH KOREA HACKERS NOT SPARING SUDS IN LAUNDERING BINANCE CRYPTO",
+        "summary": "North Korea hackers not sparing suds in laundering Binance crypto. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "North Korea hackers not sparing suds in laundering Binance crypto",
+        "summary": "North Korea hackers not sparing suds in laundering Binance crypto. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "f3c78aa7b1006090af30ecdcbe9a3ea4",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BTC"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "en": {
+        "title": "SWITZERLAND’S FIRST SPOT BITCOIN ETF TICKS UP 0.6% IN OPENING HOUR",
+        "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
+        "key_point": "[$BTC | IMPACT: 10/10] Expect elevated two-way volatility in $BTC; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+        "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
+        "key_point": "[$BTC | IMPACT: 10/10] Expect elevated two-way volatility in $BTC; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "b1449a176a6ab303e316d9b02f87aa94",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$BNB"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "en": {
+        "title": "UK REGULATOR PLANS TIGHTER DEFI RULES, CITING $6.3B BINANCE HACK: REPORT",
+        "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+        "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "880d7c34d6436aef1720d4b1e968b535",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "en": {
+        "title": "1PASSWORD HACKER STOLE CUSTOMER NAMES AND EMAILS, BUT VAULTS SAFE",
+        "summary": "The password manager, which is used by millions of people to store their login credentials, said customer vaults were unaffected by the breach.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "1Password hacker stole customer names and emails, but vaults safe",
+        "summary": "The password manager, which is used by millions of people to store their login credentials, said customer vaults were unaffected by the breach.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "0b85c5a94850e42a545af4ce2c9bfda2",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUQ5emw1UmZlOHFYRWo4YWJscUtnMHlUU2w1Y1ZNNG5MaDFlOEFBWnVUNE5vV3pUc3JGQ01lZzBUQVMzWExZcVZETlBqcE9XQTZySHdoUzBXcWNyODZNaGpieVRwTi1zV3hNM3B1ZmFkMjR3TmxoR3VxZjlaRXdHVXpKMzl6VHlu?oc=5",
+      "en": {
+        "title": "INDONESIAN NAVY TAKES DELIVERY OF 58-KNOT MISSILE-CAPABLE USV",
+        "summary": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV",
+        "summary": "Indonesian Navy Takes Delivery of 58-Knot Missile-Capable USV. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "023b13cff99ab00350eb787b565920ee",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpRmVkaEhrMFY2Q1RVTjlTYVAyeXUxenQ0Y3oxdmtpbXlIdmJZeTlIR09IVjZ4N1hXUzlkeEVhb1hBZGdaYVpLVHBiT3pHRzZnb1ZNZkg4TQ?oc=5",
+      "en": {
+        "title": "30 MARITIME SECURITY INCIDENTS IN 4 WEEKS ACROSS THE GULF AND STRAIT OF HORMUZ: REPORT",
+        "summary": "30 maritime security incidents in 4 weeks across the Gulf and Strait of Hormuz: Report. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "30 maritime security incidents in 4 weeks across the Gulf and Strait of Hormuz: Report",
+        "summary": "30 maritime security incidents in 4 weeks across the Gulf and Strait of Hormuz: Report. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "432a37c4658d375b7cd34ff4945ba73d",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$DXY / $SPY"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXpJVTkyNUl6U3BfVzhQWWdFVXpSSFEyaFRVajhVODNha0M2clBwUjBfN2EtZWdOaGlHTTJiakVXUWRnR3M3VThsdm1sMlk1cHhvVkFEcHdJa2hmZ0trMWctTmpLQlg1Mk4zR0xrcTVjNGNlbm9rUHVVbm90UU44NnhTX0NneXNQMkhLZmlRVFlFaXEtU3c?oc=5",
+      "en": {
+        "title": "RISING INFLATION STRENGTHENS CASE FOR FED RATE HIKES",
+        "summary": "Rising inflation strengthens case for Fed rate hikes. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Rising inflation strengthens case for Fed rate hikes",
+        "summary": "Rising inflation strengthens case for Fed rate hikes. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "ccaadf5c24b9a42eb0bc0e05a416122f",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEZUQzhWU1pPN095dVotSURsUWNqUHRicENCQWxzekRLQXgwemZWNkFsV2JwdC0xNUhSM21WVTlaSlEtMU1YWUxMSEtzQjhiaDFEZkVzWmszZ3Q0VF8wejZKVHBjdWdPWlBBU3o2bTFUOVlQanY0LU50a0N6RTFLNkpuZDdFYVNKTHJmUHF5VXExTzROZEJqUzZSMWJiWkpUNzRlZWgzVV9Sb0VwcENEQjdtRU5HS1Vubnc?oc=5",
+      "en": {
+        "title": "AUSTRALIAN DOLLAR GATHERS STRENGTH ABOVE 0.6600 ON HOTTER CPI INFLATION DATA",
+        "summary": "Australian Dollar gathers strength above 0.6600 on hotter CPI inflation data. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Australian Dollar gathers strength above 0.6600 on hotter CPI inflation data",
+        "summary": "Australian Dollar gathers strength above 0.6600 on hotter CPI inflation data. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "bf7147b6dcdb9a5457c498e4a01c8073",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVg5QUd0aUUwd3N5azRaeXNVdDA5QnRrWFY4aDZCY1lvRlM5U0Rhd3RULXNsVFg5X0YyX3Z1YmpvaEo2VUpZbFg1Z0ZTWFowTHBrQkN2MHNJcmZWeGgxNzZYLVdpMmI5REFLVS02dFNIbEVwakdWZkZXRVlwczBFTHZSUWVLdTZMTExsaHJZaw?oc=5",
+      "en": {
+        "title": "OCTOBER CPI CAME IN HOT, BUT WE THINK IT WAS THE PEAK",
+        "summary": "October CPI came in hot, but we think it was the peak. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "October CPI came in hot, but we think it was the peak",
+        "summary": "October CPI came in hot, but we think it was the peak. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "05ffe9f54d55b98832afaf8002407bff",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$BTC"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52RXd3OUhLSldqQTJQOFNHN0lSUUR3Xzg0LTU3cGpZX2JsQVhHQjhUemFrN3B1NUgwdWFJWlBHNVlndTJjeGNDQi15VTZkVldoM1VKdUlWMUQzQXN6NWNURnE0ejNvejYxaU5xV0RlYVRLOWg4?oc=5",
+      "en": {
+        "title": "BITCOIN HOVERS NEAR $60,000 AS INFLATION AND ETF OUTFLOWS RAISE FURTHER-LOSS RISKS",
+        "summary": "Bitcoin Hovers Near $60,000 as Inflation and ETF Outflows Raise Further-Loss Risks. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC | IMPACT: 10/10] Expect elevated two-way volatility in $BTC; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Bitcoin Hovers Near $60,000 as Inflation and ETF Outflows Raise Further-Loss Risks",
+        "summary": "Bitcoin Hovers Near $60,000 as Inflation and ETF Outflows Raise Further-Loss Risks. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC | IMPACT: 10/10] Expect elevated two-way volatility in $BTC; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "ba029e9b4f110bc988d15835c6bfcc82",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFlqTDg1S0RKanBpalZESnd0RzR6V3k5M1FGMGNLMG5PWFdENmZnRTdscmlnMEpsc3d3QmdFYl9MaVRzVlZaVnRodkxGa1Q5bWt1WWd4UGt2S0pvZXhCZDhVa1NVVHZjT2kyRlNMRUJQOE8xenN4amVvQ1RDMm8xQ1ExQmlScTl5M3ZXamVObnlIazREOEhOMUJ1QlgyQk5MX0xoTjdNdkw3X0k5N3I2U1d0NjQ4Z1RRZ2hmTV91bGVqOXZBb0NjWg?oc=5",
+      "en": {
+        "title": "AUSTRALIAN INFLATION ACCELERATES: WHAT DOES OCTOBER CPI MEAN FOR THE RBA’S POLICY OUTLOOK?",
+        "summary": "Australian Inflation Accelerates: What Does October CPI Mean for the RBA’s Policy Outlook?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Australian Inflation Accelerates: What Does October CPI Mean for the RBA’s Policy Outlook?",
+        "summary": "Australian Inflation Accelerates: What Does October CPI Mean for the RBA’s Policy Outlook?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "397488fb6fbe66e3d1dbad633a061452",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObTZTZmFWd2FweEpKX2ZpRkNwNUdwNDRmYzB3OXRCR0NBWk9LRWNlNmtNbEh4Y0xDVThnUGVmeUVESHB2UGNocmpWTUZZNC03SFpqUTJXblNXdG1OeTYwUGdNcVNjMjV1azk0ZDl5Y3dUbGxFZzhlLVZ4aFFfbEF0ZWxuZGRSYkxyWWNHYVgzbTFLRjk2T1NaYmlR?oc=5",
+      "en": {
+        "title": "EDGAR FILING DOCUMENTS FOR 0000002488-26-000188",
+        "summary": "EDGAR Filing Documents for 0000002488-26-000188. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "EDGAR Filing Documents for 0000002488-26-000188",
+        "summary": "EDGAR Filing Documents for 0000002488-26-000188. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "05e077c36e3bbb1843bbc4e880bc0849",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQTNXSFJkajZJb2JTd2lLSjJoaHF2S09SWFU5NkEwTV82Mmx3T01tbmZhNGkxNmhhT01nMnFhcHZrSkdlR190bllVbE9oMlI2dEo3eEk0OHFRZm9ZOTBXOFgwUGZ0eWFxWVo4dkU2bDhpb1dWY0JyZ0Ywc1NMZXRBLUFPTTVlVjQxMllHTC0tZndlWFNYaHc?oc=5",
+      "en": {
+        "title": "GIBSON DUNN ADVISES ON COMMERCIAL ENVIRONMENTAL BUSINESS ACQUISITION",
+        "summary": "Gibson Dunn advises on commercial environmental business acquisition. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Gibson Dunn advises on commercial environmental business acquisition",
+        "summary": "Gibson Dunn advises on commercial environmental business acquisition. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "ebc62b39cc833a82c2090ce6a0cad6ba",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUlKMnp0YWQ0ejdwTlFFTldKVF82QXpLelRHWXdwWmJ6OTlsYTFTRWFpNkRSbExucWFkdVZNbnJXRGVfSDVydGVrQzl6OTEyYlJPTHY0LUdQMkpXTTQySkFLMXUtcnN6UnRQSnBhWnhmTmo2SWZnTndhcEVjM1BZcEI1RmsxSW4wRUIxUUFYQUVVQmFwLWVN?oc=5",
+      "en": {
+        "title": "SEC ISSUES CLEAR WARNING TO LSU ON EXPULSION VOTE ADTER LATEST COURT RULING",
+        "summary": "SEC Issues Clear Warning to LSU on Expulsion Vote Adter Latest Court Ruling. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "SEC Issues Clear Warning to LSU on Expulsion Vote Adter Latest Court Ruling",
+        "summary": "SEC Issues Clear Warning to LSU on Expulsion Vote Adter Latest Court Ruling. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      }
+    },
+    {
+      "id": "1bc47b6d06954dd4d72edaa97df4b9d4",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVUNBQTRrc1JCaWZqa3NnY1dPRmlQYm9ib0ZVSnVDVEhUT3loeFFGblZ0aWE5bTRnb3EyNG40X2xuMXRXVzczcThxTWNkUFZna0hJdDMxNHB5ODd1aElTQXJGNmRFNF94a0RHN1VnNjdpMDJtWHFSOUxRLUpzbzdmYzdfLXhPMFFQcHBENUh6MlZ0bWlBQ2s1bGV0di1YQVVMM1BYeDZXeElxZjR6d1pYeEItQVloZDJlWFZTa3g4Y2t4ZlY1aHA2RkwzcmFCTFA4REY5MW03ay10VzVUUW4zbXVaZTF1OVRzVXBjeHo0eDRvd1hWejRIZjU2NDE2eWJWZ0hv?oc=5",
+      "en": {
+        "title": "SCENARIOS FOR WHO GEORGIA WILL PLAY IN THE FINAL SEC CHAMPIONSHIP IN ATLANTA",
+        "summary": "Scenarios for who Georgia will play in the final SEC Championship in Atlanta. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "Scenarios for who Georgia will play in the final SEC Championship in Atlanta",
+        "summary": "Scenarios for who Georgia will play in the final SEC Championship in Atlanta. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "8e6b4de6128d49467e0287f49511b7c0",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVm9BOUZvRjAzdTlBWDNfNThnUnB2ckpYWHU2RXZVYnFSV1pHc0NGbWpDeGpGQy1EYlpQZ2lMdmpnVmNlYnRFUEFhb2Jsazl5dG1rLWR5VWtWSndQVGlPWUR3LVUzeThfVUU0VjdFR3RuRzZYSjhlalVscHJ6RWo1NjdrWnk?oc=5",
+      "en": {
+        "title": "IT’S AN EARNINGS BUBBLE, NOT A VALUATION BUBBLE",
+        "summary": "It’s an earnings bubble, not a valuation bubble. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "It’s an earnings bubble, not a valuation bubble",
+        "summary": "It’s an earnings bubble, not a valuation bubble. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      }
+    },
+    {
+      "id": "a23f407fa33999a5d314851dcae58f5d",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 9,
+      "tickers": [
+        "$SPY"
+      ],
+      "published_at": "10:45 UTC",
+      "source_link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "en": {
+        "title": "THE TECH ROUT SHOULD BOTTOM SOON, WITH A 25% RALLY FOR THE S&P 500 TO FOLLOW, SAYS DEUTSCHE BANK",
+        "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+        "key_point": "[$SPY | IMPACT: 9/10] Positive momentum catalyst for $SPY; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+        "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+        "key_point": "[$SPY | IMPACT: 9/10] Positive momentum catalyst for $SPY; monitor breakout volume and long positioning."
+      }
+    },
     {
       "id": "533bb18de95ac7ebd28bfd85c275fec3",
       "category": "crypto",
@@ -2416,422 +2830,6 @@
       "bn": {
         "title": "আরজে লুইস বিরোধ লিগকে দ্বারপ্রান্তে ঠেলে দেওয়ার কারণে এসইসি সম্ভাব্য এলএসইউ বহিষ্কারের বিষয়ে ভোট দেয়",
         "summary": "SEC সময়সূচী সম্ভাব্য LSU বহিষ্কারের উপর ভোট দেয় কারণ RJ Luis বিরোধ লিগকে প্রান্তে ঠেলে দেয়। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "21fd30e190c5e8bf9926e633feaf6068",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-      "en": {
-        "title": "FED OFFICIALS EXPECT MORE RATE HIKES, WORRY ABOUT AI IMPACT ON INFLATION, MINUTES SHOW",
-        "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ফেড কর্মকর্তারা আরও হার বৃদ্ধির আশা করছেন, মুদ্রাস্ফীতির উপর এআই প্রভাব নিয়ে উদ্বিগ্ন, মিনিট শো",
-        "summary": "ফেডারেল রিজার্ভ বুধবার তার অক্টোবরের নীতি সভা থেকে মিনিট প্রকাশ করেছে যেখানে এটি তার বেঞ্চমার্ক সুদের হার 3.75% -4% এর মধ্যে রাখার পক্ষে ভোট দিয়েছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY তে উচ্চতর দ্বিমুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "feabd863581275346c684ad9c43132fe",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BNB"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORDVNMXVSLXVnN2RqNTM3Q09KcFk4MnhKNG9pN2FPd1ZJd2JURFNMRWRCMllWYm9Ia1dZYXh6bmhrWFdkM2k2WFNzNndJQXI5aDdoTXJXdzNwUGxUQzJhQWxwQ1JIcnRwaFVyVXJmbmV2STNnWGJPUldNelNRZmZyV1gweDFVeW1BVVhJMTV5WEtreVJnQ2xrQ0V2VzRfZUtHVWlsQzJja01fYUN1ZEw1ZUJwQU5zWExINXZqSGJGdEpYNjRR?oc=5",
-      "en": {
-        "title": "US FILES ACTION TO RECOVER OVER $1 BILLION IN CRYPTOCURRENCY STOLEN IN BINANCE HACK",
-        "summary": "US files action to recover over $1 billion in cryptocurrency stolen in Binance hack. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "মার্কিন যুক্তরাষ্ট্র Binance হ্যাক চুরি করা $1 বিলিয়ন ক্রিপ্টোকারেন্সি পুনরুদ্ধার করার জন্য পদক্ষেপ নেয়",
-        "summary": "মার্কিন যুক্তরাষ্ট্র Binance হ্যাক থেকে চুরি করা $1 বিলিয়ন ক্রিপ্টোকারেন্সি পুনরুদ্ধার করার জন্য অ্যাকশন ফাইল করেছে৷ প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BNB | প্রভাব: 10/10] $BNB-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "c30d7b69994f5c6d9fa63e9577488489",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BNB"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92Vjl5em1kSTVwRzhUVDdMNW5BSzYtTHhJOV9JT0FMREVCdVFLdTBHMVVjTFVRT2hWZ2VKYUY2RmFhQjk0Y2FjUG0yU2FEbmFkQ3ZkdkFROTJOSXdoNXdfS043eUdmTlZJTDNRd2VwRE4wdFE?oc=5",
-      "en": {
-        "title": "9,293 ETHER MOVES BETWEEN WALLETS TIED TO THE 2026 BINANCE HACK",
-        "summary": "9,293 Ether moves between wallets tied to the 2026 Binance hack. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "9,293 ইথার 2026 Binance হ্যাকের সাথে বাঁধা ওয়ালেটের মধ্যে চলে যায়",
-        "summary": "9,293 ইথার 2026 Binance হ্যাকের সাথে বাঁধা ওয়ালেটের মধ্যে চলে যায়। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BNB | প্রভাব: 10/10] $BNB-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "f5ae19737e97a1eaeed6dd77e091f692",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BNB"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQ213V0RoN2tHeVByNXZXZTUwMGtjdnNMUnJvbWxXU25iZGNvMEV6TENVN2NDQkRfTVJxMFRWVGRUeUJzcFVOLWJOQWZxMWcxcHE0cjVrVzhhMjBsR2c?oc=5",
-      "en": {
-        "title": "DOJ SEEKS ABOUT $1B IN USDC TIED TO BINANCE HACK",
-        "summary": "DOJ seeks about $1B in USDC tied to Binance hack. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "DOJ Binance হ্যাকের সাথে যুক্ত USDC-তে প্রায় $1B চায়৷",
-        "summary": "DOJ Binance হ্যাকের সাথে যুক্ত USDC-তে প্রায় $1B চায়৷ প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BNB | প্রভাব: 10/10] $BNB-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "d2808d378f33c948efadbbf71b7c7755",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BTC",
-        "$BNB"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUd3WlF0bzZ1eUsxT0NYYVBIVkE4Z1NZYXlfVEEyamRLRkNtLUFRWF9XVktUUDhiX2I0TC00cFRfUERWME1aSkVIUUpnaTMzOGZvanBSUGU3Zi1HTTBydEpnQzA2bWpNeF9STGRUTlNGRUhwUlQxdTFLbnpNekpfZw?oc=5",
-      "en": {
-        "title": "BINANCE HACKERS PUSH $247 MILLION IN BITCOIN THROUGH COINJOIN MIXERS",
-        "summary": "Binance hackers push $247 million in Bitcoin through coinjoin mixers. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BTC, $BNB | IMPACT: 10/10] Downside pressure expected on $BTC, $BNB; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "Binance হ্যাকাররা কয়েনজয়েন মিক্সারের মাধ্যমে বিটকয়েনে 247 মিলিয়ন ডলার পুশ করে",
-        "summary": "Binance হ্যাকাররা কয়েনজয়েন মিক্সারের মাধ্যমে বিটকয়েনে 247 মিলিয়ন ডলার পুশ করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BTC, $BNB | প্রভাব: 10/10] $BTC, $BNB-এর উপর নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "c1a599a0ae5df14d72b84ebfb67058fb",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BNB"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
-      "en": {
-        "title": "BINANCE HACKERS PUSH $247 MILLION THROUGH TRANSACTIONS DESIGNED TO CLOUD THE SOURCE",
-        "summary": "Binance hackers push $247 million through transactions designed to cloud the source. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BNB | IMPACT: 10/10] Downside pressure expected on $BNB; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "Binance হ্যাকাররা উৎসকে ক্লাউড করার জন্য ডিজাইন করা লেনদেনের মাধ্যমে 247 মিলিয়ন ডলার পুশ করে",
-        "summary": "Binance হ্যাকাররা উৎসকে ক্লাউড করার জন্য ডিজাইন করা লেনদেনের মাধ্যমে 247 মিলিয়ন ডলার পুশ করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BNB | প্রভাব: 10/10] $BNB-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "1fbb51bd4f851171ab7547e8a5d96cf3",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$BTC",
-        "$DXY / $SPY"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-      "en": {
-        "title": "BITCOIN'S 5-YEAR RETURN IS NEARLY ZERO, GREAT NARRATIVES ARE FADING AND WHAT'S LEFT IS THE FED",
-        "summary": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$BTC, $DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $BTC, $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "বিটকয়েনের 5-বছরের রিটার্ন প্রায় শূন্য, দুর্দান্ত আখ্যানগুলি ম্লান হয়ে যাচ্ছে এবং যা বাকি আছে তা হল ফেড",
-        "summary": "বিটকয়েনের 5-বছরের রিটার্ন প্রায় শূন্য, দুর্দান্ত আখ্যানগুলি ম্লান হয়ে যাচ্ছে এবং যা বাকি আছে তা হল ফেড। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$BTC, $DXY / $SPY | প্রভাব: 10/10] $BTC, $DXY / $SPY-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "655c32dc23471854e9a748dce032c2b1",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDhQXy10UUVWQ2Njc25FRV9rcThJYTk0Q3RRb0xiNnd5ZWZyWThnMXZWcmRmd21LOTNRZW50VGhmSDBaNkQ5QnNyNERqTkdNaW45TjdlMUxkcEU4SWZWN1I0Z3B2RWNmUWNWclhrV2NiemhCNDh1Zlk0NlRTQTVrZUw2bFJEa2JGY3RLSGJYMGhQbnUwcm5rQnFJcDh5MUVESWR2bE5qWjJxbDh0VDV4NEV6dHRGY2pFU2dtWlRqWQ?oc=5",
-      "en": {
-        "title": "ESCALATING STRIKES ON BLACK SEA SHIPPING DRIVE GLOBAL FOOD INSECURITY, UN OFFICIALS WARN - ANADOLU AJANSI",
-        "summary": "Escalating strikes on Black Sea shipping drive global food insecurity, UN officials warn - Anadolu Ajansı. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "কৃষ্ণ সাগরের শিপিং-এ ক্রমবর্ধমান ধর্মঘট বিশ্বব্যাপী খাদ্য নিরাপত্তাহীনতার দিকে পরিচালিত করে, জাতিসংঘের কর্মকর্তারা সতর্ক করেছেন - আনাদোলু আজানসি",
-        "summary": "কৃষ্ণ সাগরের শিপিং-এ ক্রমবর্ধমান ধর্মঘট বিশ্বব্যাপী খাদ্য নিরাপত্তাহীনতা বাড়ায়, জাতিসংঘের কর্মকর্তারা সতর্ক করেছেন - আনাদোলু আজানসি। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "81f13f4c8e39e828bfbf5ba6964a5753",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjAyU0doelZkR2U5cF92aUs4aHJ6Y1M5T2hzc1E1bEFSOFB1dFBiLUxEbjFxUzBRUHprWVZES1JNVmJqcXRnUjNlQThsXzFHZE0yMThrOXhCT1VJVWpIVXh2QnB3X0VQX2tuRnZlYVVheUlpVGNSZ0ZmUlFBdVdrNHpfVkJ6QUlVdFpoemxpc0gwLW82alFhYzVfamdwX3ROeHM4WGJJUHVhVm9uMkE4aExkeUJYR1ZZaERZ?oc=5",
-      "en": {
-        "title": "LEWIS PUGH SWIMS STRAIT OF HORMUZ FOR WAR-HIT WILDLIFE",
-        "summary": "Lewis Pugh Swims Strait of Hormuz for War-Hit Wildlife. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "যুদ্ধ-বিধ্বস্ত বন্যপ্রাণীর জন্য লুইস পুগ হরমুজ প্রণালী সাঁতার কাটছেন",
-        "summary": "যুদ্ধ-বিধ্বস্ত বন্যপ্রাণীর জন্য লুইস পুগ হরমুজ প্রণালী সাঁতার কাটছেন। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "5ce5e09447eadc53372685ac64889362",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BULLISH",
-      "impact_score": 10,
-      "tickers": [
-        "$SPY / $QQQ"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2RacW45RHowTXZqdk1hcVV1amFPOG9jMzBXUElyOTdqMVZiNnlvdU5pN1ctRlIwNlRiWjhaUXlNSWNyUHZLZmdYZ0VoSWdwWlhCRVVaRHo5Nkc4dXNDX09aamFlbUc3MThYTE5KWm84akFQaUQyUjJ2c3ktSjRiZ1FnMGRsMVBxNVdlYmE3b252VE0?oc=5",
-      "en": {
-        "title": "CPI REPORT SHOWS INFLATION BEAT IN OCTOBER: HOW FCPI CAN HELP",
-        "summary": "CPI Report Shows Inflation Beat in October: How FCPI Can Help. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Positive momentum catalyst for $SPY / $QQQ; monitor breakout volume and long positioning."
-      },
-      "bn": {
-        "title": "সিপিআই রিপোর্ট অক্টোবরে মুদ্রাস্ফীতি বীট দেখায়: কিভাবে FCPI সাহায্য করতে পারে",
-        "summary": "সিপিআই রিপোর্ট অক্টোবরে মুদ্রাস্ফীতি বীট দেখায়: কিভাবে FCPI সাহায্য করতে পারে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$SPY / $QQQ | প্রভাব: 10/10] $SPY / $QQQ এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
-      }
-    },
-    {
-      "id": "d59026c23add875dc456c395c556f839",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UYWFUc1AxVHlSU0d6RmNubzkzZzduWURsQzQ5VGlyQjltMEIyRUNmMkp5R29meVNQdkxhTzBEOEUtdlgxODdIbnBzeF9JaEFVMHlXc0VyWGpCUndycmVIVU9Ed1QxSzVOME9KU01tcGR3S1k?oc=5",
-      "en": {
-        "title": "ARE FEDERAL PAY RAISES KEEPING UP WITH INFLATION? THE 15-YEAR SCORECARD",
-        "summary": "Are Federal Pay Raises Keeping Up With Inflation? The 15-Year Scorecard. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ফেডারেল বেতন মূল্যস্ফীতি সঙ্গে রাখা আপ বাড়ায়? 15 বছরের স্কোরকার্ড",
-        "summary": "ফেডারেল বেতন মূল্যস্ফীতি সঙ্গে রাখা আপ বাড়ায়? 15 বছরের স্কোরকার্ড। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "e7efb45416c2bceb2d314a763c82940f",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWxlZHhWdXBxODI5eFM3Znp0ZFQyRC1XOFJEajFyelloRnFOZ2MzRXRiNVBsRFRkOWdfbHRrX2FtVld3MDdhYnkyTGJOcFhQLWdGZUNzUDloNTNaT3lJZWNNSWRTbnpTNHUwQXdYUHlwWDhfaDh1eFJhcnJDbmx6WHRVZWpFLTB6LVhWVGJqZDl6aHVLdl9RQTYzT1Zsc05lRUtLUVpXSjU5UDhtWVdnb2FwYzEtLWcyd0FNd0FQcw?oc=5",
-      "en": {
-        "title": "BILL ACKMAN URGES FEDERAL RESERVE TO DROP 2% TARGET, ADOPT 3% INFLATION GOAL",
-        "summary": "Bill Ackman Urges Federal Reserve To Drop 2% Target, Adopt 3% Inflation Goal. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "বিল অ্যাকম্যান ফেডারেল রিজার্ভকে 2% লক্ষ্য ড্রপ করার, 3% মুদ্রাস্ফীতির লক্ষ্য গ্রহণ করার আহ্বান জানিয়েছেন",
-        "summary": "বিল অ্যাকম্যান ফেডারেল রিজার্ভকে 2% লক্ষ্য ড্রপ করার, 3% মুদ্রাস্ফীতির লক্ষ্য গ্রহণ করার আহ্বান জানিয়েছেন। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "7c0d9055f1d5697aa709a53b0f6e03fe",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3JfVjFBY29POHAyMUxvRGlBbE16Q3l3LXAtb1lTVlJkZU9pZ0llbHUyT0hYQzM4c2ppZVZkSlhlMWlxSWV0cjJrLVp2aGxaRTlzcXJzTXlReFoxb1RkSTlTckZLTTN1MWM4WnNRYURvZG05LVNLOS1lNk9qTkc2N2VBVldkZ3F2VTVWXzE4OEpCNVk0ZHZCb3pzOU52algxUWlNMGM0TlAyeXN1MDVlTw?oc=5",
-      "en": {
-        "title": "FEDERAL RESERVE: CONSECUTIVE HIKES AND STICKY INFLATION – TD SECURITIES",
-        "summary": "Federal Reserve: Consecutive hikes and sticky inflation – TD Securities. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "ফেডারেল রিজার্ভ: ক্রমাগত বৃদ্ধি এবং স্টিকি মুদ্রাস্ফীতি - টিডি সিকিউরিটিজ",
-        "summary": "ফেডারেল রিজার্ভ: ক্রমাগত বৃদ্ধি এবং স্টিকি মুদ্রাস্ফীতি - টিডি সিকিউরিটিজ। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "d918620ae70a3feab1e38dcb82aa8d7f",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMekR2OFhPWE5wY3FWRmpaU2szRTFuVDIzV19BVkxETjhsRTVXM0h1bmN4aHVJUG9oVk91V3pCMHBUN2tydF9NQlhTX1J0SlZjRzloYnBWQzF5ZzRTSlpuN0hYRW5QVkxsQlMxTG5mbjdkRDJsYzBMSTRn?oc=5",
-      "en": {
-        "title": "THE FED GETS ONE LAST BIG INFLATION REPORT BEFORE ITS DECEMBER RATE VOTE",
-        "summary": "The Fed Gets One Last Big Inflation Report Before Its December Rate Vote. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ফেড তার ডিসেম্বর হার ভোটের আগে একটি শেষ বড় মুদ্রাস্ফীতি রিপোর্ট পায়",
-        "summary": "ফেড তার ডিসেম্বর হার ভোটের আগে একটি শেষ বড় মুদ্রাস্ফীতি রিপোর্ট পায়। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY তে উচ্চতর দ্বিমুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "c53c392cbd28d3b8803c807722ebfc23",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzYzhKdU9UYkwzYllFLUFIX2E5MFpObGdlLVVHQngycmtnbktXeDNya1RGZ3B6M0d2aE1SdHEta0I5eFJIVElPTVRiR1o3cGVWdDdFbXFuWU1lSzBFcTBYVXJRdGpWcmFKTkF6NQ?oc=5",
-      "en": {
-        "title": "ACKMAN URGES FED TO RAISE INFLATION TARGET TO 3 PERCENT",
-        "summary": "Ackman Urges Fed to Raise Inflation Target to 3 Percent. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "Ackman মুদ্রাস্ফীতির লক্ষ্যমাত্রা 3 শতাংশে উন্নীত করার জন্য ফেডকে অনুরোধ করেছে",
-        "summary": "Ackman মুদ্রাস্ফীতির লক্ষ্যমাত্রা 3 শতাংশে উন্নীত করার জন্য ফেডকে অনুরোধ করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY তে উচ্চতর দ্বিমুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "fd14098e48c0204d1b11b7de1d64b96a",
-      "category": "commodities",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 10,
-      "tickers": [
-        "$DXY / $SPY"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0haS0RMWTZwQzFseFloQmNVX1lCVEdoVzJMRmxhZFE1eE13OGFiLXB6b3J4eXcyVzAxRTFuX3czbENDSldCV1JBdEszRkNrTFpMdkQtckJHMnBydm1FZ19KX2dSeS1uOVltX2x6ZFhHU0Y1aHRHZXRqUkZqWmZrbEJTalBsbE11cFBLM3lKUVR1dHRHQUw1ZGdtZ2NYUEJMVEtHeUVVZTJhZWdzUGc?oc=5",
-      "en": {
-        "title": "FED 'JEDI CENTRAL BANKING' WON'T STOP INFLATION - TS LOMBARD’S DARIO PERKINS",
-        "summary": "Fed 'Jedi central banking' won't stop inflation - TS Lombard’s Dario Perkins. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$DXY / $SPY | IMPACT: 10/10] Expect elevated two-way volatility in $DXY / $SPY; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ফেড 'জেডি সেন্ট্রাল ব্যাংকিং' মুদ্রাস্ফীতি বন্ধ করবে না - টিএস লম্বার্ডের দারিও পারকিন্স",
-        "summary": "ফেড 'জেডি সেন্ট্রাল ব্যাঙ্কিং' মুদ্রাস্ফীতি বন্ধ করবে না - টিএস লম্বার্ডের দারিও পারকিন্স। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$DXY / $SPY | প্রভাব: 10/10] $DXY / $SPY তে উচ্চতর দ্বিমুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "e53f8d40c9d1996a4878d947425f725f",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ181RnNzOU9CYUxFX25LMkdhMFNfNlRFaE5aU3AwNFA3UnFxdUxWc0pPSk50M0lPWEJMUEFsZms3ZGotX1lFRkotckRKV0kybjhGNDdHdlZRdDBFeU1ydjdHb2dCQUxZdnREd0pOR2xwdkdibi00S2hGbkwtSi1LTHM3UnctUEFoZnFUTXoya3VfVVFS?oc=5",
-      "en": {
-        "title": "BROWN NAMED SEC CO-PLAYER OF THE WEEK",
-        "summary": "Brown Named SEC Co-Player of the Week. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ব্রাউন SEC কো-প্লেয়ার অফ দ্য উইক নির্বাচিত হয়েছেন",
-        "summary": "ব্রাউন SEC কো-প্লেয়ার অফ দ্য উইক নির্বাচিত হয়েছেন। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "a97244c024700972518571c9c6fec76e",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "20:09 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1BkbU1ocnVYeDhHTGkyUm9LdHlwc0pCUUcyRmtxNU1sbmo2X2QzQVZCTnREQjdJR0pfTVZMcUgtUXdJVzhzRlZSbXNZSFozRXp4cklrb05tTXAtZmYwcXhJc1BWNHlLb2VjUXpVQ2kwN0JrWlRpcFd3OTlWZ0M4b09mTkU?oc=5",
-      "en": {
-        "title": "SEC FOOTBALL PLAYERS OF THE WEEK: NOV. 23",
-        "summary": "SEC Football Players of the Week: Nov. 23. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "এসইসি ফুটবল প্লেয়ার অফ দ্য উইক: 23 নভেম্বর",
-        "summary": "এসইসি ফুটবল প্লেয়ার্স অফ দ্য উইক: নভেম্বর 23। এই উন্নয়নের পর প্রাতিষ্ঠানিক ডেস্ক অর্ডার বুকের তারল্য এবং সেক্টর পজিশনিং পর্যবেক্ষণ করছে।",
         "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
       }
     }
