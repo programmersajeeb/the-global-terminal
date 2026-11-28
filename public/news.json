@@ -1,26 +1,26 @@
 {
-  "updated_at": "28 Nov 2026, 02:49 UTC",
+  "updated_at": "28 Nov 2026, 11:00 UTC",
   "total_count": 120,
   "market": [
     {
       "symbol": "BTC/USD",
-      "price": "$59,922",
-      "change": -2.35
+      "price": "$59,214",
+      "change": -3.84
     },
     {
       "symbol": "ETH/USD",
-      "price": "$1,662",
-      "change": -3.5
+      "price": "$1,645",
+      "change": -4.79
     },
     {
       "symbol": "SOL/USD",
-      "price": "$71.65",
-      "change": -0.95
+      "price": "$70.68",
+      "change": -3.53
     },
     {
       "symbol": "BNB/USD",
-      "price": "$555",
-      "change": -1.26
+      "price": "$549",
+      "change": -2.68
     },
     {
       "symbol": "S&P 500",
@@ -62,6 +62,423 @@
     }
   ],
   "articles": [
+    {
+      "id": "0fdac62554482c433f8b6d80bd719ce1",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "CORPORATE ACTION",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$AAPL",
+        "$MSFT",
+        "$AMZN"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1VXdUV4VHNsYl9ueVBBN0xDWUo4RG1KYXFGNXlWNTlFOVZ5VUdfNnBUVlkxXzFWNV9tZDhrTzdWTW9FVTl3Y2ppWTJXbFhWSzVHeG5JSm9pRjQxZ3ZnMXpCY3FTYVBKcHhOV0hCZjBiZEU4dl9wRHNBQlFMbHVNWkFsbkQzOHBkQ2FadzF2UnZyUWZJeEtseFhLQ1ZQcVBSUmR2dEpwd0J1Zjd1QThyYzJxN2gxUi0xbFhVamVuYUdFaldBQXRUMFRHRTJDa1JiY0VvUmJEZW5WT2ZHdWVsSzdFOXBld1dOTFNNTWtoZ1lQOVp2T2xmUkNPZy1ibXdy?oc=5",
+      "en": {
+        "title": "TECH LAYOFFS TRACKER 2026: ALL THE JOB LOSSES ACROSS DISNEY, INTEL, AMAZON, MICROSOFT, APPLE, META AND OTHERS",
+        "summary": "Tech layoffs tracker 2026: All the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$AAPL, $MSFT, $AMZN | IMPACT: 10/10] Downside pressure expected on $AAPL, $MSFT, $AMZN; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "টেক ছাঁটাই ট্র্যাকার 2026: ডিজনি, ইন্টেল, অ্যামাজন, মাইক্রোসফ্ট, অ্যাপল, মেটা এবং অন্যান্য জুড়ে সমস্ত চাকরির ক্ষতি",
+        "summary": "টেক ছাঁটাই ট্র্যাকার 2026: ডিজনি, ইন্টেল, অ্যামাজন, মাইক্রোসফ্ট, অ্যাপল, মেটা এবং অন্যান্য জুড়ে সমস্ত চাকরি হারানো। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$AAPL, $MSFT, $AMZN | প্রভাব: 10/10] $AAPL, $MSFT, $AMZN-এর উপর নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "4aa68f942345c782e5a21e338a136129",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$NVDA"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "en": {
+        "title": "LIESMAN: NVIDIA WHIPLASH TESTS KEVIN WARSH’S PUSH TO READ MARKET SIGNALS",
+        "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+        "key_point": "[$NVDA | IMPACT: 10/10] Downside pressure expected on $NVDA; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "লাইজম্যান: এনভিডিয়া হুইপ্ল্যাশ বাজার সংকেত পড়ার জন্য কেভিন ওয়ার্শের চাপ পরীক্ষা করে",
+        "summary": "এই গত সপ্তাহে এনভিডিয়াকে ঘিরে চরম বাজারের গতিবিধি এবং নাটক ফেডারেল রিজার্ভ চেয়ারম্যান কেভিন ওয়ার্শের মুখোমুখি হওয়া দ্বিধাকে তুলে ধরেছে।",
+        "key_point": "[$NVDA | প্রভাব: 10/10] $NVDA-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "7422a7ed0dd4a20458f63da16dbb9445",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+      "en": {
+        "title": "TRUMP-LINKED CRYPTO TOKEN WLFI PLUNGES 50% TO RECORD LOWS",
+        "summary": "Trump-linked crypto token WLFI plunges 50% to record lows. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "ট্রাম্প-সংযুক্ত ক্রিপ্টো টোকেন WLFI রেকর্ড নিম্নে 50% নিমজ্জিত",
+        "summary": "ট্রাম্প-সংযুক্ত ক্রিপ্টো টোকেন WLFI রেকর্ড নিম্নে 50% নিমজ্জিত। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "eb9adc95b1f351e09180101938bca63d",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3BxSHRSNnpLNzJYS3VxYWpjWG5qclJrTjhiZWVRa0JIU1ZidWlVZno2c2hXNUczX2dCUFJ0ZXFaOFpKYVhwb0NyZW9hd0FFOUI0NUF0TEJsQmdMYktYT0R6ZHBydTBKRXNQdWNGUTdTdXBmZXplYjg2YzBWRUZaMjNPdnl5cFhkX0lKcDFtTnJMTllUQ2V0dmtVVk5LZFBzQlZlOWdVMEw?oc=5",
+      "en": {
+        "title": "NINE MONTHS INTO IRAN WAR, WHY US HORMUZ INSURANCE PLAN IS STILL IDLE - AL-MONITOR",
+        "summary": "Nine months into Iran war, why US Hormuz insurance plan is still idle - Al-Monitor. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "ইরান যুদ্ধের নয় মাস, কেন মার্কিন হরমুজ বীমা পরিকল্পনা এখনও নিষ্ক্রিয় - আল-মনিটর",
+        "summary": "ইরান যুদ্ধের নয় মাস, কেন মার্কিন হরমুজ বীমা পরিকল্পনা এখনও নিষ্ক্রিয় - আল-মনিটর। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "e2f15e886e79ac7f1b50be323a416ee4",
+      "category": "war",
+      "is_urgent": true,
+      "badge": "SECURITY ALERT",
+      "sentiment": "BEARISH",
+      "impact_score": 10,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZklLVFZBSlJHNmxIUENOQ0xJVEd6SUltOTFVWFJUSzMtRkEtQ3dOSDFodlVJTjhiTFJ5aDdpcTBSQXUycFhrcUZqTFVOUUllTE5fdEZqNVEyc1gxZU1Dc2N2cllFdFVYekxVWnRqUHRPZmZxU1U5OU1CLXRnblllUjctSjFyRmRYdVMtRFVCVjV2dG8wSmVLME9pX3JoWGxtZDVjRVRXVko0NnNfSkdPOA?oc=5",
+      "en": {
+        "title": "US MILITARY DISABLES BULK CARRIER PACIFIC ARCHER TRYING TO BREACH IRAN BLOCKADE",
+        "summary": "US Military Disables Bulk Carrier Pacific Archer Trying To Breach Iran Blockade. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
+      },
+      "bn": {
+        "title": "মার্কিন সামরিক বাহিনী বাল্ক ক্যারিয়ার প্রশান্ত মহাসাগরীয় তীরন্দাজ ইরান অবরোধ লঙ্ঘনের চেষ্টা করে নিষ্ক্রিয় করে",
+        "summary": "মার্কিন সামরিক বাহিনী বাল্ক ক্যারিয়ার প্রশান্ত মহাসাগরীয় তীরন্দাজ ইরান অবরোধ ভঙ্গ করার চেষ্টা করে নিষ্ক্রিয় করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
+      }
+    },
+    {
+      "id": "eee312a4d9c6e1ab4dd273c19c0bc09e",
+      "category": "commodities",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 10,
+      "tickers": [
+        "$SPY / $QQQ"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzg5Mnh4YkZuTHppZGtxNUo4S05QYkpsbmROVFJfX21VZUlPMG5oZ29pell1ek1tU3EtLVJGZndrcnBGZkVoOG9rRUl2YmxoRVpJOUZkRFYxQ3Jhc1k3WTUxTGUxVWZsTFlDMHlsLTRudUlTV29aak43d0N3S1pZRzh4ampOdzhtVW4zVDRZeV91UGEyZGtsQkJLWXZPYnFiRi0wQXpHZ1RzcVphdVVZZ1lhelU1bG03dU42RV9SMW55VHZjcFhteVg3c3Q?oc=5",
+      "en": {
+        "title": "KINZEY CAPITAL MANAGEMENT ANNOUNCES ANALYSIS OF UK OCTOBER CPI RELEASE",
+        "summary": "Kinzey Capital Management Announces Analysis of UK October CPI Release. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "কিনজে ক্যাপিটাল ম্যানেজমেন্ট ইউকে অক্টোবর সিপিআই রিলিজের বিশ্লেষণ ঘোষণা করেছে",
+        "summary": "কিনজে ক্যাপিটাল ম্যানেজমেন্ট ইউকে অক্টোবর সিপিআই রিলিজের বিশ্লেষণ ঘোষণা করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$SPY / $QQQ | প্রভাব: 10/10] $SPY / $QQQ-এ উচ্চতর দ্বি-মুখী অস্থিরতা আশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "7381467c9fb3c73c392eac656972ac59",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNU1kLVE0c3JuVWV2SFhoZDVxeC15Wl9FdUItbGxUZ2hTcEp1bDZFdVd6SktrYmJMZFM5UFlWQ3ZuTm9zTzBfZUVwV01XeVdqNGxWTkRvRkRUdWVZNm0ySEtyS3FvUl9FOTJIMHZEVDNOWnJnV19BelNSSzRnVG9POG5BUkFYMWtoTDM2QVAzX2VVWk5PZHNmM1ZLTE1JTEh1Si1VUmRGVzlPcXhCT0HSAbMBQVVfeXFMTWR3OHhOX2F0Um5hdHZ6aHBfdy1BYlZSZnZUMDVaalJpMEVRNkVobFVMTkFQTWl1dkZmNTRhZVVUdVowTjJmNl92ekdiQ0hnVktYbFhCbWdYM0VsT09ld1dzaEhGODQyXzhxM3ptYmJndXpXYWZxX3gtUFEyZy1YX3U5TDA1YmNfbXJfNGVsSFFYVkNvdHVqWmVsMWt6MTAzajQxclpqbnB4b25aQ0Y1Sk9FcFE?oc=5",
+      "en": {
+        "title": "2026 SEC CHAMPIONSHIP GAME: DATE, TIME, TV CHANNEL, HISTORY",
+        "summary": "2026 SEC Championship Game: Date, time, TV channel, history. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "2026 এসইসি চ্যাম্পিয়নশিপ গেম: তারিখ, সময়, টিভি চ্যানেল, ইতিহাস",
+        "summary": "2026 এসইসি চ্যাম্পিয়নশিপ গেম: তারিখ, সময়, টিভি চ্যানেল, ইতিহাস। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "612d0603d7db25cf2bdbfdeb5b2fd57a",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeUZtWmtySkM4RXU1SjBhYU1odjJaZmZ1UFRRc2dyYk1QUzUxVTA0a2s0REJTLTJXcE5tSjJvaWZvUmx0SnhTUVQ1d1pleWpmWjZEaEVOMWlIUUs1TmpIY2tURTZ5Ung4VnlsNE1RdGZoTUM2bkFoQmQ2WGxjc3NwYTBBNTQyWmZtaXZfZWdWX2Y5THRKT2V2bDdlUzNManM?oc=5",
+      "en": {
+        "title": "TEXAS IS GOING TO THE SEC TITLE GAME. TEXAS A&M IS GOING INTO A LONG, LONG OFFSEASON",
+        "summary": "Texas is going to the SEC title game. Texas A&M is going into a long, long offseason. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "এসইসি শিরোপা খেলায় যাচ্ছে টেক্সাস। টেক্সাস এএন্ডএম একটি দীর্ঘ, দীর্ঘ অফসিজনে যাচ্ছে",
+        "summary": "এসইসি শিরোপা খেলায় যাচ্ছে টেক্সাস। টেক্সাস এএন্ডএম একটি দীর্ঘ, দীর্ঘ অফসিজনে যাচ্ছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "4cce32d97f7055ac749af5559dc8e9d1",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXJVemd2eFhHbnRocFJfSVpOaHRtNzRzcVlpVnBqUm9qNllLN1hvYW4yNFB0dThUODlNWE55bTVxNkkwZ25PRFh4WTBQSExDZ29VSzlrTUJnUDBvU2lrTVBvVFV5ZmdweEhxUGpGQkx2dWttdDFVMFhwOE5UV2Z3bzhKWWdtOXRBazNER0N2dDNTb1Q3Y1FJWTlVeDJvWl9CaWVLMnpZRVUzRFRScENHb2hOejBZODNM?oc=5",
+      "en": {
+        "title": "GEORGIA, TEXAS SET FOR REMATCH IN 35TH AND FINAL SEC FOOTBALL CHAMPIONSHIP GAME",
+        "summary": "Georgia, Texas set for rematch in 35th and final SEC Football Championship Game. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "জর্জিয়া, টেক্সাস 35 তম এবং শেষ এসইসি ফুটবল চ্যাম্পিয়নশিপ গেমে পুনরায় ম্যাচের জন্য প্রস্তুত",
+        "summary": "জর্জিয়া, টেক্সাস 35 তম এবং চূড়ান্ত SEC ফুটবল চ্যাম্পিয়নশিপ গেমে পুনরায় ম্যাচের জন্য প্রস্তুত। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "495775424db46cc89da9baae7f8cd787",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFFNS2tPZEFCVGgyM2RFYWQ1UFloMTdZaF83d0otMDhQaDNtZUg1ZDk5YmNVN3BSekZsOHVDY2hWTERUXzNNcThIQThPajBFbmtYMzAzYlQ0bnI5R0ZqVjlaNE9XY3EwdVN6d1Blbm9oVlNVRFdqVmdwZ0RydmxRLWh2bTNmd0Z0djNqcGhsX2FaZTQ?oc=5",
+      "en": {
+        "title": "2026 SEC CHAMPIONSHIP GAME: TEXAS GETS ONE LAST SHOT AT GEORGIA IN CONTEST'S FINAL EDITION",
+        "summary": "2026 SEC Championship Game: Texas gets one last shot at Georgia in contest's final edition. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "2026 এসইসি চ্যাম্পিয়নশিপ গেম: টেক্সাস প্রতিযোগিতার চূড়ান্ত সংস্করণে জর্জিয়াতে একটি শেষ শট পেয়েছে",
+        "summary": "2026 SEC চ্যাম্পিয়নশিপ গেম: টেক্সাস প্রতিযোগিতার চূড়ান্ত সংস্করণে জর্জিয়াতে একটি শেষ শট পায়। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "c7f689c139b3a927b8367869f379fd29",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOENCcVFGcTRqZkk1bTl0eDBRVkRWTXBlTTFHYWtIa0RtMXJycmlWbXFVYTNKU28wMy11M1JneFFOOHR4S2E1R2hWcEhXWEFUdWRmY2h0MUUzOVdfWU05UFlQdjVYNW96TEtMNk95emczT1JpQlFtdkZyQXlSODRNUTdCVHpyMzBsQUFRYXNlajhDSEFGWGxJcUZ5TUI2MVN6enVLcS01VzB3Ykl2UjdpSGNrdlVvTmR6SEE?oc=5",
+      "en": {
+        "title": "NO. 5/6/3 CLINCHES SEC CHAMPIONSHIP BERTH WITH 16-6 WIN AT TEXAS A&M",
+        "summary": "No. 5/6/3 clinches SEC Championship berth with 16-6 win at Texas A&M. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "নং 5/6/3 টেক্সাস A&M-এ 16-6 জয়ের সাথে SEC চ্যাম্পিয়নশিপ বার্থ অর্জন করেছে",
+        "summary": "নং 5/6/3 টেক্সাস A&M-এ 16-6 জয়ের সাথে SEC চ্যাম্পিয়নশিপ বার্থ অর্জন করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "9e73a24b51ad47cfef0f97dd02ac26b0",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "BULLISH",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2tTMGstZ3Jfb0JTY2dnOElPaHRiUFlQUkpBcTJ4S0NXbTdIeGhOUnUtc05FM0JmcXVyZXBaYVc4YkFGbXJzQzhPdGZ1SWFDTnVXRXVIcUd0VjVaSmRCdWFtQUgtZ2tfWS1oSmstT1NkTjR0SmoyNEVDNUhLLXd4WGc2QjlRbF9OZXdwcEN3dU1YeDZ3dDdsN213?oc=5",
+      "en": {
+        "title": "APOGEE (APOG) STOCK STILL LOOKS LIKE A BARGAIN ON EARNINGS",
+        "summary": "Apogee (APOG) Stock Still Looks Like A Bargain On Earnings. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Positive momentum catalyst for $MACRO; monitor breakout volume and long positioning."
+      },
+      "bn": {
+        "title": "Apogee (APOG) স্টক এখনও আয়ের উপর একটি দর কষাকষির মত দেখাচ্ছে",
+        "summary": "Apogee (APOG) স্টক এখনও আয়ের উপর একটি দর কষাকষির মত দেখাচ্ছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
+      }
+    },
+    {
+      "id": "e9afa749cf5efd5a0f396476ec91140e",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY3JYOG1MbTFLZXo3LWE2OUhjMGJVVS1pV1Q1aGNMVXhlc1pEa0lBeF9SQlEwVTRfRjZBVm1lX1ZzczlMNGljalZ3b2hIY1Y3Yzc0TmNmaHFWWmFWRHhlZzlTSjZmbWhvMDNOcUdzSmczMXhnYWZ3NENVM1V3WG5kZTJEVDh2UHpoYkdqcDdOWkRsOVAza01hOHRobVBqczFTeWt5SksxUnNXb00?oc=5",
+      "en": {
+        "title": "SEC NOW CREW SPOTLIGHTS FLORIDA FOUNDATION, OUTLINES AREAS TO BUILD",
+        "summary": "SEC Now crew spotlights Florida foundation, outlines areas to build. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "SEC Now ক্রু স্পটলাইট ফ্লোরিডা ফাউন্ডেশন, নির্মাণের জন্য এলাকাগুলির রূপরেখা",
+        "summary": "SEC Now ক্রু স্পটলাইট ফ্লোরিডা ফাউন্ডেশন, নির্মাণের জন্য এলাকাগুলির রূপরেখা। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "11bbc4f2b9d6a2e6bd1c800be46b25e8",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "EARNINGS INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzJfenVjeFBVNExwQzloMzlSYWxITWFGVGpVYWRzLTJfYUxTSXBPbDdmc2pUd0VqazRpb1BnMkN0REdoWkVKM21Wc2dnMW1tbHYzVnJ2a2IxQV9OM29xdjRlREhTQVkwR1lXUGgza1RiejJMMlBJWU9TZzZvYV9oaTlsakxfN2ZWSDRNbjZHdkJHcnNlVURKRVg5WQ?oc=5",
+      "en": {
+        "title": "OKI ELECTRIC INDUSTRY (TSE:6703) STOCK MAY STILL HAVE VALUE AS EARNINGS MATTER",
+        "summary": "Oki Electric Industry (TSE:6703) Stock May Still Have Value As Earnings Matter. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "ওকি ইলেকট্রিক ইন্ডাস্ট্রি (TSE:6703) স্টকের এখনও আয়ের বিষয় হিসাবে মূল্য থাকতে পারে",
+        "summary": "ওকি ইলেকট্রিক ইন্ডাস্ট্রি (TSE:6703) স্টকের এখনও আয়ের বিষয় হিসাবে মূল্য থাকতে পারে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "b8c3a64c2df3ba19e0e7f224e51642f4",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcU5qcHZCUXNlTlVGeHd5bVBwOWF6TDY0YWNIemxIM1pud3lDUjZ0OG9qRzZWaGRVNG9zSWVqOVFYQnR5WUFGckdxZ0hTejBqOVZMcUxNVENlOUliOUFRV1dITFAycnhpcHNLZFVjU0hmcUJXamp3czF4WlBVdUdGbU5ZdXFpQXhIeTZYeEN5VzFtTU9hTUo0UlJOQkZ3cUR0M2FUT05pdlk?oc=5",
+      "en": {
+        "title": "SEC NOW CREW GETS FIRED UP FOR THE IRON BOWL, ANALYZES EACH RIVAL",
+        "summary": "SEC Now crew gets fired up for the Iron Bowl, analyzes each rival. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "SEC Now ক্রুরা আয়রন বোলের জন্য বরখাস্ত হয়, প্রতিটি প্রতিদ্বন্দ্বীকে বিশ্লেষণ করে",
+        "summary": "SEC Now ক্রুরা আয়রন বোলের জন্য বরখাস্ত হয়, প্রতিটি প্রতিদ্বন্দ্বীকে বিশ্লেষণ করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "91b97cd83d7f0ddeba16ec2e0878cd92",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGNvQ3VDY1N4QkhMRXBwc1VRM2xVTmp0eDJIY2RnN3VMOVk2TjJSMUo4bmFyZ0JBY1NrUEFJRGN1RzFJbXBZcUJLNUxvWnhLcTJ1RjUzN1pFVlpqTEpWY3otaWpsbmJpRHNFaWc3QlJxVS1COERrYkpwNXB5S1JzT2Qzckx3Zmo2YkNOOTMyTDZlRjVUT1N6NmwwcmF1bXh5RGpvd1pwenkxSmhqcFdV?oc=5",
+      "en": {
+        "title": "SEC CHAMPIONSHIP SCENARIOS, EXPLAINED: HOW TEXAS CLINCHED SPOT OPPOSITE GEORGIA",
+        "summary": "SEC championship scenarios, explained: How Texas clinched spot opposite Georgia. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "এসইসি চ্যাম্পিয়নশিপ পরিস্থিতি, ব্যাখ্যা করা হয়েছে: কীভাবে টেক্সাস জর্জিয়ার বিপরীতে স্থান দখল করেছে",
+        "summary": "এসইসি চ্যাম্পিয়নশিপ পরিস্থিতি, ব্যাখ্যা করা হয়েছে: কীভাবে টেক্সাস জর্জিয়ার বিপরীতে স্থান দখল করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "6c0be1ce2902d2f34e25e0e43985b9e7",
+      "category": "stock",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$MACRO"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSGJZbUE2UFJnSm1uQ0s0N0xEcVpYS2h1d0xkSG1pcmk1ejVNMnZYNWxqdmJFLVRGT25lZ3AxMEZDdlp4VGtGU3E2NGZ4TFppS1RENGZNd25FbzNpWUxEbEl5ZXZfdk9EaEgzNHhfdWU0YmNFRExHajhTcWUxWVN6TWdwTTRPNXlpZ20zaEdLXzJHSjBXd3BvTzB3WmJmc2RZd3pvRDR3czVGa1ZqUTBhcXcyNFdJa0FXcVp5ODg1Z1ozSWpSbWNkMERDOXhnNnREbzFKS0lsZjdOYjkybnRiVTh5eW9IdEF5S24xbkRCUzRjUQ?oc=5",
+      "en": {
+        "title": "NO. 3 TEXAS CLINCHES SPOT IN SEC TITLE GAME VS. GEORGIA WITH UGLY WIN OVER TEXAS A&M",
+        "summary": "No. 3 Texas clinches spot in SEC title game vs. Georgia with ugly win over Texas A&M. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "নং 3 টেক্সাস টেক্সাস A&M-এর বিরুদ্ধে কুৎসিত জয়ের সাথে SEC শিরোনাম খেলা বনাম জর্জিয়াতে স্থান পেয়েছে",
+        "summary": "নং 3 টেক্সাস SEC শিরোনাম খেলা বনাম জর্জিয়া টেক্সাস A&M-এর বিরুদ্ধে কুৎসিত জয়ের সাথে স্থান দখল করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
+    {
+      "id": "79618ed342ed2f98f4dfef522f154107",
+      "category": "crypto",
+      "is_urgent": true,
+      "badge": "BREAKING INTEL",
+      "sentiment": "HIGH VOLATILITY",
+      "impact_score": 9,
+      "tickers": [
+        "$BTC",
+        "$XRP"
+      ],
+      "published_at": "11:00 UTC",
+      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MVEU5SV9PV1k4cVRoSjA3WlV1MlhWcWs0SVFVQWlIXzVIYzYtM2FvVmVUaUdGQTZYb3JlYWctRVJOX3lfUTU0ZjZxekZPcTFlX2huTGNSZnNsTElpVzVCeFNBS0RUc3c4NWVWU0dyNDI?oc=5",
+      "en": {
+        "title": "BITCOIN ETF OUTFLOWS HIT $5.78B AS XRP FUNDS DRAW BUYERS",
+        "summary": "Bitcoin ETF outflows hit $5.78B as XRP funds draw buyers. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
+        "key_point": "[$BTC, $XRP | IMPACT: 9/10] Expect elevated two-way volatility in $BTC, $XRP; keep tight risk parameters."
+      },
+      "bn": {
+        "title": "XRP তহবিল ক্রেতাদের আকর্ষণ করার কারণে বিটকয়েন ETF বহিঃপ্রবাহ $5.78B আঘাত করেছে",
+        "summary": "XRP তহবিল ক্রেতাদের আকর্ষণ করার কারণে বিটকয়েন ETF বহিঃপ্রবাহ $5.78B আঘাত করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
+        "key_point": "[$BTC, $XRP | প্রভাব: 9/10] $BTC, $XRP-এ উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
+      }
+    },
     {
       "id": "bef835d3e12a81e691cea5e867b725f4",
       "category": "war",
@@ -2411,420 +2828,6 @@
         "title": "Australian Inflation Accelerates: What Does October CPI Mean for the RBA’s Policy Outlook?",
         "summary": "Australian Inflation Accelerates: What Does October CPI Mean for the RBA’s Policy Outlook?. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
         "key_point": "[$SPY / $QQQ | IMPACT: 10/10] Expect elevated two-way volatility in $SPY / $QQQ; keep tight risk parameters."
-      }
-    },
-    {
-      "id": "397488fb6fbe66e3d1dbad633a061452",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "10:45 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObTZTZmFWd2FweEpKX2ZpRkNwNUdwNDRmYzB3OXRCR0NBWk9LRWNlNmtNbEh4Y0xDVThnUGVmeUVESHB2UGNocmpWTUZZNC03SFpqUTJXblNXdG1OeTYwUGdNcVNjMjV1azk0ZDl5Y3dUbGxFZzhlLVZ4aFFfbEF0ZWxuZGRSYkxyWWNHYVgzbTFLRjk2T1NaYmlR?oc=5",
-      "en": {
-        "title": "EDGAR FILING DOCUMENTS FOR 0000002488-26-000188",
-        "summary": "EDGAR Filing Documents for 0000002488-26-000188. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "EDGAR Filing Documents for 0000002488-26-000188",
-        "summary": "EDGAR Filing Documents for 0000002488-26-000188. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      }
-    },
-    {
-      "id": "05e077c36e3bbb1843bbc4e880bc0849",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "10:45 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQTNXSFJkajZJb2JTd2lLSjJoaHF2S09SWFU5NkEwTV82Mmx3T01tbmZhNGkxNmhhT01nMnFhcHZrSkdlR190bllVbE9oMlI2dEo3eEk0OHFRZm9ZOTBXOFgwUGZ0eWFxWVo4dkU2bDhpb1dWY0JyZ0Ywc1NMZXRBLUFPTTVlVjQxMllHTC0tZndlWFNYaHc?oc=5",
-      "en": {
-        "title": "GIBSON DUNN ADVISES ON COMMERCIAL ENVIRONMENTAL BUSINESS ACQUISITION",
-        "summary": "Gibson Dunn advises on commercial environmental business acquisition. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "Gibson Dunn advises on commercial environmental business acquisition",
-        "summary": "Gibson Dunn advises on commercial environmental business acquisition. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      }
-    },
-    {
-      "id": "ebc62b39cc833a82c2090ce6a0cad6ba",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "10:45 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUlKMnp0YWQ0ejdwTlFFTldKVF82QXpLelRHWXdwWmJ6OTlsYTFTRWFpNkRSbExucWFkdVZNbnJXRGVfSDVydGVrQzl6OTEyYlJPTHY0LUdQMkpXTTQySkFLMXUtcnN6UnRQSnBhWnhmTmo2SWZnTndhcEVjM1BZcEI1RmsxSW4wRUIxUUFYQUVVQmFwLWVN?oc=5",
-      "en": {
-        "title": "SEC ISSUES CLEAR WARNING TO LSU ON EXPULSION VOTE ADTER LATEST COURT RULING",
-        "summary": "SEC Issues Clear Warning to LSU on Expulsion Vote Adter Latest Court Ruling. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "SEC Issues Clear Warning to LSU on Expulsion Vote Adter Latest Court Ruling",
-        "summary": "SEC Issues Clear Warning to LSU on Expulsion Vote Adter Latest Court Ruling. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      }
-    },
-    {
-      "id": "1bc47b6d06954dd4d72edaa97df4b9d4",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "10:45 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVUNBQTRrc1JCaWZqa3NnY1dPRmlQYm9ib0ZVSnVDVEhUT3loeFFGblZ0aWE5bTRnb3EyNG40X2xuMXRXVzczcThxTWNkUFZna0hJdDMxNHB5ODd1aElTQXJGNmRFNF94a0RHN1VnNjdpMDJtWHFSOUxRLUpzbzdmYzdfLXhPMFFQcHBENUh6MlZ0bWlBQ2s1bGV0di1YQVVMM1BYeDZXeElxZjR6d1pYeEItQVloZDJlWFZTa3g4Y2t4ZlY1aHA2RkwzcmFCTFA4REY5MW03ay10VzVUUW4zbXVaZTF1OVRzVXBjeHo0eDRvd1hWejRIZjU2NDE2eWJWZ0hv?oc=5",
-      "en": {
-        "title": "SCENARIOS FOR WHO GEORGIA WILL PLAY IN THE FINAL SEC CHAMPIONSHIP IN ATLANTA",
-        "summary": "Scenarios for who Georgia will play in the final SEC Championship in Atlanta. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "Scenarios for who Georgia will play in the final SEC Championship in Atlanta",
-        "summary": "Scenarios for who Georgia will play in the final SEC Championship in Atlanta. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      }
-    },
-    {
-      "id": "8e6b4de6128d49467e0287f49511b7c0",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "EARNINGS INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "10:45 UTC",
-      "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVm9BOUZvRjAzdTlBWDNfNThnUnB2ckpYWHU2RXZVYnFSV1pHc0NGbWpDeGpGQy1EYlpQZ2lMdmpnVmNlYnRFUEFhb2Jsazl5dG1rLWR5VWtWSndQVGlPWUR3LVUzeThfVUU0VjdFR3RuRzZYSjhlalVscHJ6RWo1NjdrWnk?oc=5",
-      "en": {
-        "title": "IT’S AN EARNINGS BUBBLE, NOT A VALUATION BUBBLE",
-        "summary": "It’s an earnings bubble, not a valuation bubble. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "It’s an earnings bubble, not a valuation bubble",
-        "summary": "It’s an earnings bubble, not a valuation bubble. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      }
-    },
-    {
-      "id": "a23f407fa33999a5d314851dcae58f5d",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BULLISH",
-      "impact_score": 9,
-      "tickers": [
-        "$SPY"
-      ],
-      "published_at": "10:45 UTC",
-      "source_link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-      "en": {
-        "title": "THE TECH ROUT SHOULD BOTTOM SOON, WITH A 25% RALLY FOR THE S&P 500 TO FOLLOW, SAYS DEUTSCHE BANK",
-        "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
-        "key_point": "[$SPY | IMPACT: 9/10] Positive momentum catalyst for $SPY; monitor breakout volume and long positioning."
-      },
-      "bn": {
-        "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-        "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
-        "key_point": "[$SPY | IMPACT: 9/10] Positive momentum catalyst for $SPY; monitor breakout volume and long positioning."
-      }
-    },
-    {
-      "id": "533bb18de95ac7ebd28bfd85c275fec3",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "SECURITY ALERT",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$BTC"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "en": {
-        "title": "BRAIINS WARNS OF BITCOIN MINING ATTACKS AFFECTING OVER 1,000 SITES",
-        "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards.",
-        "key_point": "[$BTC | IMPACT: 10/10] Downside pressure expected on $BTC; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "ব্রেইন্স বিটকয়েন মাইনিং আক্রমণ সম্পর্কে সতর্ক করে যা 1,000 টিরও বেশি সাইটকে প্রভাবিত করে৷",
-        "summary": "বিটকয়েন মাইনিং পুল অপারেটর ব্রেইনস সতর্ক করেছেন যে আক্রমণকারীরা খনির কম্পিউটিং শক্তি হাইজ্যাক করতে এবং সম্ভাব্য পুরস্কার চুরি করার জন্য অসুরক্ষিত সংযোগগুলিকে কাজে লাগাচ্ছে।",
-        "key_point": "[$BTC | প্রভাব: 10/10] $BTC-তে প্রত্যাশিত নিম্নমুখী চাপ; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "08eb9bfa071648bba30351549194a833",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 10,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "en": {
-        "title": "THIRTY-ONE KILLED IN MASSIVE FIRE AS FUEL TANKER CRASHES ON CAIRO HIGHWAY",
-        "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-        "key_point": "[$MACRO | IMPACT: 10/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "কায়রোর মহাসড়কে জ্বালানি ট্যাঙ্কার বিধ্বস্ত হয়ে ব্যাপক অগ্নিকাণ্ডে ৩১ জনের মৃত্যু হয়েছে",
-        "summary": "মিশরের রাজধানীতে একটি ব্যস্ত রিং রোডে ট্যাঙ্কারটি উল্টে যাওয়ার পরে আরও 21 জন আহত হয়েছে।",
-        "key_point": "[$MACRO | প্রভাব: 10/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "1a2121b538b2c92ed5207a28c7a30b37",
-      "category": "stock",
-      "is_urgent": true,
-      "badge": "EARNINGS INTEL",
-      "sentiment": "BULLISH",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "en": {
-        "title": "HP’S STOCK IS A STANDOUT GAINER IN THE TECH SELLOFF, AS AN EARNINGS BEAT STILL MATTERS",
-        "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Positive momentum catalyst for $MACRO; monitor breakout volume and long positioning."
-      },
-      "bn": {
-        "title": "এইচপির স্টক প্রযুক্তিগত বিক্রয়ের ক্ষেত্রে একটি স্ট্যান্ডআউট লাভার, কারণ উপার্জনের হার এখনও গুরুত্বপূর্ণ",
-        "summary": "পিসি নির্মাতার 'নিম্ন-মানের' বীট প্রযুক্তিগত রাউটের মধ্যে তার শেয়ারগুলিকে চালিত করার জন্য যথেষ্ট।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-এর জন্য ইতিবাচক গতির অনুঘটক; ব্রেকআউট ভলিউম এবং দীর্ঘ অবস্থান নিরীক্ষণ।"
-      }
-    },
-    {
-      "id": "c7752b93f901198c878225e54fce95bb",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-      "en": {
-        "title": "EU BANK WATCHDOG SEEKS EUROPEAN COMMISSION RULES FOR CRYPTO FIRMS OFFERING DEFI LENDING",
-        "summary": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "ইইউ ব্যাঙ্ক ওয়াচডগ ক্রিপ্টো ফার্মগুলির জন্য ইউরোপীয় কমিশনের নিয়ম চায় যারা DeFi ঋণ প্রদান করে",
-        "summary": "ইইউ ব্যাঙ্ক ওয়াচডগ ক্রিপ্টো ফার্মগুলির জন্য ইউরোপীয় কমিশনের নিয়ম চায় যারা DeFi ঋণ প্রদান করে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "3f90eed5566c2b2232efb19595f0d277",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-      "en": {
-        "title": "EU PROPOSES $54.7 BILLION FUND FOR AI, QUANTUM STARTUPS ALONGSIDE POST-QUANTUM SECURITY PUSH",
-        "summary": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push. Institutional desks are monitoring order book liquidity and sector positioning following this development.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ইইউ পোস্ট-কোয়ান্টাম নিরাপত্তা পুশের পাশাপাশি AI, কোয়ান্টাম স্টার্টআপের জন্য $54.7 বিলিয়ন তহবিল প্রস্তাব করেছে",
-        "summary": "ইইউ AI, কোয়ান্টাম স্টার্টআপের জন্য পোস্ট-কোয়ান্টাম নিরাপত্তা পুশের পাশাপাশি $54.7 বিলিয়ন তহবিল প্রস্তাব করেছে। প্রাতিষ্ঠানিক ডেস্কগুলি এই বিকাশের পরে অর্ডার বুকের তারল্য এবং সেক্টরের অবস্থান পর্যবেক্ষণ করছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "f1581d0f4801dd8381dc0d0dc3a4345f",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$ETH"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "en": {
-        "title": "ETHEREUM FOUNDATION BACKS KECCAK-256 TO COUNTER QUANTUM, AI THREATS",
-        "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.",
-        "key_point": "[$ETH | IMPACT: 9/10] Expect elevated two-way volatility in $ETH; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ইথেরিয়াম ফাউন্ডেশন কোয়ান্টাম, এআই হুমকি মোকাবেলায় Keccak-256 সমর্থন করে",
-        "summary": "Ethlabs সহ-প্রতিষ্ঠাতা জুলিয়ান মা Cointelegraph কে বলেছেন যে AI আরও তাৎক্ষণিক হুমকির সৃষ্টি করেছে কারণ Ethereum একত্রিত হওয়ার পর থেকে এটির সবচেয়ে বড় নিরাপত্তা ওভারহলের জন্য প্রস্তুত হচ্ছে।",
-        "key_point": "[$ETH | প্রভাব: 9/10] $ETH-এ উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "d520f62c0aede81382c7da367b63b6c8",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "EARNINGS INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$NVDA"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "en": {
-        "title": "NVIDIA AGREES TO $290M SETTLEMENT OVER CRYPTO MINING REVENUE DISCLOSURES",
-        "summary": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry.",
-        "key_point": "[$NVDA | IMPACT: 9/10] Downside pressure expected on $NVDA; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "Nvidia ক্রিপ্টো খনির রাজস্ব প্রকাশের জন্য $290M নিষ্পত্তিতে সম্মত হয়েছে",
-        "summary": "প্রস্তাবিত নিষ্পত্তিটি 2018 সালের একটি শেয়ারহোল্ডার মামলার সমাধান করবে যা অভিযোগ করেছে যে এনভিডিয়া ক্রিপ্টোকারেন্সি শিল্পে তার এক্সপোজার সম্পর্কে বিনিয়োগকারীদের বিভ্রান্ত করেছে।",
-        "key_point": "[$NVDA | প্রভাব: 9/10] $NVDA-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "f5fa406777d69a2fc593c1545caec193",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$NFLX"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "en": {
-        "title": "EX-FTX COO CALLS OUT NETFLIX OVER CZ’S ‘ASIAN MAFIA’ PORTRAYAL",
-        "summary": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse.",
-        "key_point": "[$NFLX | IMPACT: 9/10] Expect elevated two-way volatility in $NFLX; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "প্রাক্তন এফটিএক্স সিওও সিজেডের 'এশিয়ান মাফিয়া' চিত্রণ নিয়ে নেটফ্লিক্সকে ডাকলেন",
-        "summary": "কনস্ট্যান্স ওয়েং বলেছেন যে নেটফ্লিক্স CZ এর চিত্রায়নে বর্ণবাদী স্টেরিওটাইপ ব্যবহার করেছে এবং এক্সচেঞ্জের পতনের আগে FTX-এ জীবনকে ভুলভাবে উপস্থাপন করেছে।",
-        "key_point": "[$NFLX | প্রভাব: 9/10] $NFLX-এ উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "96da97f755ccd611926fb7be034ba0cb",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "en": {
-        "title": "US ANNOUNCES NEW TARIFFS ON HOST OF COUNTRIES INCLUDING CHINA",
-        "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "চীনসহ দেশগুলোর ওপর নতুন শুল্ক আরোপ করেছে যুক্তরাষ্ট্র",
-        "summary": "নতুন শুল্ক চীন এবং ইইউ সহ আমেরিকার অনেক বড় বাণিজ্যিক অংশীদারকে আঘাত করবে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
-      }
-    },
-    {
-      "id": "8c6497d315ea9890494361063fb5999d",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "en": {
-        "title": "NORTH KOREA EXPELS SWISS DIPLOMAT IN SANCTIONS ROW",
-        "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "নিষেধাজ্ঞার জেরে সুইস কূটনীতিককে বহিষ্কার করেছে উত্তর কোরিয়া",
-        "summary": "সুইস কর্মকর্তারা বলেছেন, বার্নে উত্তর কোরিয়ার দূতাবাস এবং বেইজিংয়ে তাদের নিজস্ব দূতাবাসের মাধ্যমে সম্পর্ক রাখা হবে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "766e02a0f635614e1d6b431033c8be78",
-      "category": "war",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "BEARISH",
-      "impact_score": 9,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "en": {
-        "title": "MY FAMILY WERE KILLED IN UKRAINE. MY MUM BLAMED ZELENSKY'S TROOPS",
-        "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-        "key_point": "[$MACRO | IMPACT: 9/10] Downside pressure expected on $MACRO; watch support levels and institutional hedging flows."
-      },
-      "bn": {
-        "title": "আমার পরিবারকে ইউক্রেনে হত্যা করা হয়েছে। আমার মা জেলেনস্কির সৈন্যদের দোষ দিয়েছেন",
-        "summary": "বিবিসি সাংবাদিক আনাস্তাসিয়া গ্রিবানোয়া তদন্ত করছেন যে যুদ্ধে তার বাবা ও দাদা-দাদি কে হত্যা করেছে।",
-        "key_point": "[$MACRO | প্রভাব: 9/10] $MACRO-তে নিম্নমুখী চাপ প্রত্যাশিত; সাপোর্ট লেভেল এবং প্রাতিষ্ঠানিক হেজিং প্রবাহ দেখুন।"
-      }
-    },
-    {
-      "id": "d699069a72eaf9c583e2a9f6a1f0a5ee",
-      "category": "crypto",
-      "is_urgent": true,
-      "badge": "BREAKING INTEL",
-      "sentiment": "HIGH VOLATILITY",
-      "impact_score": 8,
-      "tickers": [
-        "$MACRO"
-      ],
-      "published_at": "01:59 UTC",
-      "source_link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "en": {
-        "title": "UKRAINE PASSES BILL TO LEGALIZE CRYPTO AND TAX PROFITS AT 23%",
-        "summary": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
-        "key_point": "[$MACRO | IMPACT: 8/10] Expect elevated two-way volatility in $MACRO; keep tight risk parameters."
-      },
-      "bn": {
-        "title": "ইউক্রেন 23% হারে ক্রিপ্টো এবং ট্যাক্স লাভকে বৈধ করার বিল পাস করেছে",
-        "summary": "ইউক্রেনের সংসদ তিন বছরের আইনী কাজের পরে একটি ক্রিপ্টো রেগুলেশন বিল পাস করেছে, নতুন নিয়মগুলি জুলাই 2027 এ কার্যকর হবে।",
-        "key_point": "[$MACRO | প্রভাব: 8/10] $MACRO-তে উচ্চতর দ্বি-মুখী অস্থিরতা প্রত্যাশা করুন; আঁট ঝুঁকি পরামিতি রাখুন."
       }
     }
   ]
